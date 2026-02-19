@@ -1,0 +1,159 @@
+{
+  "TMNT1989": {
+    "name": "Teenage Mutant Ninja Turtles",
+    "platforms": [
+      "NES"
+    ],
+    "release_year": 1989,
+    "playable_characters": [
+      {
+        "name": "Leonardo",
+        "combat_style": "Katana-based ninjutsu with fast slashes and acrobatic moves"
+      },
+      {
+        "name": "Michelangelo",
+        "combat_style": "Nunchaku ninjutsu with combo chains and agile attacks"
+      },
+      {
+        "name": "Donatello",
+        "combat_style": "Bo staff-based ninjutsu emphasizing reach and sweeping attacks"
+      },
+      {
+        "name": "Raphael",
+        "combat_style": "Sai-based close combat with rapid strikes and counters"
+      }
+    ],
+    "martial_arts_used": [
+      "Ninjutsu",
+      "Weapon-based martial arts",
+      "Acrobatic combat"
+    ],
+    "youtube_trailer": "https://www.youtube.com/watch?v=JKU4VP6Xiug",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Teenage+Mutant+Ninja+Turtles+NES+gameplay+combat",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_(1989_video_game)",
+      "igdb": "https://www.igdb.com/games/teenage-mutant-ninja-turtles",
+      "gamespot": "https://www.gamespot.com/games/teenage-mutant-ninja-turtles/)",
+      "google": "https://www.google.com/search?q=Teenage+Mutant+Ninja+Turtles+NES"
+    }
+  },
+  "TMNTTurtlesInTime": {
+    "name": "Teenage Mutant Ninja Turtles: Turtles in Time",
+    "platforms": [
+      "SNES"
+    ],
+    "release_year": 1991,
+    "playable_characters": [
+      {
+        "name": "Leonardo",
+        "combat_style": "Katana-based ninjutsu with sweeping combos and counters"
+      },
+      {
+        "name": "Michelangelo",
+        "combat_style": "Nunchaku ninjutsu emphasizing rapid, acrobatic strikes"
+      },
+      {
+        "name": "Donatello",
+        "combat_style": "Bo staff combat with extended reach and juggling moves"
+      },
+      {
+        "name": "Raphael",
+        "combat_style": "Sai close-quarters combat with quick stabs and throws"
+      }
+    ],
+    "martial_arts_used": [
+      "Ninjutsu",
+      "Weapon-based martial arts",
+      "Acrobatic combat"
+    ],
+    "youtube_trailer": "https://www.youtube.com/watch?v=mQ5opDsO5Y4",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=TMNT+Turtles+in+Time+SNES+gameplay+combat",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles:_Turtles_in_Time",
+      "igdb": "https://www.igdb.com/games/teenage-mutant-ninja-turtles-turtles-in-time",
+      "gamespot": "https://www.gamespot.com/games/teenage-mutant-ninja-turtles-turtles-in-time/",
+      "google": "https://www.google.com/search?q=TMNT+Turtles+in+Time+SNES"
+    }
+  },
+  "TMNT2003": {
+    "name": "Teenage Mutant Ninja Turtles",
+    "platforms": [
+      "PlayStation 2",
+      "GameCube",
+      "Xbox"
+    ],
+    "release_year": 2003,
+    "playable_characters": [
+      {
+        "name": "Leonardo",
+        "combat_style": "Katana-based ninjutsu with fast combos and aerial attacks"
+      },
+      {
+        "name": "Michelangelo",
+        "combat_style": "Nunchaku ninjutsu with fluid, acrobatic sequences"
+      },
+      {
+        "name": "Donatello",
+        "combat_style": "Bo staff combat emphasizing reach, juggles, and counters"
+      },
+      {
+        "name": "Raphael",
+        "combat_style": "Sai close-quarters combat with aggressive strikes"
+      }
+    ],
+    "martial_arts_used": [
+      "Ninjutsu",
+      "Weapon-based martial arts",
+      "Acrobatic combat"
+    ],
+    "youtube_trailer": "https://www.youtube.com/watch?v=LxHO2YdNaPY",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Teenage+Mutant+Ninja+Turtles+2003+gameplay+combat",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_(2003_video_game)",
+      "igdb": "https://www.igdb.com/games/teenage-mutant-ninja-turtles-2003",
+      "gamespot": "https://www.gamespot.com/games/teenage-mutant-ninja-turtles-2003/",
+      "google": "https://www.google.com/search?q=Teenage+Mutant+Ninja+Turtles+2003+PS2"
+    }
+  },
+  "TMNTMutantsInManhattan": {
+    "name": "Teenage Mutant Ninja Turtles: Mutants in Manhattan",
+    "platforms": [
+      "PlayStation 3",
+      "PlayStation 4",
+      "Xbox 360",
+      "Xbox One"
+    ],
+    "release_year": 2016,
+    "playable_characters": [
+      {
+        "name": "Leonardo",
+        "combat_style": "Katana-based ninjutsu with combo chains and aerial attacks"
+      },
+      {
+        "name": "Michelangelo",
+        "combat_style": "Nunchaku ninjutsu with high-mobility strikes"
+      },
+      {
+        "name": "Donatello",
+        "combat_style": "Bo staff combat emphasizing juggles and reach"
+      },
+      {
+        "name": "Raphael",
+        "combat_style": "Sai-based close combat with aggressive combos"
+      }
+    ],
+    "martial_arts_used": [
+      "Ninjutsu",
+      "Weapon-based martial arts",
+      "Acrobatic combat"
+    ],
+    "youtube_trailer": "https://www.youtube.com/watch?v=hO_jtTw87kw",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=TMNT+Mutants+in+Manhattan+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles:_Mutants_in_Manhattan",
+      "igdb": "https://www.igdb.com/games/teenage-mutant-ninja-turtles-mutants-in-manhattan",
+      "gamespot": "https://www.gamespot.com/games/teenage-mutant-ninja-turtles-mutants-in-manhattan/",
+      "google": "https://www.google.com/search?q=TMNT+Mutants+in+Manhattan+PS4"
+    }
+  }
+}

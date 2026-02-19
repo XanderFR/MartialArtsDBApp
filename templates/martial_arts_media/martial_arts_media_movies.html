@@ -1,0 +1,181 @@
+{% from "macros/nav.html" import navbar %}
+{% from "macros/footer.html" import footer %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Karate Movies</title>
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+
+<style>
+    .navbar {
+        margin-bottom: 12px;
+        border-radius: 6px;
+        border: 1px solid #ddd;
+    }
+
+    .details-panel {
+        border: 1px solid #ddd;
+        border-radius: 6px;
+        padding: 15px;
+        margin-bottom: 20px;
+        background-color: #f9f9f9;
+    }
+
+    .video-frame {
+        width: 100%;
+        aspect-ratio: 16 / 9;
+        border-radius: 6px;
+        border: none;
+    }
+
+    .button-stack a {
+        margin-bottom: 8px;
+    }
+</style>
+</head>
+
+<body style="text-align: center;">
+
+{{ navbar() }}
+
+
+<header class="mb-4">
+    <!-- DROPDOWN BUTTON -->
+    <div class="dropdown mb-2">
+        <button
+            class="btn btn-primary dropdown-toggle"
+            type="button"
+            data-bs-toggle="dropdown"
+            aria-expanded="false">
+            Choose your Style
+        </button>
+
+        <ul class="dropdown-menu">
+            {% for name, slug in martial_arts_names_dict.items() %}
+                <li>
+                    <a class="dropdown-item" href="{{ url_for('martial_arts_movies', art_key=slug ) }}">
+                        {{ name }}
+                    </a>
+                </li>
+            {% endfor %}
+        </ul>
+    </div>
+    <h1>{{ target_style }}</h1>
+    <section id="intro" class="container">
+        <div class="text-center mb-5">
+            <p class="text-muted">
+                Movies that heavily feature martial arts have a powerful way of inspiring audiences to try the
+                discipline themselves. The cinematic presentation—slow-motion sequences, choreographed duels, and
+                dramatic displays of skill—makes martial arts feel thrilling and almost larger than life. Beyond the
+                spectacle, these films often highlight the dedication, discipline, and resilience required to master the
+                craft, showing that it’s as much about mental focus as physical prowess. Watching heroes triumph over
+                adversity with their martial arts abilities can motivate viewers to seek out that same sense of
+                confidence, control, and empowerment in their own lives. In this way, martial arts movies can turn
+                admiration into action, encouraging people to step into dojos and begin their own journey in the art.
+            </p>
+        </div>
+    </section>
+</header>
+
+<div class="container">
+
+{% for key, movie in movies.items() %}
+
+    <!-- Navbar Row -->
+    <nav class="navbar navbar-light bg-white">
+        <div class="container-fluid">
+
+            <!-- Movie Name -->
+            <span class="navbar-brand mb-0 h5">
+                {{ movie.name }}
+            </span>
+
+            <!-- Hamburger Toggle -->
+            <button class="navbar-toggler"
+                    type="button"
+                    data-bs-toggle="collapse"
+                    data-bs-target="#details-{{ loop.index }}"
+                    aria-expanded="false">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+        </div>
+    </nav>
+
+    <!-- Expandable Details Panel -->
+    <div class="collapse" id="details-{{ loop.index }}">
+        <div class="details-panel">
+
+            <div class="row align-items-start">
+
+                <!-- LEFT: YouTube Trailer -->
+                <div class="col-md-3 text-center mb-3 mb-md-0">
+                    <iframe
+                        class="video-frame"
+                        src="{{ movie.youtube.trailer | replace('youtu.be/', 'www.youtube.com/embed/') }}"
+                        allowfullscreen>
+                    </iframe>
+                </div>
+
+                <!-- CENTER: Movie Details -->
+                <div class="col-md-6 text-start mb-3 mb-md-0">
+                    <h5>{{ movie.name }}</h5>
+
+                    <p class="mb-1"><strong>Format:</strong> {{ movie.format }}</p>
+                    <p class="mb-1"><strong>Release Year:</strong> {{ movie.release_year }}</p>
+                    <p class="mb-1">
+                        <strong>Genre:</strong>
+                        {{ movie.genre | join(', ') }}
+                    </p>
+                    <p class="mb-1"><strong>Language:</strong> {{ movie.language }}</p>
+
+                    <p class="mt-3 text-muted">
+                        {{ movie.logline }}
+                    </p>
+                </div>
+
+                <!-- RIGHT: Links -->
+                <div class="col-md-3 text-center button-stack">
+
+                    <a href="{{ movie.youtube.fight_scenes_search }}"
+                       target="_blank"
+                       class="btn btn-danger btn-sm w-100">
+                        Fight Scenes
+                    </a>
+
+                    <a href="{{ movie.imdb_link }}"
+                       target="_blank"
+                       class="btn btn-dark btn-sm w-100">
+                        IMDb
+                    </a>
+
+                    <a href="{{ movie.wikipedia_link }}"
+                       target="_blank"
+                       class="btn btn-primary btn-sm w-100">
+                        Wikipedia
+                    </a>
+
+                    <a href="{{ movie.google_link }}"
+                       target="_blank"
+                       class="btn btn-secondary btn-sm w-100">
+                        Google
+                    </a>
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+{% endfor %}
+</div>
+
+{{ footer() }}
+
+</body>
+</html>

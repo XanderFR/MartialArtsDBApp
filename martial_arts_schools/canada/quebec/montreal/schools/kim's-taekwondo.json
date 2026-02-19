@@ -1,0 +1,10 @@
+{
+  "id": "kim's-taekwondo",
+  "name": "Kim's Taekwondo",
+  "styles_taught": ["Taekwondo"],
+  "address": "6434 Av. Somerled, Montreal, QC H4V 1S3",
+  "phone": "+15144814008",
+  "links": {
+    "website": "http://www.kimstaekwondo.ca/"
+  }
+}

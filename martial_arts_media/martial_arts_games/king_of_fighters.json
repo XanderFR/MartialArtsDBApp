@@ -1,0 +1,351 @@
+{
+  "KingOfFighters94": {
+    "name": "The King of Fighters '94",
+    "platforms": ["Neo Geo", "PlayStation", "Sega Saturn"],
+    "release_year": 1994,
+    "playable_characters": [
+      { "name": "Kyo Kusanagi", "combat_style": "Kusanagi-style martial arts with fire-based special attacks" },
+      { "name": "Benimaru Nikaido", "combat_style": "Electric kick-based martial arts with acrobatic strikes" },
+      { "name": "Goro Daimon", "combat_style": "Judo and grappling martial arts" },
+      { "name": "Terry Bogard", "combat_style": "Kickboxing and powerful punches" },
+      { "name": "Andy Bogard", "combat_style": "Shiranui-style ninjutsu" },
+      { "name": "Joe Higashi", "combat_style": "Muay Thai striking" }
+    ],
+    "martial_arts_used": ["Karate","Kickboxing","Judo","Muay Thai","Tae Kwon Do","Ninjutsu","Hybrid fighting"],
+    "youtube_trailer": "https://www.youtube.com/watch?v=GRjz_uYk7HA",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=The+King+of+Fighters+94+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/The_King_of_Fighters_%2794",
+      "igdb": "https://www.igdb.com/games/the-king-of-fighters-94",
+      "gamespot": "https://www.gamespot.com/games/the-king-of-fighters-94/",
+      "google": "https://www.google.com/search?q=The+King+of+Fighters+94"
+    }
+  },
+
+  "KingOfFighters95": {
+    "name": "The King of Fighters '95",
+    "platforms": ["Neo Geo", "PlayStation", "Sega Saturn"],
+    "release_year": 1995,
+    "playable_characters": [
+      { "name": "Kyo Kusanagi", "combat_style": "Kusanagi-style martial arts with enhanced combos and flame attacks" },
+      { "name": "Iori Yagami", "combat_style": "Yagami-style martial arts with aggressive counters and purple flames" },
+      { "name": "Benimaru Nikaido", "combat_style": "Electric kick-based martial arts" },
+      { "name": "Goro Daimon", "combat_style": "Judo and grappling martial arts" },
+      { "name": "Terry Bogard", "combat_style": "Kickboxing" },
+      { "name": "Andy Bogard", "combat_style": "Shiranui ninjutsu" },
+      { "name": "Joe Higashi", "combat_style": "Muay Thai" }
+    ],
+    "martial_arts_used": ["Karate","Kickboxing","Judo","Muay Thai","Tae Kwon Do","Ninjutsu","Hybrid fighting"],
+    "youtube_trailer": "https://www.youtube.com/watch?v=OKX80xexeCA",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=The+King+of+Fighters+95+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/The_King_of_Fighters_%2795",
+      "igdb": "https://www.igdb.com/games/the-king-of-fighters-95",
+      "gamespot": "https://www.gamespot.com/games/the-king-of-fighters-95/",
+      "google": "https://www.google.com/search?q=The+King+of+Fighters+95"
+    }
+  },
+
+  "KingOfFighters96": {
+    "name": "The King of Fighters '96",
+    "platforms": ["Neo Geo", "PlayStation", "Sega Saturn"],
+    "release_year": 1996,
+    "playable_characters": [
+      { "name": "Kyo Kusanagi", "combat_style": "Kusanagi-style martial arts with refined combos and heat-based attacks" },
+      { "name": "Chizuru Kagura", "combat_style": "Elegant martial arts with projectile-based techniques and counters" },
+      { "name": "Iori Yagami", "combat_style": "Yagami-style cursed flame combat" },
+      { "name": "Benimaru Nikaido", "combat_style": "Electric kick-based martial arts" },
+      { "name": "Goro Daimon", "combat_style": "Judo and grappling martial arts" },
+      { "name": "Terry Bogard", "combat_style": "Kickboxing" },
+      { "name": "Andy Bogard", "combat_style": "Shiranui ninjutsu" },
+      { "name": "Joe Higashi", "combat_style": "Muay Thai" }
+    ],
+    "martial_arts_used": ["Karate","Kickboxing","Judo","Muay Thai","Tae Kwon Do","Ninjutsu","Projectile combat","Hybrid fighting"],
+    "youtube_trailer": "https://www.youtube.com/watch?v=OKX80xexeCA",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=The+King+of+Fighters+96+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/The_King_of_Fighters_%2796",
+      "igdb": "https://www.igdb.com/games/the-king-of-fighters-96",
+      "gamespot": "https://www.gamespot.com/games/the-king-of-fighters-96/",
+      "google": "https://www.google.com/search?q=The+King+of+Fighters+96"
+    }
+  },
+
+  "KingOfFighters97": {
+    "name": "The King of Fighters '97",
+    "platforms": ["Neo Geo", "PlayStation", "Sega Saturn"],
+    "release_year": 1997,
+    "playable_characters": [
+      { "name": "Kyo Kusanagi", "combat_style": "Kusanagi-style martial arts with high-speed combos and heat attacks" },
+      { "name": "Iori Yagami", "combat_style": "Yagami-style martial arts with aggressive counters and flame techniques" },
+      { "name": "Chizuru Kagura", "combat_style": "Elegant martial arts with counters" },
+      { "name": "Benimaru Nikaido", "combat_style": "Electric kick-based martial arts" },
+      { "name": "Goro Daimon", "combat_style": "Judo grappling" },
+      { "name": "Terry Bogard", "combat_style": "Kickboxing" },
+      { "name": "Andy Bogard", "combat_style": "Shiranui ninjutsu" },
+      { "name": "Joe Higashi", "combat_style": "Muay Thai" }
+    ],
+    "martial_arts_used": ["Karate","Kickboxing","Judo","Muay Thai","Tae Kwon Do","Ninjutsu","Hybrid fighting"],
+    "youtube_trailer": "https://www.youtube.com/watch?v=infHW013PH0",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=The+King+of+Fighters+97+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/The_King_of_Fighters_%2797",
+      "igdb": "https://www.igdb.com/games/the-king-of-fighters-97",
+      "gamespot": "https://www.gamespot.com/games/the-king-of-fighters-97/",
+      "google": "https://www.google.com/search?q=The+King+of+Fighters+97"
+    }
+  },
+
+  "KingOfFighters98": {
+    "name": "The King of Fighters '98",
+    "platforms": ["Neo Geo", "PlayStation", "Dreamcast"],
+    "release_year": 1998,
+    "playable_characters": [
+      { "name": "Kyo Kusanagi", "combat_style": "Balanced martial arts with enhanced combo options and special attacks" },
+      { "name": "Iori Yagami", "combat_style": "Aggressive martial arts with flame-based techniques and counters" },
+      { "name": "Chizuru Kagura", "combat_style": "Elegant defensive martial arts" },
+      { "name": "Benimaru Nikaido", "combat_style": "Electric kick-based martial arts" },
+      { "name": "Goro Daimon", "combat_style": "Judo and grappling martial arts" },
+      { "name": "Terry Bogard", "combat_style": "Kickboxing" },
+      { "name": "Andy Bogard", "combat_style": "Shiranui ninjutsu" },
+      { "name": "Joe Higashi", "combat_style": "Muay Thai" }
+    ],
+    "martial_arts_used": ["Karate","Kickboxing","Judo","Muay Thai","Tae Kwon Do","Ninjutsu","Hybrid fighting"],
+    "youtube_trailer": "https://www.youtube.com/watch?v=9EBzZzy5Y9A",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=The+King+of+Fighters+98+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/The_King_of_Fighters_%2798",
+      "igdb": "https://www.igdb.com/games/the-king-of-fighters-98",
+      "gamespot": "https://www.gamespot.com/games/the-king-of-fighters-98/",
+      "google": "https://www.google.com/search?q=The+King+of+Fighters+98"
+    }
+  },
+
+  "KingOfFighters99": {
+    "name": "The King of Fighters '99",
+    "platforms": ["Neo Geo", "Dreamcast", "PlayStation 2"],
+    "release_year": 1999,
+    "playable_characters": [
+      { "name": "Kyo Kusanagi", "combat_style": "Kusanagi-style martial arts with fire-based attacks" },
+      { "name": "Iori Yagami", "combat_style": "Yagami-style cursed flame combat" },
+      { "name": "K'", "combat_style": "Heat-based hybrid combat with gloves" },
+      { "name": "Maxima", "combat_style": "Cyborg enhanced grappling and energy attacks" },
+      { "name": "Terry Bogard", "combat_style": "Powerful kickboxing and punches" },
+      { "name": "Andy Bogard", "combat_style": "Shiranui-style ninjutsu" },
+      { "name": "Joe Higashi", "combat_style": "Muay Thai striking" },
+      { "name": "Kim Kaphwan", "combat_style": "Tae Kwon Do techniques" },
+      { "name": "Choi Bounge", "combat_style": "Speed-based claw strikes" },
+      { "name": "Chang Koehan", "combat_style": "Heavy grappling combat with ball weapon" },
+      { "name": "Leona Heidern", "combat_style": "Military assassination techniques" },
+      { "name": "Rugal Bernstein", "combat_style": "Dark energy hybrid combat" }
+    ],
+    "martial_arts_used": ["Karate","Kickboxing","Judo","Muay Thai","Tae Kwon Do","Chinese martial arts","Military combat","Ninjutsu","Supernatural combat","Hybrid fighting"],
+    "youtube_trailer": "https://www.youtube.com/watch?v=KPsE_z0OfTI",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=The+King+of+Fighters+99+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/The_King_of_Fighters_%2799",
+      "igdb": "https://www.igdb.com/games/the-king-of-fighters-99",
+      "gamespot": "https://www.gamespot.com/games/the-king-of-fighters-99/",
+      "google": "https://www.google.com/search?q=The+King+of+Fighters+99"
+    }
+  },
+
+  "KingOfFighters2000": {
+    "name": "The King of Fighters 2000",
+    "platforms": ["Neo Geo", "Dreamcast", "PlayStation 2"],
+    "release_year": 2000,
+    "playable_characters": [
+      { "name": "K'", "combat_style": "Heat-based hybrid martial arts with combo attacks" },
+      { "name": "Maxima", "combat_style": "Cyborg-enhanced punches and grapples" },
+      { "name": "Kyo Kusanagi", "combat_style": "Kusanagi-style fire martial arts" },
+      { "name": "Iori Yagami", "combat_style": "Yagami-style cursed flame attacks" },
+      { "name": "Terry Bogard", "combat_style": "Kickboxing and power strikes" },
+      { "name": "Andy Bogard", "combat_style": "Shiranui ninjutsu techniques" },
+      { "name": "Joe Higashi", "combat_style": "Muay Thai" },
+      { "name": "Kim Kaphwan", "combat_style": "Tae Kwon Do" },
+      { "name": "Leona Heidern", "combat_style": "Military assassination combat" },
+      { "name": "Rugal Bernstein", "combat_style": "Hybrid dark energy combat" },
+      { "name": "Orochi", "combat_style": "Divine energy-based combat" }
+    ],
+    "martial_arts_used": ["Karate","Kickboxing","Judo","Muay Thai","Tae Kwon Do","Ninjutsu","Military combat","Supernatural combat","Hybrid fighting"],
+    "youtube_trailer": "https://www.youtube.com/watch?v=iL5r3vUj_2k",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=The+King+of+Fighters+2000+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/The_King_of_Fighters_2000",
+      "igdb": "https://www.igdb.com/games/the-king-of-fighters-2000",
+      "gamespot": "https://www.gamespot.com/games/the-king-of-fighters-2000/",
+      "google": "https://www.google.com/search?q=The+King+of+Fighters+2000"
+    }
+  },
+
+  "KingOfFighters2001": {
+    "name": "The King of Fighters 2001",
+    "platforms": ["Neo Geo", "Dreamcast", "PlayStation 2"],
+    "release_year": 2001,
+    "playable_characters": [
+      { "name": "K'", "combat_style": "Heat-based hybrid martial arts" },
+      { "name": "Maxima", "combat_style": "Cyborg grappling and punches" },
+      { "name": "Kyo Kusanagi", "combat_style": "Fire martial arts techniques" },
+      { "name": "Iori Yagami", "combat_style": "Cursed flame combat" },
+      { "name": "Terry Bogard", "combat_style": "Kickboxing" },
+      { "name": "Andy Bogard", "combat_style": "Shiranui ninjutsu" },
+      { "name": "Joe Higashi", "combat_style": "Muay Thai" },
+      { "name": "Kim Kaphwan", "combat_style": "Tae Kwon Do" },
+      { "name": "Leona Heidern", "combat_style": "Military techniques" },
+      { "name": "Orochi", "combat_style": "Divine energy combat" }
+    ],
+    "martial_arts_used": ["Karate","Kickboxing","Judo","Muay Thai","Tae Kwon Do","Ninjutsu","Military combat","Supernatural combat","Hybrid fighting"],
+    "youtube_trailer": "https://www.youtube.com/watch?v=BRBS3qD_6M4",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=The+King+of+Fighters+2001+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/The_King_of_Fighters_2001",
+      "igdb": "https://www.igdb.com/games/the-king-of-fighters-2001",
+      "gamespot": "https://www.gamespot.com/games/the-king-of-fighters-2001/",
+      "google": "https://www.google.com/search?q=The+King+of+Fighters+2001"
+    }
+  },
+
+  "KingOfFighters2002": {
+    "name": "The King of Fighters 2002",
+    "platforms": ["Neo Geo", "PlayStation 2", "Xbox"],
+    "release_year": 2002,
+    "playable_characters": [
+      { "name": "Kyo Kusanagi", "combat_style": "Balanced flame-based martial arts" },
+      { "name": "Iori Yagami", "combat_style": "Aggressive cursed flame martial arts" },
+      { "name": "Terry Bogard", "combat_style": "Powerful kickboxing" },
+      { "name": "Andy Bogard", "combat_style": "Shiranui ninjutsu techniques" },
+      { "name": "Joe Higashi", "combat_style": "Muay Thai" },
+      { "name": "K'", "combat_style": "Heat-based hybrid combat" },
+      { "name": "Maxima", "combat_style": "Cyborg-enhanced punches and grapples" },
+      { "name": "Leona Heidern", "combat_style": "Military assassination techniques" },
+      { "name": "Rugal Bernstein", "combat_style": "Dark energy hybrid combat" }
+    ],
+    "martial_arts_used": ["Karate","Kickboxing","Judo","Muay Thai","Tae Kwon Do","Ninjutsu","Military combat","Supernatural combat","Hybrid fighting"],
+    "youtube_trailer": "https://www.youtube.com/watch?v=5o2hSFkYYe8",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=The+King+of+Fighters+2002+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/The_King_of_Fighters_2002",
+      "igdb": "https://www.igdb.com/games/the-king-of-fighters-2002",
+      "gamespot": "https://www.gamespot.com/games/the-king-of-fighters-2002/",
+      "google": "https://www.google.com/search?q=The+King+of+Fighters+2002"
+    }
+  },
+
+  "KingOfFightersXI": {
+    "name": "The King of Fighters XI",
+    "platforms": ["Arcade", "PlayStation 2", "Wii (Japan)"],
+    "release_year": 2005,
+    "playable_characters": [
+      { "name": "Kyo Kusanagi", "combat_style": "Flame-based hybrid martial arts" },
+      { "name": "Iori Yagami", "combat_style": "Cursed flame combat with aggressive strikes" },
+      { "name": "Athena Asamiya", "combat_style": "Psychic martial arts with combos" },
+      { "name": "Sie Kensou", "combat_style": "Northern Shaolin kung fu with psychic attacks" },
+      { "name": "Rugal Bernstein", "combat_style": "Dark energy hybrid combat" },
+      { "name": "Magaki", "combat_style": "Supernatural martial arts with speed and projectiles" }
+    ],
+    "martial_arts_used": ["Karate","Kickboxing","Judo","Muay Thai","Tae Kwon Do","Ninjutsu","Psychic martial arts","Supernatural combat","Hybrid fighting"],
+    "youtube_trailer": "https://www.youtube.com/watch?v=kpD0VGfLek8",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=The+King+of+Fighters+XI+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/The_King_of_Fighters_XI",
+      "igdb": "https://www.igdb.com/games/the-king-of-fighters-xi",
+      "gamespot": "https://www.gamespot.com/games/the-king-of-fighters-xi/",
+      "google": "https://www.google.com/search?q=The+King+of+Fighters+XI"
+    }
+  },
+
+  "KingOfFightersXII": {
+    "name": "The King of Fighters XII",
+    "platforms": ["Arcade", "PlayStation 3", "Xbox 360"],
+    "release_year": 2009,
+    "playable_characters": [
+      { "name": "Kyo Kusanagi", "combat_style": "Flame-based hybrid martial arts" },
+      { "name": "Iori Yagami", "combat_style": "Cursed flame combat" },
+      { "name": "Athena Asamiya", "combat_style": "Psychic martial arts" },
+      { "name": "K'", "combat_style": "Heat-based hybrid martial arts" },
+      { "name": "Maxima", "combat_style": "Cyborg-enhanced striking and grappling" },
+      { "name": "Orochi", "combat_style": "Divine energy-based martial arts" }
+    ],
+    "martial_arts_used": ["Karate","Kickboxing","Judo","Muay Thai","Tae Kwon Do","Ninjutsu","Psychic martial arts","Supernatural combat","Hybrid fighting"],
+    "youtube_trailer": "https://www.youtube.com/watch?v=GPhVHFPqorI",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=The+King+of+Fighters+XII+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/The_King_of_Fighters_XII",
+      "igdb": "https://www.igdb.com/games/the-king-of-fighters-xii",
+      "gamespot": "https://www.gamespot.com/games/the-king-of-fighters-xii/",
+      "google": "https://www.google.com/search?q=The+King+of+Fighters+XII"
+    }
+  },
+
+  "KingOfFightersXIII": {
+    "name": "The King of Fighters XIII",
+    "platforms": ["Arcade", "PlayStation 3", "Xbox 360", "PC"],
+    "release_year": 2010,
+    "playable_characters": [
+      { "name": "Kyo Kusanagi", "combat_style": "Flame-based hybrid martial arts with combo focus" },
+      { "name": "Iori Yagami", "combat_style": "Aggressive cursed flame combat" },
+      { "name": "Chizuru Kagura", "combat_style": "Defensive sacred shrine martial arts" },
+      { "name": "Athena Asamiya", "combat_style": "Psychic-enhanced martial arts" },
+      { "name": "K'", "combat_style": "Heat-based hybrid combat" },
+      { "name": "Orochi", "combat_style": "Divine energy-based martial arts" },
+      { "name": "Rugal Bernstein", "combat_style": "Hybrid dark energy combat" }
+    ],
+    "martial_arts_used": ["Karate","Kickboxing","Judo","Muay Thai","Tae Kwon Do","Ninjutsu","Psychic martial arts","Supernatural combat","Hybrid fighting"],
+    "youtube_trailer": "https://www.youtube.com/watch?v=tHeXkdXxwPo",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=The+King+of+Fighters+XIII+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/The_King_of_Fighters_XIII",
+      "igdb": "https://www.igdb.com/games/the-king-of-fighters-xiii",
+      "gamespot": "https://www.gamespot.com/games/the-king-of-fighters-xiii/",
+      "google": "https://www.google.com/search?q=The+King+of+Fighters+XIII"
+    }
+  },
+
+  "KingOfFightersXIV": {
+    "name": "The King of Fighters XIV",
+    "platforms": ["PlayStation 4", "PC", "Arcade"],
+    "release_year": 2016,
+    "playable_characters": [
+      { "name": "Kyo Kusanagi", "combat_style": "Fire-based hybrid martial arts" },
+      { "name": "Iori Yagami", "combat_style": "Cursed flame combat with aggressive combos" },
+      { "name": "K'", "combat_style": "Heat-based hybrid martial arts" },
+      { "name": "Benimaru Nikaido", "combat_style": "Electric kick-based martial arts" },
+      { "name": "Shun'ei", "combat_style": "Chi-manipulation martial arts" },
+      { "name": "Meitenkun", "combat_style": "Street-style hybrid martial arts" },
+      { "name": "Orochi", "combat_style": "Divine energy martial arts" }
+    ],
+    "martial_arts_used": ["Karate","Kickboxing","Judo","Muay Thai","Tae Kwon Do","Ninjutsu","Hybrid fighting","Chi-based combat","Supernatural combat"],
+    "youtube_trailer": "https://www.youtube.com/watch?v=AM5s-Ad4e6s",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=The+King+of+Fighters+XIV+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/The_King_of_Fighters_XIV",
+      "igdb": "https://www.igdb.com/games/the-king-of-fighters-xiv",
+      "gamespot": "https://www.gamespot.com/games/the-king-of-fighters-xiv/",
+      "google": "https://www.google.com/search?q=The+King+of+Fighters+XIV"
+    }
+  },
+
+  "KingOfFightersXV": {
+    "name": "The King of Fighters XV",
+    "platforms": ["PlayStation 4", "PlayStation 5", "PC", "Xbox Series X/S"],
+    "release_year": 2022,
+    "playable_characters": [
+      { "name": "Kyo Kusanagi", "combat_style": "Fire-based hybrid martial arts with combos" },
+      { "name": "Iori Yagami", "combat_style": "Cursed flame martial arts with speed" },
+      { "name": "K'", "combat_style": "Heat-based hybrid combat" },
+      { "name": "Shun'ei", "combat_style": "Chi-manipulation martial arts" },
+      { "name": "Benimaru Nikaido", "combat_style": "Electric kick-based martial arts" },
+      { "name": "Meitenkun", "combat_style": "Hybrid street-style martial arts" },
+      { "name": "Orochi", "combat_style": "Divine energy combat" }
+    ],
+    "martial_arts_used": ["Karate","Kickboxing","Judo","Muay Thai","Tae Kwon Do","Ninjutsu","Hybrid fighting","Chi-based combat","Supernatural combat"],
+    "youtube_trailer": "https://www.youtube.com/watch?v=_o7Ip64-Sio",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=The+King+of+Fighters+XV+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/The_King_of_Fighters_XV",
+      "igdb": "https://www.igdb.com/games/the-king-of-fighters-xv",
+      "gamespot": "https://www.gamespot.com/games/the-king-of-fighters-xv/",
+      "google": "https://www.google.com/search?q=The+King+of+Fighters+XV"
+    }
+  }
+}

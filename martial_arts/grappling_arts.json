@@ -1,0 +1,270 @@
+{
+  "Aikido": {
+    "name": "Aikido",
+    "image": {
+      "file_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Shihonage.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Shihonage.jpg",
+      "attribution": "Magyar Balázs, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
+      "alt_text": "Two aikido practitioners demonstrate the shihonage technique, with one applying a wrist and arm throw to the other."
+    },
+    "country_of_origin": "Japan",
+    "description": [
+      "Aikido is a defensive martial art that emphasizes blending with an opponent’s movement rather than meeting force with force. It focuses on control, balance, and redirection.",
+      "Aikido was developed in Japan by Morihei Ueshiba and is rooted in traditional Japanese martial arts and philosophy. Its goal is self-defense while minimizing harm to others.",
+      "Students learn joint locks, throws, pins, and safe falling techniques. Training also develops posture, coordination, and awareness.",
+      "People practice Aikido for self-control, focus, and personal growth rather than competition."
+    ],
+    "primary_techniques": [
+      "Joint locks",
+      "Throws",
+      "Pins",
+      "Balance control"
+    ],
+    "common_uses": [
+      "Self-defense",
+      "Discipline",
+      "Personal development"
+    ],
+    "competition_format": "Typically non-competitive",
+    "benefits": [
+      "Teaches control and redirection of force.",
+      "Improves balance, posture, and coordination.",
+      "Encourages calmness and situational awareness.",
+      "Promotes non-violent conflict resolution."
+    ],
+    "famous_practitioners": [
+      "Morihei Ueshiba",
+      "Steven Seagal",
+      "Kisshomaru Ueshiba",
+      "Moriteru Ueshiba"
+    ],
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Aikido",
+    "google_search_link": "https://www.google.com/search?q=what+is+aikido%3F",
+    "youtube_search_link": "https://www.youtube.com/results?search_query=what+is+aikido%3F"
+  },
+
+  "BrazilianJiu-Jitsu": {
+    "name": "Brazilian Jiu-Jitsu",
+    "image": {
+      "file_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/GABRIEL_VELLA_vs_ROMINHO_51.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:GABRIEL_VELLA_vs_ROMINHO_51.jpg",
+      "attribution": "© John Lamonica, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
+      "alt_text": "Two Brazilian jiu-jitsu practitioners compete on the mat during a match."
+    },
+    "country_of_origin": "Brazil",
+    "description": [
+      "Brazilian Jiu-Jitsu is a grappling martial art that focuses on ground fighting and submission techniques.",
+      "It developed in Brazil from Japanese Judo and Jiu-Jitsu and emphasizes leverage and technique over strength.",
+      "Students learn takedowns, positional control, escapes, and submissions such as chokes and joint locks.",
+      "People practice BJJ for self-defense, competition, fitness, and confidence."
+    ],
+    "primary_techniques": [
+      "Grappling",
+      "Joint locks",
+      "Chokes",
+      "Ground control"
+    ],
+    "common_uses": [
+      "Sport",
+      "Self-defense",
+      "Competition",
+      "Fitness"
+    ],
+    "competition_format": "Point-based grappling with submissions",
+    "benefits": [
+      "Teaches effective ground fighting and control.",
+      "Builds problem-solving and adaptability.",
+      "Improves strength, endurance, and flexibility.",
+      "Allows smaller practitioners to overcome larger opponents using technique."
+    ],
+    "famous_practitioners": [
+      "Hélio Gracie",
+      "Rickson Gracie",
+      "Royce Gracie",
+      "Marcelo Garcia"
+    ],
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu",
+    "google_search_link": "https://www.google.com/search?q=what+is+brazilian+jiu+jitsu%3F",
+    "youtube_search_link": "https://www.youtube.com/results?search_query=what+is+brazilian+jiu+jitsu%3F"
+  },
+
+  "JapaneseJujutsu": {
+    "name": "Japanese Jujutsu",
+    "image": {
+      "file_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/JUJITSU_%28AND_RIFLES%29_in_an_agricultural_school.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:JUJITSU_(AND_RIFLES)_in_an_agricultural_school.jpg",
+      "attribution": "Unknown, Public domain, via Wikimedia Commons",
+      "alt_text": "Students practicing Japanese Jujutsu with rifles at an agricultural school."
+    },
+    "country_of_origin": "Japan",
+    "description": [
+      "Japanese Jujutsu (or Jujutsu/Koryū Jujutsu) is a traditional grappling martial art emphasizing throws, joint locks, pins, and control techniques.",
+      "It was developed by the samurai of feudal Japan as a practical method for unarmed self-defense and battlefield combat.",
+      "Training includes throws, joint manipulations, pins, and minimal strikes (atemi) primarily to set up grappling techniques.",
+      "People practice Japanese Jujutsu to improve balance, coordination, self-defense skills, and an understanding of historical martial traditions."
+    ],
+    "primary_techniques": [
+      "Throws",
+      "Joint locks",
+      "Pins",
+      "Grappling",
+      "Atemi (strikes used as setup)"
+    ],
+    "common_uses": [
+      "Self-defense",
+      "Discipline",
+      "Fitness",
+      "Historical martial study"
+    ],
+    "competition_format": "Traditional schools focus on practice and kata; modern competitions exist in some schools",
+    "benefits": [
+      "Develops balance, coordination, and body control.",
+      "Builds versatile grappling and self-defense skills.",
+      "Teaches efficient use of leverage and technique over strength.",
+      "Preserves historical Japanese martial arts knowledge."
+    ],
+    "famous_practitioners": [
+      "Matsuzaki Yoshikazu",
+      "Sagawa Yukio",
+      "Totsuka Hikosuke",
+      "Kanō Jigorō (student and adapter of jujutsu into Judo)"
+    ],
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Jujutsu",
+    "google_search_link": "https://www.google.com/search?q=what+is+japanese+jujutsu%3F",
+    "youtube_search_link": "https://www.youtube.com/results?search_query=what+is+japanese+jujutsu%3F"
+  },
+
+  "Judo": {
+    "name": "Judo",
+    "image": {
+      "file_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/KOCIS_Korea_Judo_Kim_Jaebum_London_36_%287696361164%29.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:KOCIS_Korea_Judo_Kim_Jaebum_London_36_(7696361164).jpg",
+      "attribution": "Korea.net / Korean Culture and Information Service (Photographer name), CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "alt_text": "Judo athlete Kim Jaebum performing a throw during an Olympic match."
+    },
+    "country_of_origin": "Japan",
+    "description": [
+      "Judo is a grappling martial art and Olympic sport focused on throws, pins, and control.",
+      "It was developed in Japan by Jigoro Kano from traditional Jiu-Jitsu with an emphasis on efficiency and education.",
+      "Students learn powerful throws, ground pins, submissions, and safe falling techniques.",
+      "People practice Judo for discipline, fitness, and competitive sport."
+    ],
+    "primary_techniques": [
+      "Throws",
+      "Pins",
+      "Joint locks",
+      "Grappling"
+    ],
+    "common_uses": [
+      "Sport",
+      "Competition",
+      "Fitness",
+      "Discipline"
+    ],
+    "competition_format": "Olympic-style matches",
+    "benefits": [
+      "Develops strong balance and throwing mechanics.",
+      "Teaches efficient use of energy and leverage.",
+      "Improves coordination and full-body strength.",
+      "Builds discipline and respect through structured training."
+    ],
+    "famous_practitioners": [
+      "Jigoro Kano",
+      "Yasuhiro Yamashita",
+      "Teddy Riner",
+      "Ryoko Tani"
+    ],
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Judo",
+    "google_search_link": "https://www.google.com/search?q=what+is+judo%3F",
+    "youtube_search_link": "https://www.youtube.com/results?search_query=what+is+judo%3F"
+  },
+
+  "Sambo": {
+    "name": "Sambo",
+    "image": {
+      "file_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Sambo_at_the_2015_European_Games.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Sambo_at_the_2015_European_Games.jpg",
+      "attribution": "President.az, CC BY 4.0 <https://creativecommons.org/licenses/by/4.0>, via Wikimedia Commons",
+      "alt_text": "Two athletes compete in sambo at the 2015 European Games, with one performing a throw."
+    },
+    "country_of_origin": "Russia",
+    "description": [
+      "Sambo is a grappling martial art known for its aggressive throws and submission techniques.",
+      "It was developed in the Soviet Union by combining elements of Judo and traditional wrestling styles.",
+      "Training includes takedowns, leg locks, pins, and ground control.",
+      "People practice Sambo for competitive grappling, strength, and agility."
+    ],
+    "primary_techniques": [
+      "Throws",
+      "Leg locks",
+      "Takedowns",
+      "Grappling"
+    ],
+    "common_uses": [
+      "Sport",
+      "Competition",
+      "Self-defense",
+      "Fitness"
+    ],
+    "competition_format": "Point-based matches with submissions",
+    "benefits": [
+      "Develops explosive takedowns and transitions.",
+      "Improves grip strength and body control.",
+      "Teaches aggressive yet technical grappling.",
+      "Builds resilience and competitive mindset."
+    ],
+    "famous_practitioners": [
+      "Vasily Oshchepkov",
+      "Fedor Emelianenko",
+      "Oleg Taktarov",
+      "Khabib Nurmagomedov"
+    ],
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Sambo_(martial_art)",
+    "google_search_link": "https://www.google.com/search?q=what+is+sambo%3F",
+    "youtube_search_link": "https://www.youtube.com/results?search_query=what+is+sambo%3F"
+  },
+
+  "Wrestling": {
+    "name": "Wrestling",
+    "image": {
+      "file_url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/USAFA_Wrestling_Vs_South_Dakota_State_-_Image_9_of_34.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:USAFA_Wrestling_Vs_South_Dakota_State_-_Image_9_of_34.jpg",
+      "attribution": "U.S. Air Force photo/Joshua Armstrong, Public domain, via Wikimedia Commons",
+      "alt_text": "Two wrestlers compete on the mat during a college wrestling match."
+    },
+    "country_of_origin": "Ancient (Global)",
+    "description": [
+      "Wrestling is a grappling sport that focuses on takedowns, control, and pinning an opponent.",
+      "It is one of the oldest combat sports and has existed in many cultures throughout history.",
+      "Students learn takedowns, clinching, escapes, and positional control.",
+      "People practice wrestling to develop strength, endurance, and mental toughness."
+    ],
+    "primary_techniques": [
+      "Takedowns",
+      "Pins",
+      "Clinching",
+      "Body control"
+    ],
+    "common_uses": [
+      "Sport",
+      "Competition",
+      "Fitness"
+    ],
+    "competition_format": "Timed matches with points and pins",
+    "benefits": [
+      "Builds exceptional strength and conditioning.",
+      "Improves balance, coordination, and explosiveness.",
+      "Teaches control of an opponent’s body.",
+      "Develops discipline and work ethic through intense training."
+    ],
+    "famous_practitioners": [
+      "Alexander Karelin",
+      "Dan Gable",
+      "Cael Sanderson",
+      "John Smith"
+    ],
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Wrestling",
+    "google_search_link": "https://www.google.com/search?q=what+is+wrestling%3F",
+    "youtube_search_link": "https://www.youtube.com/results?search_query=what+is+wrestling%3F"
+  }
+}

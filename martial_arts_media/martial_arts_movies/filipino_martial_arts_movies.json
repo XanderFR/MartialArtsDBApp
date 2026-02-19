@@ -1,0 +1,305 @@
+{
+  "300": {
+    "name": "300",
+    "format": "Live-Action",
+    "release_year": 2007,
+    "genre": ["Action", "Historical", "War"],
+    "language": "English",
+    "logline": "Spartan warriors use FMA-inspired combat techniques, including off-hand and blade/shield tactics, to fight the Persian army.",
+    "youtube": {
+      "trailer": "https://youtu.be/UrIbxk7idYA",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=300+2007+fma+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0416449/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/300_(2007_film)",
+    "google_link": "https://www.google.com/search?q=300+2007"
+  },
+
+  "ArnisSticksOfDeath": {
+    "name": "Arnis: The Sticks of Death",
+    "format": "Live-Action",
+    "release_year": 1984,
+    "genre": ["Action", "Adventure"],
+    "language": "Filipino",
+    "logline": "A showcase of traditional arnis combat, highlighting the deadly skill and discipline of Filipino martial arts practitioners.",
+    "youtube": {
+      "trailer": "https://youtu.be/NuHbt54mNZA",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=Arnis+Sticks+Of+Death+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0086691/",
+    "wikipedia_link": "",
+    "google_link": "https://www.google.com/search?q=Arnis+The+Sticks+of+Death+1984"
+  },
+
+  "Blade": {
+    "name": "Blade",
+    "format": "Live-Action",
+    "release_year": 1998,
+    "genre": ["Action", "Horror"],
+    "language": "English",
+    "logline": "A half-vampire vigilante fights vampires using arnis/kali sticks and knives in choreographed combat sequences.",
+    "youtube": {
+      "trailer": "https://youtu.be/kaU2A7KyOu4",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=blade+1998+fma+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0120611/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Blade_(1998_film)",
+    "google_link": "https://www.google.com/search?q=Blade+1998"
+  },
+
+  "BladeII": {
+    "name": "Blade II",
+    "format": "Live-Action",
+    "release_year": 2002,
+    "genre": ["Action", "Horror"],
+    "language": "English",
+    "logline": "Blade continues his battle against vampires using kali and arnis-based combat techniques.",
+    "youtube": {
+      "trailer": "https://youtu.be/vAUB7dcUn8o",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=blade+ii+2002+fma+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0203230/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Blade_II",
+    "google_link": "https://www.google.com/search?q=Blade+II+2002"
+  },
+
+  "BladeTrinity": {
+    "name": "Blade: Trinity",
+    "format": "Live-Action",
+    "release_year": 2004,
+    "genre": ["Action", "Horror"],
+    "language": "English",
+    "logline": "Blade teams up with a group of vampire hunters, employing advanced arnis/kali combat techniques throughout the film.",
+    "youtube": {
+      "trailer": "https://youtu.be/fPcNbsW69Eg",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=blade+trinity+2004+fma+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0337082/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Blade:_Trinity",
+    "google_link": "https://www.google.com/search?q=Blade+Trinity+2004"
+  },
+
+  "BonifacioAngUnangPangulo": {
+    "name": "Bonifacio: Ang Unang Pangulo",
+    "format": "Live-Action",
+    "release_year": 2014,
+    "genre": ["Historical", "Action", "Drama"],
+    "language": "Filipino",
+    "logline": "The life of revolutionary leader Andrés Bonifacio is depicted with authentic arnis and bolo combat choreography.",
+    "youtube": {
+      "trailer": "https://youtu.be/WJRhMo4qK2c",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=Bonifacio+Ang+Unang+Pangulo+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt3437116/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Bonifacio:_Ang_Unang_Pangulo",
+    "google_link": "https://www.google.com/search?q=Bonifacio+Ang+Unang+Pangulo+2014"
+  },
+
+  "EnterTheDragon": {
+    "name": "Enter the Dragon",
+    "format": "Live-Action",
+    "release_year": 1973,
+    "genre": ["Action", "Crime"],
+    "language": "English",
+    "logline": "Bruce Lee showcases escrima and doble baston techniques in several fight sequences, trained by FMA master Dan Inosanto.",
+    "youtube": {
+      "trailer": "https://youtu.be/5RGju9NuoOU",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=enter+the+dragon+1973+fma+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0070034/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Enter_the_Dragon",
+    "google_link": "https://www.google.com/search?q=Enter+the+Dragon+1973"
+  },
+
+  "Furious7": {
+    "name": "Furious 7",
+    "format": "Live-Action",
+    "release_year": 2015,
+    "genre": ["Action", "Crime", "Thriller"],
+    "language": "English",
+    "logline": "Final fight scene between Vin Diesel and Jason Statham inspired by eskrima, using sticks and improvised weapons.",
+    "youtube": {
+      "trailer": "https://youtu.be/Skpu5HaVkOc",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=furious+7+2015+fma+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt2820852/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Furious_7",
+    "google_link": "https://www.google.com/search?q=Furious+7+2015"
+  },
+
+  "GameOfDeath": {
+    "name": "Game of Death",
+    "format": "Live-Action",
+    "release_year": 1978,
+    "genre": ["Action", "Thriller"],
+    "language": "English",
+    "logline": "Bruce Lee faces FMA master Dan Inosanto and other martial artists, showcasing arnis and knife techniques.",
+    "youtube": {
+      "trailer": "https://youtu.be/F9TFXin2zns",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=game+of+death+1978+fma+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0077402/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Game_of_Death",
+    "google_link": "https://www.google.com/search?q=Game+of+Death+1978"
+  },
+
+  "Hanna": {
+    "name": "Hanna",
+    "format": "Live-Action",
+    "release_year": 2011,
+    "genre": ["Action", "Thriller"],
+    "language": "English",
+    "logline": "Saoirse Ronan trains in sinawali, trapping, and knife techniques under the Inosanto Academy, using FMA in key fight sequences.",
+    "youtube": {
+      "trailer": "https://youtu.be/u73CLdHpbNk",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=hanna+2011+fma+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt1305797/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Hanna_(2011_film)",
+    "google_link": "https://www.google.com/search?q=Hanna+2011"
+  },
+
+  "JohnWick2": {
+    "name": "John Wick: Chapter 2",
+    "format": "Live-Action",
+    "release_year": 2017,
+    "genre": ["Action", "Thriller"],
+    "language": "English",
+    "logline": "John Wick uses arnis-based knife techniques and live-hand movements, emphasizing FMA footwork and trapping principles.",
+    "youtube": {
+      "trailer": "https://youtu.be/ChpLV9AMqm4",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=john+wick+chapter+2+fma+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt4425200/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/John_Wick:_Chapter_2",
+    "google_link": "https://www.google.com/search?q=John+Wick+Chapter+2+2017"
+  },
+
+  "Kamagong": {
+    "name": "Kamagong",
+    "format": "Live-Action",
+    "release_year": 1986,
+    "genre": ["Action", "Sport"],
+    "language": "Filipino",
+    "logline": "A film featuring an arnisador wielding kamagong hardwood sticks, demonstrating traditional FMA combat.",
+    "youtube": {
+      "trailer": "",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=Kamagong+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0494733/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Kamagong_(film)",
+    "google_link": "https://www.google.com/search?q=Kamagong+1986"
+  },
+
+  "KickAss": {
+    "name": "Kick-Ass",
+    "format": "Live-Action",
+    "release_year": 2010,
+    "genre": ["Action", "Comedy"],
+    "language": "English",
+    "logline": "Main characters use arnis sticks and balisong knives, directly employing Filipino Martial Arts in combat.",
+    "youtube": {
+      "trailer": "https://youtu.be/2rpXHqnGDXo",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=kick-ass+2010+fma+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt1250777/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Kick-Ass_(2010_film)",
+    "google_link": "https://www.google.com/search?q=Kick-Ass+2010"
+  },
+
+  "ManoMano3": {
+    "name": "Mano Mano 3: Arnis the Lost Art",
+    "format": "Live-Action",
+    "release_year": 2004,
+    "genre": ["Action"],
+    "language": "Filipino",
+    "logline": "Centered entirely on arnis, featuring Bakbakan International style and traditional Filipino weaponry.",
+    "youtube": {
+      "trailer": "https://youtu.be/IpJ7_P6qyN0",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=Mano+Mano+3+film+fights"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0418869/",
+    "wikipedia_link": "",
+    "google_link": "https://www.google.com/search?q=Mano+Mano+3+Arnis+the+Lost+Art+2004"
+  },
+
+  "NinjaAssassin": {
+    "name": "Ninja Assassin",
+    "format": "Live-Action",
+    "release_year": 2009,
+    "genre": ["Action", "Crime"],
+    "language": "English",
+    "logline": "Fight choreography by Dan Inosanto students using dual-weapon kali techniques.",
+    "youtube": {
+      "trailer": "https://youtu.be/AcBPlzZS1mw",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=ninja+assassin+2009+fma+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt1152836/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Ninja_Assassin",
+    "google_link": "https://www.google.com/search?q=Ninja+Assassin+2009"
+  },
+
+  "TheBookOfEli": {
+    "name": "The Book of Eli",
+    "format": "Live-Action",
+    "release_year": 2010,
+    "genre": ["Action", "Adventure", "Sci-fi"],
+    "language": "English",
+    "logline": "Denzel Washington trained in kali and uses a stylized bolo for combat, applying FMA techniques throughout the film.",
+    "youtube": {
+      "trailer": "https://youtu.be/zSMHmtaoXtI",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=the+book+of+eli+2010+fma+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt1034303/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/The_Book_of_Eli",
+    "google_link": "https://www.google.com/search?q=The+Book+of+Eli+2010"
+  },
+
+  "TheBourneIdentity": {
+    "name": "The Bourne Identity",
+    "format": "Live-Action",
+    "release_year": 2002,
+    "genre": ["Action", "Thriller"],
+    "language": "English",
+    "logline": "Matt Damon trained in kali; fight scenes incorporate stick work, empty-hand combat, and minimal-effort FMA principles.",
+    "youtube": {
+      "trailer": "https://youtu.be/FpKaB5dvQ4g",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=the+bourne+identity+2002+fma+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0258463/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/The_Bourne_Identity_(2002_film)",
+    "google_link": "https://www.google.com/search?q=The+Bourne+Identity+2002"
+  },
+
+  "TheBourneSupremacy": {
+    "name": "The Bourne Supremacy",
+    "format": "Live-Action",
+    "release_year": 2004,
+    "genre": ["Action", "Thriller"],
+    "language": "English",
+    "logline": "Continues incorporating FMA/kali principles in Matt Damon’s close-quarters combat scenes.",
+    "youtube": {
+      "trailer": "https://youtu.be/Y-HqyyfBbSo",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=the+bourne+supremacy+2004+fma+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0372183/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/The_Bourne_Supremacy",
+    "google_link": "https://www.google.com/search?q=The+Bourne+Supremacy+2004"
+  },
+
+  "TheBourneUltimatum": {
+    "name": "The Bourne Ultimatum",
+    "format": "Live-Action",
+    "release_year": 2007,
+    "genre": ["Action", "Thriller"],
+    "language": "English",
+    "logline": "FMA principles continue to define Matt Damon’s fight choreography, emphasizing efficiency and trapping.",
+    "youtube": {
+      "trailer": "https://youtu.be/ZT2ZxjUjSo0",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=the+bourne+ultimatum+2007+fma+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0440963/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/The_Bourne_Ultimatum",
+    "google_link": "https://www.google.com/search?q=The+Bourne+Ultimatum+2007"
+  }
+}

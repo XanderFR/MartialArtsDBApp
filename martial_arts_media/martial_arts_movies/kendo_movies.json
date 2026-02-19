@@ -1,0 +1,81 @@
+{
+  "BushidoSixteen": {
+    "name": "Bushido Sixteen",
+    "format": "Live-Action",
+    "release_year": 2010,
+    "genre": ["Drama", "Sports"],
+    "language": "Japanese",
+    "logline": "Two teenage girls, Kaori and Sanae, engage in a kendo rivalry that spans junior high to high school, testing their skills, friendship, and personal growth.",
+    "youtube": {
+      "trailer": "https://youtu.be/UnmQxgkM_28",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=Bushido+Sixteen+kendo+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt1595363/",
+    "wikipedia_link": "https://asianwiki.com/Bushido_Sixteen",
+    "google_link": "https://www.google.com/search?q=Bushido+Sixteen+2010+film"
+  },
+
+  "FrogRiver": {
+    "name": "Frog River",
+    "format": "Live-Action",
+    "release_year": 2002,
+    "genre": ["Drama", "Comedy"],
+    "language": "Japanese",
+    "logline": "A record shop clerk and aspiring DJ is challenged to a kendo duel, which becomes central to his journey of self-discovery and masculinity.",
+    "youtube": {
+      "trailer": "https://youtu.be/zIA2AODHwhI",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=Frog+River+2002+kendo+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0784141/",
+    "wikipedia_link": "",
+    "google_link": "https://www.google.com/search?q=Frog+River+2002+film"
+  },
+
+  "IronMask": {
+    "name": "Iron Mask",
+    "format": "Live-Action",
+    "release_year": 2023,
+    "genre": ["Drama", "Sports", "Action"],
+    "language": "Korean",
+    "logline": "A young kendo competitor, Jae-woo, battles his way to the top of South Korea's national team while facing personal challenges and rivalries.",
+    "youtube": {
+      "trailer": "https://youtu.be/e3yt4vHMixU",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=Iron+Mask+2023+kendo+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt28556347/",
+    "wikipedia_link": "",
+    "google_link": "https://www.google.com/search?q=Iron+Mask+2023+kendo+film"
+  },
+
+  "Ken": {
+    "name": "Ken",
+    "format": "Live-Action",
+    "release_year": 1964,
+    "genre": ["Drama"],
+    "language": "Japanese",
+    "logline": "University kendo captain Kokubu trains his students with strict discipline as they prepare for the national championships, clashing with ambitious teammates along the way.",
+    "youtube": {
+      "trailer": "https://youtu.be/iwULOetAogQ",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=Ken+1964+kendo+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0366668/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Ken_(film)",
+    "google_link": "https://www.google.com/search?q=Ken+1964+film+kendo"
+  },
+
+  "Mukoku2017": {
+    "name": "Mukoku",
+    "format": "Live-Action",
+    "release_year": 2017,
+    "genre": ["Drama", "Action"],
+    "language": "Japanese",
+    "logline": "A former kendo prodigy, Kengo, has abandoned the sport after a tragedy until a gifted high school student, Toru, rekindles his passion and leads him back to the dojo.",
+    "youtube": {
+      "trailer": "https://youtu.be/MeqqKzwTqq8",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=Mukoku+2017+kendo+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt6899278/",
+    "wikipedia_link": "",
+    "google_link": "https://www.google.com/search?q=Mukoku+2017+kendo+film"
+  }
+}

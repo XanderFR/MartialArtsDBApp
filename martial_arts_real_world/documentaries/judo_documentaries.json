@@ -1,0 +1,17 @@
+{
+  "FeelingJudo": {
+    "name": "Feeling Judo",
+    "summary": "Feeling Judo is a feature-length documentary that explores the lives of blind judo athletes.",
+    "youtube_link": "https://www.youtube.com/watch?v=qtCT3nFXRTk"
+  },
+  "Judo-TheArtOfLiving": {
+    "name": "Judo - The Art of Living",
+    "summary": "Explore Judo's impact on diverse lives, from overcoming personal challenges to fostering family bonds. The documentary showcases individuals' journeys, highlighting the sport's role in personal growth and community building. Witness inspiring stories of resilience and the power of Judo as a transformative force.",
+    "youtube_link": "https://www.youtube.com/watch?v=1eVAqM4zfAY"
+  },
+  "WhatDoesJudoMeanToYou?|JudoCanadaDocumentary": {
+    "name": "What Does Judo Mean to You? | Judo Canada Documentary",
+    "summary": "This documentary explores the profound and diverse meanings judo holds for its practitioners, featuring interviews with athletes, coaches, and staff. The film highlights how judo impacts individuals' lives beyond the mat, fostering values, personal growth, and strong relationships.",
+    "youtube_link": "https://www.youtube.com/watch?v=p7f5VosP7iU"
+  }
+}

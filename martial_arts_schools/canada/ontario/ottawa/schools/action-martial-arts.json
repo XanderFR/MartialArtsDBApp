@@ -1,0 +1,10 @@
+{
+  "id": "action-martial-arts",
+  "name": "Action Martial Arts",
+  "styles_taught": ["Filipino Martial Arts"],
+  "address": "2200 Montréal Rd, Gloucester, ON K1J 6M5",
+  "phone": "+16136995300",
+  "links": {
+    "website": "http://www.actionmartialarts.ca/"
+  }
+}

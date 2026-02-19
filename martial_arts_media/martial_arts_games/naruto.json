@@ -1,0 +1,279 @@
+{
+  "NarutoUltimateNinja": {
+    "name": "Naruto: Ultimate Ninja",
+    "platforms": ["PlayStation 2"],
+    "release_year": 2003,
+    "playable_characters": [
+      {
+        "name": "Naruto Uzumaki",
+        "combat_style": "Fast-paced hand-to-hand combat with chakra-enhanced strikes, acrobatics, and ninjutsu techniques like Shadow Clone Jutsu"
+      },
+      {
+        "name": "Sasuke Uchiha",
+        "combat_style": "Agile combat with taijutsu, ninjutsu, and sword techniques; uses Chidori"
+      },
+      {
+        "name": "Sakura Haruno",
+        "combat_style": "Close-range combat with enhanced strength, taijutsu, and chakra control"
+      },
+      {
+        "name": "Kakashi Hatake",
+        "combat_style": "Versatile hand-to-hand and ninjutsu combat; uses lightning-based jutsu and strategic combos"
+      }
+    ],
+    "martial_arts_used": ["Taijutsu", "Acrobatics", "Ninjutsu", "Boxing", "Aikido", "Kenjutsu"],
+    "youtube_trailer": "https://www.youtube.com/watch?v=v5HonlDpL6I",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Naruto+Ultimate+Ninja+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Naruto:_Ultimate_Ninja",
+      "igdb": "https://www.igdb.com/games/naruto-ultimate-ninja",
+      "gamespot": "https://www.gamespot.com/games/naruto-ultimate-ninja/",
+      "google": "https://www.google.com/search?q=Naruto+Ultimate+Ninja"
+    }
+  },
+
+  "NarutoUltimateNinja2": {
+    "name": "Naruto: Ultimate Ninja 2",
+    "platforms": ["PlayStation 2"],
+    "release_year": 2004,
+    "playable_characters": [
+      {
+        "name": "Naruto Uzumaki",
+        "combat_style": "Enhanced taijutsu and ninjutsu with acrobatics and multi-hit combos; Shadow Clone Jutsu"
+      },
+      {
+        "name": "Sasuke Uchiha",
+        "combat_style": "High-speed combat with swordplay, taijutsu combos, and Chidori-based attacks"
+      },
+      {
+        "name": "Sakura Haruno",
+        "combat_style": "Powerful taijutsu strikes, enhanced by chakra control"
+      },
+      {
+        "name": "Kakashi Hatake",
+        "combat_style": "Tactical hand-to-hand combat with lightning-based jutsu and kenjutsu techniques"
+      },
+      {
+        "name": "Rock Lee",
+        "combat_style": "Extreme taijutsu expert with speed, kicks, punches, and acrobatics"
+      },
+      {
+        "name": "Gaara",
+        "combat_style": "Defensive and offensive sand manipulation, combines long-range ninjutsu with taijutsu"
+      }
+    ],
+    "martial_arts_used": ["Taijutsu", "Acrobatics", "Ninjutsu", "Boxing", "Kenjutsu", "Capoeira", "Jujutsu"],
+    "youtube_trailer": "https://www.youtube.com/watch?v=ClT6Qbv87eM",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Naruto+Ultimate+Ninja+2+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Naruto:_Ultimate_Ninja_2",
+      "igdb": "https://www.igdb.com/games/naruto-ultimate-ninja-2",
+      "gamespot": "https://www.gamespot.com/games/naruto-ultimate-ninja-2/",
+      "google": "https://www.google.com/search?q=Naruto+Ultimate+Ninja+2"
+    }
+  },
+
+  "NarutoUltimateNinjaStorm": {
+    "name": "Naruto: Ultimate Ninja Storm",
+    "platforms": ["PlayStation 3", "Xbox 360"],
+    "release_year": 2008,
+    "playable_characters": [
+      {
+        "name": "Naruto Uzumaki",
+        "combat_style": "Free-flowing acrobatic combat with taijutsu strikes, ninjutsu techniques, and fast-paced combos"
+      },
+      {
+        "name": "Sasuke Uchiha",
+        "combat_style": "Chakra-enhanced hand-to-hand combat with sword strikes, ninjutsu, and aerial combos"
+      },
+      {
+        "name": "Sakura Haruno",
+        "combat_style": "Taijutsu-focused combat with enhanced strength and chakra-based healing attacks"
+      },
+      {
+        "name": "Kakashi Hatake",
+        "combat_style": "Strategic taijutsu and ninjutsu with lightning techniques and kunai/kenjutsu use"
+      },
+      {
+        "name": "Rock Lee",
+        "combat_style": "Pure taijutsu with extreme speed and acrobatics, no ninjutsu"
+      },
+      {
+        "name": "Gaara",
+        "combat_style": "Sand manipulation for offense and defense, combined with taijutsu strikes"
+      },
+      {
+        "name": "Neji Hyuga",
+        "combat_style": "Gentle Fist taijutsu focusing on chakra points for precise attacks"
+      }
+    ],
+    "martial_arts_used": ["Taijutsu", "Acrobatics", "Ninjutsu", "Kenjutsu", "Judo", "Aikido", "Boxing"],
+    "youtube_trailer": "https://www.youtube.com/watch?v=G5dH0x60Xeg",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Naruto+Ultimate+Ninja+Storm+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Naruto:_Ultimate_Ninja_Storm",
+      "igdb": "https://www.igdb.com/games/naruto-ultimate-ninja-storm",
+      "gamespot": "https://www.gamespot.com/games/naruto-ultimate-ninja-storm/",
+      "google": "https://www.google.com/search?q=Naruto+Ultimate+Ninja+Storm"
+    }
+  },
+
+  "NarutoUltimateNinjaStorm2": {
+    "name": "Naruto: Ultimate Ninja Storm 2",
+    "platforms": ["PlayStation 3", "Xbox 360"],
+    "release_year": 2010,
+    "playable_characters": [
+      {
+        "name": "Naruto Uzumaki",
+        "combat_style": "Enhanced taijutsu and ninjutsu combat with acrobatics, multi-hit combos, and team attacks"
+      },
+      {
+        "name": "Sasuke Uchiha",
+        "combat_style": "High-speed chakra-based attacks with swordplay, aerial combos, and ninjutsu techniques"
+      },
+      {
+        "name": "Sakura Haruno",
+        "combat_style": "Enhanced taijutsu and chakra-based healing abilities"
+      },
+      {
+        "name": "Kakashi Hatake",
+        "combat_style": "Strategic taijutsu and ninjutsu with lightning techniques and tactical combos"
+      },
+      {
+        "name": "Rock Lee",
+        "combat_style": "Extreme taijutsu, high-speed kicks and punches, acrobatics"
+      },
+      {
+        "name": "Gaara",
+        "combat_style": "Sand-based ninjutsu combined with close-range taijutsu"
+      },
+      {
+        "name": "Neji Hyuga",
+        "combat_style": "Gentle Fist taijutsu targeting chakra points"
+      },
+      {
+        "name": "Hinata Hyuga",
+        "combat_style": "Gentle Fist taijutsu with evasive maneuvers and chakra strikes"
+      }
+    ],
+    "martial_arts_used": ["Taijutsu", "Acrobatics", "Ninjutsu", "Kenjutsu", "Aikido", "Judo", "Boxing"],
+    "youtube_trailer": "https://www.youtube.com/watch?v=r5F-BLLChoM",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Naruto+Ultimate+Ninja+Storm+2+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Naruto:_Ultimate_Ninja_Storm_2",
+      "igdb": "https://www.igdb.com/games/naruto-ultimate-ninja-storm-2",
+      "gamespot": "https://www.gamespot.com/games/naruto-ultimate-ninja-storm-2/",
+      "google": "https://www.google.com/search?q=Naruto+Ultimate+Ninja+Storm+2"
+    }
+  },
+
+  "NarutoUltimateNinjaStorm3": {
+    "name": "Naruto: Ultimate Ninja Storm 3",
+    "platforms": ["PlayStation 3", "Xbox 360"],
+    "release_year": 2013,
+    "playable_characters": [
+      {
+        "name": "Naruto Uzumaki",
+        "combat_style": "Dynamic taijutsu and ninjutsu combat with cinematic combos, transformations, and acrobatic moves"
+      },
+      {
+        "name": "Sasuke Uchiha",
+        "combat_style": "High-speed ninja combat with sword techniques, taijutsu combos, and ninjutsu attacks"
+      },
+      {
+        "name": "Sakura Haruno",
+        "combat_style": "Taijutsu-based combat with enhanced strength and chakra-based healing attacks"
+      },
+      {
+        "name": "Kakashi Hatake",
+        "combat_style": "Lightning and taijutsu-based combat with kenjutsu and tactical skills"
+      },
+      {
+        "name": "Rock Lee",
+        "combat_style": "Extreme taijutsu mastery with acrobatics and high-speed strikes"
+      },
+      {
+        "name": "Gaara",
+        "combat_style": "Sand manipulation with both offense and defense, plus taijutsu"
+      },
+      {
+        "name": "Neji Hyuga",
+        "combat_style": "Gentle Fist taijutsu, chakra point targeting, and aerial combos"
+      },
+      {
+        "name": "Hinata Hyuga",
+        "combat_style": "Gentle Fist taijutsu with evasive maneuvers and chakra strikes"
+      },
+      {
+        "name": "Pain",
+        "combat_style": "Long-range ninjutsu attacks with taijutsu and chakra-controlled summons"
+      }
+    ],
+    "martial_arts_used": ["Taijutsu", "Acrobatics", "Ninjutsu", "Kenjutsu", "Aikido", "Judo", "Boxing", "Capoeira"],
+    "youtube_trailer": "https://www.youtube.com/watch?v=pfPtddaiWp8",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Naruto+Ultimate+Ninja+Storm+3+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Naruto:_Ultimate_Ninja_Storm_3",
+      "igdb": "https://www.igdb.com/games/naruto-ultimate-ninja-storm-3",
+      "gamespot": "https://www.gamespot.com/games/naruto-ultimate-ninja-storm-3/",
+      "google": "https://www.google.com/search?q=Naruto+Ultimate+Ninja+Storm+3"
+    }
+  },
+
+  "NarutoUltimateNinjaStorm4": {
+    "name": "Naruto: Ultimate Ninja Storm 4",
+    "platforms": ["PlayStation 4", "Xbox One", "Nintendo Switch"],
+    "release_year": 2016,
+    "playable_characters": [
+      {
+        "name": "Naruto Uzumaki",
+        "combat_style": "Cinematic taijutsu and ninjutsu combat with enhanced acrobatics, team attacks, and ultimate jutsu"
+      },
+      {
+        "name": "Sasuke Uchiha",
+        "combat_style": "High-speed ninja combat with sword techniques, taijutsu combos, and chakra-powered jutsu"
+      },
+      {
+        "name": "Sakura Haruno",
+        "combat_style": "Enhanced taijutsu strikes with chakra healing and strength-based attacks"
+      },
+      {
+        "name": "Kakashi Hatake",
+        "combat_style": "Lightning-based ninjutsu, kenjutsu, and taijutsu with tactical strategies"
+      },
+      {
+        "name": "Rock Lee",
+        "combat_style": "Extreme taijutsu, high-speed acrobatics, and punches/kicks combos"
+      },
+      {
+        "name": "Gaara",
+        "combat_style": "Sand-based ninjutsu for offense and defense, plus taijutsu strikes"
+      },
+      {
+        "name": "Neji Hyuga",
+        "combat_style": "Gentle Fist taijutsu, chakra point targeting, and aerial combos"
+      },
+      {
+        "name": "Hinata Hyuga",
+        "combat_style": "Gentle Fist taijutsu with evasive maneuvers and chakra strikes"
+      },
+      {
+        "name": "Madara Uchiha",
+        "combat_style": "High-level ninjutsu with taijutsu, sword techniques, and devastating jutsu attacks"
+      },
+      {
+        "name": "Obito Uchiha",
+        "combat_style": "Chakra-enhanced ninjutsu and taijutsu with space-time techniques"
+      }
+    ],
+    "martial_arts_used": ["Taijutsu", "Acrobatics", "Ninjutsu", "Kenjutsu", "Judo", "Aikido", "Boxing", "Capoeira"],
+    "youtube_trailer": "https://www.youtube.com/watch?v=9Vm4m15r2Xc",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Naruto+Ultimate+Ninja+Storm+4+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Naruto:_Ultimate_Ninja_Storm_4",
+      "igdb": "https://www.igdb.com/games/naruto-ultimate-ninja-storm-4",
+      "gamespot": "https://www.gamespot.com/games/naruto-ultimate-ninja-storm-4/",
+      "google": "https://www.google.com/search?q=Naruto+Ultimate+Ninja+Storm+4"
+    }
+  }
+}

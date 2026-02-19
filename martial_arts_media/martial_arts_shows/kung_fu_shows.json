@@ -1,0 +1,65 @@
+{
+  "IntoTheBadlands": {
+    "name": "Into the Badlands",
+    "format": "Live-Action",
+    "release_year": 2015,
+    "genre": ["Action", "Adventure", "Drama"],
+    "language": "English",
+    "plot": "In a post-apocalyptic feudal society ruled by barons, a deadly warrior and a mysterious boy travel through the Badlands, where survival depends on mastery of martial arts.",
+    "youtube": {
+      "trailer": "https://www.youtube.com/watch?v=ZF-SOC49ofw",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=into+the+badlands+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt3865236/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Into_the_Badlands",
+    "google_link": "https://www.google.com/search?q=Into+the+Badlands+tv+series"
+  },
+
+  "IronFist": {
+    "name": "Marvel's Iron Fist",
+    "format": "Live-Action",
+    "release_year": 2017,
+    "genre": ["Action", "Superhero", "Drama"],
+    "language": "English",
+    "plot": "A martial artist trained in the mystical city of K’un-Lun returns to New York City to reclaim his family legacy and fight crime using kung fu and chi-powered abilities.",
+    "youtube": {
+      "trailer": "https://www.youtube.com/watch?v=f9OKL5no-S0",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=iron+fist+best+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt3322312/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Iron_Fist_(TV_series)",
+    "google_link": "https://www.google.com/search?q=Marvel%27s+Iron+Fist+tv+series"
+  },
+
+  "KungFu": {
+    "name": "Kung Fu",
+    "format": "Live-Action",
+    "release_year": 2021,
+    "genre": ["Action", "Drama", "Adventure"],
+    "language": "English",
+    "plot": "A Chinese American woman trains at a Shaolin monastery and returns home to fight crime and supernatural threats using her kung fu skills.",
+    "youtube": {
+      "trailer": "https://www.youtube.com/watch?v=Wg2_8cxbAXI",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=kung+fu+2021+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt7475590/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Kung_Fu_(2021_TV_series)",
+    "google_link": "https://www.google.com/search?q=Kung+Fu+2021+CW"
+  },
+
+  "Warrior": {
+    "name": "Warrior",
+    "format": "Live-Action",
+    "release_year": 2019,
+    "genre": ["Action", "Drama", "Historical"],
+    "language": "English",
+    "plot": "During the Tong Wars of 19th-century San Francisco, a Chinese martial arts prodigy becomes an enforcer for a crime family, relying on kung fu to survive brutal gang conflicts.",
+    "youtube": {
+      "trailer": "https://www.youtube.com/watch?v=J0QMqpHXYeM",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=warrior+tv+series+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt5743796/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Warrior_(TV_series)",
+    "google_link": "https://www.google.com/search?q=Warrior+tv+series+2019"
+  }
+}

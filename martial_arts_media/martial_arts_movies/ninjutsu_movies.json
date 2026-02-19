@@ -1,0 +1,335 @@
+{
+  "AlienVsNinja": {
+    "name": "Alien vs Ninja",
+    "format": "Live-Action",
+    "release_year": 2010,
+    "genre": ["Action", "Science Fiction"],
+    "language": "Japanese",
+    "logline": "A group of ninja warriors battle deadly extraterrestrials in feudal Japan.",
+    "youtube": {
+      "trailer": "https://youtu.be/7M_QC2fatXQ",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=alien+vs+ninja+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt1702425/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Alien_vs_Ninja",
+    "google_link": "https://www.google.com/search?q=Alien+vs+Ninja"
+  },
+  "AmericanNinja": {
+    "name": "American Ninja",
+    "format": "Live-Action",
+    "release_year": 1985,
+    "genre": ["Action"],
+    "language": "English",
+    "logline": "A mysterious soldier with ninja training confronts a ruthless ninja clan.",
+    "youtube": {
+      "trailer": "https://youtu.be/JInNMEkyPkE",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=american+ninja+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0088708/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/American_Ninja",
+    "google_link": "https://www.google.com/search?q=American+Ninja"
+  },
+  "AmericanNinja2": {
+    "name": "American Ninja 2: The Confrontation",
+    "format": "Live-Action",
+    "release_year": 1987,
+    "genre": ["Action"],
+    "language": "English",
+    "logline": "Joe Armstrong faces a new ninja threat while rescuing kidnapped scientists.",
+    "youtube": {
+      "trailer": "https://youtu.be/6IR3eI4xdFw",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=american+ninja+2+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0092549/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/American_Ninja_2:_The_Confrontation",
+    "google_link": "https://www.google.com/search?q=American+Ninja+2"
+  },
+  "AmericanNinja3": {
+    "name": "American Ninja 3: Blood Hunt",
+    "format": "Live-Action",
+    "release_year": 1989,
+    "genre": ["Action"],
+    "language": "English",
+    "logline": "Joe Armstrong confronts a deadly ninja organization in a high-stakes mission.",
+    "youtube": {
+      "trailer": "https://youtu.be/xNzMcuBo4q8",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=american+ninja+3+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0096475/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/American_Ninja_3:_Blood_Hunt",
+    "google_link": "https://www.google.com/search?q=American+Ninja+3"
+  },
+  "AmericanNinja4": {
+    "name": "American Ninja 4: The Annihilation",
+    "format": "Live-Action",
+    "release_year": 1990,
+    "genre": ["Action"],
+    "language": "English",
+    "logline": "Joe Armstrong battles a secret ninja cult with deadly intentions.",
+    "youtube": {
+      "trailer": "https://youtu.be/qMiIV4nVrWk",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=american+ninja+4+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0099593/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/American_Ninja_4:_The_Annihilation",
+    "google_link": "https://www.google.com/search?q=American+Ninja+4"
+  },
+  "AmericanNinja5": {
+    "name": "American Ninja 5",
+    "format": "Live-Action",
+    "release_year": 1993,
+    "genre": ["Action"],
+    "language": "English",
+    "logline": "The ninja hero faces off against international mercenaries threatening global security.",
+    "youtube": {
+      "trailer": "https://youtu.be/IMQ2D37SPvA",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=american+ninja+5+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0108093/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/American_Ninja_5",
+    "google_link": "https://www.google.com/search?q=American+Ninja+5"
+  },
+  "Azumi": {
+    "name": "Azumi",
+    "format": "Live-Action",
+    "release_year": 2003,
+    "genre": ["Action", "Historical"],
+    "language": "Japanese",
+    "logline": "A young assassin raised as a ninja is sent to eliminate warlords threatening peace.",
+    "youtube": {
+      "trailer": "https://youtu.be/XmI86tMnNmY",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=azumi+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0384819/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Azumi",
+    "google_link": "https://www.google.com/search?q=Azumi"
+  },
+  "Azumi2": {
+    "name": "Azumi 2: Death or Love",
+    "format": "Live-Action",
+    "release_year": 2005,
+    "genre": ["Action", "Historical"],
+    "language": "Japanese",
+    "logline": "Azumi continues her deadly mission while questioning her life as an assassin.",
+    "youtube": {
+      "trailer": "https://youtu.be/aRt19qeG48s",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=azumi+2+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0476096/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Azumi_2:_Death_or_Love",
+    "google_link": "https://www.google.com/search?q=Azumi+2"
+  },
+  "BatmanNinja": {
+    "name": "Batman Ninja",
+    "format": "Animated",
+    "release_year": 2018,
+    "genre": ["Action", "Animation"],
+    "language": "Japanese",
+    "logline": "Batman is transported to feudal Japan where he faces his enemies as warlords.",
+    "youtube": {
+      "trailer": "https://youtu.be/CwPFxcefpdU",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=batman+ninja+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt7451284/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Batman_Ninja",
+    "google_link": "https://www.google.com/search?q=Batman+Ninja"
+  },
+  "BlackfoxAgeOfTheNinja": {
+    "name": "BLACKFOX: Age of the Ninja",
+    "format": "Live-Action",
+    "release_year": 2019,
+    "genre": ["Action"],
+    "language": "Japanese",
+    "logline": "A former ninja seeks revenge against those who destroyed her family.",
+    "youtube": {
+      "trailer": "https://youtu.be/euUhHKMR5FU",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=blackfox+age+of+the+ninja+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt11298954/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/BLACKFOX:_Age_of_the_Ninja",
+    "google_link": "https://www.google.com/search?q=BLACKFOX+Age+of+the+Ninja"
+  },
+  "CommandoNinja": {
+    "name": "Commando Ninja",
+    "format": "Live-Action",
+    "release_year": 2018,
+    "genre": ["Action"],
+    "language": "French",
+    "logline": "A retired ninja soldier is forced back into action to save his family.",
+    "youtube": {
+      "trailer": "https://youtu.be/xfBTOZu2jik",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=commando+ninja+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt8317568/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Commando_Ninja",
+    "google_link": "https://www.google.com/search?q=Commando+Ninja"
+  },
+
+  "EnterTheNinja": {
+    "name": "Enter the Ninja",
+    "format": "Live-Action",
+    "release_year": 1981,
+    "genre": ["Action"],
+    "language": "English",
+    "logline": "A Westerner trained in ninjutsu returns to confront corruption and prove his mastery.",
+    "youtube": {
+      "trailer": "https://youtu.be/4xhNTv9HO5E",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=enter+the+ninja+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0082332/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Enter_the_Ninja",
+    "google_link": "https://www.google.com/search?q=Enter+the+Ninja"
+  },
+
+  "KamuiGaiden": {
+    "name": "Kamui Gaiden",
+    "format": "Live-Action",
+    "release_year": 2009,
+    "genre": ["Action", "Historical"],
+    "language": "Japanese",
+    "logline": "A ninja fugitive fights for survival against corrupt forces while protecting the innocent.",
+    "youtube": {
+      "trailer": "https://youtu.be/jhT4STeVkSk",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=kamui+gaiden+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt1411236/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Kamui_Gaiden",
+    "google_link": "https://www.google.com/search?q=Kamui+Gaiden"
+  },
+  "NinjaScroll": {
+    "name": "Ninja Scroll",
+    "format": "Animated",
+    "release_year": 1993,
+    "genre": ["Action", "Animation"],
+    "language": "Japanese",
+    "logline": "A wandering swordsman battles demonic ninja warriors.",
+    "youtube": {
+      "trailer": "https://youtu.be/IMTIyTof-gQ",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=ninja+scroll+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0107692/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Ninja_Scroll",
+    "google_link": "https://www.google.com/search?q=Ninja+Scroll"
+  },
+  "Ninja": {
+    "name": "Ninja",
+    "format": "Live-Action",
+    "release_year": 2009,
+    "genre": ["Action"],
+    "language": "English",
+    "logline": "A young man trains in ninjutsu to avenge his master and fights an evil crime syndicate.",
+    "youtube": {
+      "trailer": "https://youtu.be/8bUIbYpUPQ0",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=ninja+2009+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt1234734/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Ninja_(2009_film)",
+    "google_link": "https://www.google.com/search?q=Ninja+2009"
+  },
+  "NinjaShadowOfATear": {
+    "name": "Ninja: Shadow of a Tear",
+    "format": "Live-Action",
+    "release_year": 2013,
+    "genre": ["Action"],
+    "language": "English",
+    "logline": "A ninja master hunts the killers of his pregnant wife.",
+    "youtube": {
+      "trailer": "https://youtu.be/Mcdsl6h4OqI",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=ninja+shadow+of+a+tear+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt2544378/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Ninja:_Shadow_of_a_Tear",
+    "google_link": "https://www.google.com/search?q=Ninja+Shadow+of+a+Tear"
+  },
+  "RevengeOfTheNinja": {
+    "name": "Revenge of the Ninja",
+    "format": "Live-Action",
+    "release_year": 1983,
+    "genre": ["Action"],
+    "language": "English",
+    "logline": "A ninja comes to America seeking a new life, only to confront a dangerous criminal organization tied to his past.",
+    "youtube": {
+      "trailer": "https://youtu.be/pB7nU7sxuvk",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=revenge+of+the+ninja+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0085113/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Revenge_of_the_Ninja",
+    "google_link": "https://www.google.com/search?q=Revenge+of+the+Ninja"
+  },
+
+  "Shinobi": {
+    "name": "Shinobi",
+    "format": "Live-Action",
+    "release_year": 2005,
+    "genre": ["Action"],
+    "language": "Japanese",
+    "logline": "Two rival ninja clans face off during a period of political upheaval.",
+    "youtube": {
+      "trailer": "https://youtu.be/xwcrkq33C9o",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=shinobi+2005+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0446755/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Shinobi_(2005_film)",
+    "google_link": "https://www.google.com/search?q=Shinobi+2005"
+  },
+  "ShinobiNoMono": {
+    "name": "Shinobi no Mono",
+    "format": "Live-Action",
+    "release_year": 1962,
+    "genre": ["Action", "Historical"],
+    "language": "Japanese",
+    "logline": "A ninja infiltrates and sabotages an oppressive clan during feudal Japan.",
+    "youtube": {
+      "trailer": "https://youtu.be/iBtxK8iCaKE",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=shinobi+no+mono+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0055712/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Shinobi_no_Mono",
+    "google_link": "https://www.google.com/search?q=Shinobi+no+Mono"
+  },
+  "ShinobiNoMono2": {
+    "name": "Shinobi no Mono 2",
+    "format": "Live-Action",
+    "release_year": 1963,
+    "genre": ["Action", "Historical"],
+    "language": "Japanese",
+    "logline": "The ninja continues his secretive mission to undermine a corrupt feudal regime.",
+    "youtube": {
+      "trailer": "https://youtu.be/u2MvMDUPLnw",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=shinobi+no+mono+2+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0056789/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Shinobi_no_Mono_2",
+    "google_link": "https://www.google.com/search?q=Shinobi+no+Mono+2"
+  },
+  "ShinobiNoMono3": {
+    "name": "Shinobi no Mono 3",
+    "format": "Live-Action",
+    "release_year": 1963,
+    "genre": ["Action", "Historical"],
+    "language": "Japanese",
+    "logline": "The saga of the master ninja continues as he battles rival clans and treacherous samurai.",
+    "youtube": {
+      "trailer": "https://youtu.be/J1ynM8uGoSg",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=shinobi+no+mono+3+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0057402/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Shinobi_no_Mono_3",
+    "google_link": "https://www.google.com/search?q=Shinobi+no+Mono+3"
+  },
+  "ShogunAssassins": {
+    "name": "Shogun Assassin",
+    "format": "Live-Action",
+    "release_year": 1980,
+    "genre": ["Action"],
+    "language": "Japanese / English",
+    "logline": "A wandering assassin and his young son confront treacherous shoguns in feudal Japan.",
+    "youtube": {
+      "trailer": "https://youtu.be/ZxAPEyzcCtU",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=shogun+assassin+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0081736/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Shogun_Assassin",
+    "google_link": "https://www.google.com/search?q=Shogun+Assassin"
+  }
+}

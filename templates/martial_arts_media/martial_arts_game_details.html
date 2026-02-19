@@ -1,0 +1,161 @@
+{% from "macros/nav.html" import navbar %}
+{% from "macros/footer.html" import footer %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{ game_tier_data.name }} – Games</title>
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+
+<style>
+    .navbar {
+        margin-bottom: 12px;
+        border-radius: 6px;
+        border: 1px solid #ddd;
+    }
+
+    .navbar-light .navbar-toggler-icon {
+        background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba%280,0,0,0.7%29' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+    }
+
+    .details-panel {
+        border: 1px solid #ddd;
+        border-radius: 6px;
+        padding: 15px;
+        margin-bottom: 20px;
+        background-color: #f9f9f9;
+    }
+
+    .button-stack a,
+    .button-stack button {
+        margin-bottom: 8px;
+    }
+</style>
+</head>
+
+<body>
+
+{{ navbar() }}
+
+<div class="container mt-4">
+  <div class="row">
+
+    <!-- LEFT COLUMN: Back button + series logo -->
+    <div class="col-md-4 text-center">
+      <a href="{{ url_for('martial_arts_games') }}"
+         class="btn btn-outline-dark mb-4">
+        ← Back to Game Series
+      </a>
+
+      <img src="{{ game_tier_data.image.file_url }}"
+           alt="{{ game_tier_data.image.alt_text }}"
+           class="img-fluid rounded"
+           data-bs-toggle="tooltip"
+           data-bs-placement="right"
+           title="{{ game_tier_data.image.attribution }}">
+    </div>
+
+    <!-- RIGHT COLUMN: Game list -->
+    <div class="col-md-8">
+
+      {% for game in games_list %}
+        <!-- Navbar Row -->
+        <nav class="navbar navbar-light bg-white">
+          <div class="container-fluid">
+            <span class="navbar-brand mb-0 h6">{{ game.name }}</span>
+            <button class="navbar-toggler"
+                    type="button"
+                    data-bs-toggle="collapse"
+                    data-bs-target="#game-details-{{ loop.index }}"
+                    aria-expanded="false">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+          </div>
+        </nav>
+
+        <!-- Expandable Details Panel -->
+        <div class="collapse" id="game-details-{{ loop.index }}">
+          <div class="details-panel">
+            <div class="row align-items-start">
+
+              <!-- LEFT: YouTube trailer -->
+              <div class="col-md-4 text-center">
+                {% if game.youtube_trailer %}
+                  <div class="ratio ratio-16x9">
+                    <iframe
+                      src="{{ game.youtube_trailer
+                        | replace('youtu.be/', 'www.youtube.com/embed/')
+                        | replace('watch?v=', 'embed/') }}"
+                      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                      allowfullscreen>
+                    </iframe>
+                  </div>
+                {% else %}
+                  <p>No trailer available</p>
+                {% endif %}
+              </div>
+
+              <!-- CENTER: Game info -->
+              <div class="col-md-5 text-start">
+                <p><strong>Platforms:</strong> {{ game.platforms | join(', ') }}</p>
+                <p><strong>Release Year:</strong> {{ game.release_year }}</p>
+
+                <strong>Playable Characters:</strong>
+                <ul>
+                  {% for char in game.playable_characters %}
+                    <li><strong>{{ char.name }}</strong>: {{ char.combat_style }}</li>
+                  {% endfor %}
+                </ul>
+
+                <p><strong>Martial Arts Used:</strong> {{ game.martial_arts_used | join(', ') }}</p>
+              </div>
+
+              <!-- RIGHT: Action buttons -->
+              <div class="col-md-3 text-center button-stack">
+                {% if game.youtube_combat_search %}
+                  <a href="{{ game.youtube_combat_search }}" target="_blank" class="btn btn-danger btn-sm w-100">
+                    YouTube Combat
+                  </a>
+                {% endif %}
+
+                {% if game.wikipedia_link %}
+                  <a href="{{ game.wikipedia_link }}" target="_blank" class="btn btn-primary btn-sm w-100">Wikipedia</a>
+                {% endif %}
+
+                {% if game.igdb_link %}
+                  <a href="{{ game.igdb_link }}" target="_blank" class="btn btn-success btn-sm w-100">IGDB</a>
+                {% endif %}
+
+                {% if game.gamespot_link %}
+                  <a href="{{ game.gamespot_link }}" target="_blank" class="btn btn-warning btn-sm w-100">GameSpot</a>
+                {% endif %}
+
+                {% if game.google_search_link %}
+                  <a href="{{ game.google_search_link }}" target="_blank" class="btn btn-secondary btn-sm w-100">Google</a>
+                {% endif %}
+              </div>
+
+            </div>
+          </div>
+        </div>
+      {% endfor %}
+
+    </div>
+
+  </div>
+</div>
+<div class="text-center">
+  {{ footer() }}
+</div>
+
+<script>
+  const tooltipTriggerList = document.querySelectorAll('[data-bs-toggle="tooltip"]')
+  const tooltipList = [...tooltipTriggerList].map(el => new bootstrap.Tooltip(el))
+</script>
+
+</body>
+</html>

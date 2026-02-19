@@ -1,0 +1,10 @@
+{
+  "id": "flow-martial-arts-academy",
+  "name": "Flow Martial Arts Academy",
+  "styles_taught": ["Filipino Martial Arts"],
+  "address": "602 22 Ave NW, Calgary, AB T2M 4X1",
+  "phone": "+15878918108",
+  "links": {
+    "website": "http://www.flowma.ca/"
+  }
+}

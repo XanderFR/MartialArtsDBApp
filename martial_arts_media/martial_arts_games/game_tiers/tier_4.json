@@ -1,0 +1,52 @@
+{
+  "onimusha": {
+  "name": "Onimusha",
+  "image": {
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Onimusha_anime_logo.png",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Onimusha_anime_logo.png",
+    "attribution": "Netflix, Sublimation, Public domain, via Wikimedia Commons",
+    "alt_text": "Onimusha anime logo"
+  },
+    "link": "onimusha"
+  },
+  "dragon_ball": {
+    "name": "Dragon Ball",
+    "image": {
+      "file_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Dragon_Ball_Z_logo.svg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Dragon_Ball_Z_logo.svg",
+      "attribution": "BIRD STUDIO/SHUEISHA, TOEI ANIMATION, Public domain, via Wikimedia Commons",
+      "alt_text": "Dragon Ball Z logo"
+    },
+    "link": "dragon_ball"
+  },
+  "naruto": {
+    "name": "Naruto",
+    "image": {
+      "file_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Naruto_logo.svg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Naruto_logo.svg",
+      "attribution": "Masashi Kishimoto / Pierrot (vectorization by User:Scaler), Public domain, via Wikimedia Commons",
+      "alt_text": "Naruto logo"
+    },
+    "link": "naruto"
+  },
+  "teenage_mutant_ninja_turtles": {
+  "name": "Teenage Mutant Ninja Turtles",
+  "image": {
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/TMNT_game_logo.png",
+    "page_url": "https://commons.wikimedia.org/wiki/File:TMNT_game_logo.png",
+    "attribution": "Ubisoft Quebec, Public domain, via Wikimedia Commons",
+    "alt_text": "TMNT game logo"
+  },
+  "link": "teenage_mutant_ninja_turtles"
+},
+  "kung_fu_panda": {
+    "name": "Kung Fu Panda",
+    "image": {
+      "file_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Kung_Fu_Panda_logo.svg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Kung_Fu_Panda_logo.svg",
+      "attribution": "DreamWorks Animation, Public domain, via Wikimedia Commons",
+      "alt_text": "Kung Fu Panda logo"
+    },
+    "link": "kung_fu_panda"
+  }
+}

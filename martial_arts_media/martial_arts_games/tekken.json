@@ -1,0 +1,211 @@
+{
+  "Tekken": {
+    "name": "Tekken",
+    "platforms": ["PlayStation"],
+    "release_year": 1994,
+    "playable_characters": [
+      {"name": "Kazuya Mishima", "combat_style": "Mishima-style Karate with electrics, counters, and basic strikes"},
+      {"name": "Paul Phoenix", "combat_style": "Karate-based power striking with overhand punches and aggressive combos"},
+      {"name": "Nina Williams", "combat_style": "Assassin-style Aikido with grapples, counters, and precise strikes"},
+      {"name": "Marshall Law", "combat_style": "Jeet Kune Do-inspired striking with acrobatics and kicks"},
+      {"name": "Yoshimitsu", "combat_style": "Ninjutsu-inspired sword and unarmed combat"},
+      {"name": "King", "combat_style": "Professional wrestling with throws, grapples, and chain combos"}
+    ],
+    "martial_arts_used": ["Mishima-style Karate", "Aikido", "Jeet Kune Do", "Ninjutsu", "Professional Wrestling", "Karate"],
+    "youtube_trailer": "https://www.youtube.com/watch?v=iJLUznvAG3E",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Tekken+gameplay+combat",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Tekken_(video_game)",
+      "igdb": "https://www.igdb.com/games/tekken",
+      "gamespot": "https://www.gamespot.com/games/tekken/",
+      "google": "https://www.google.com/search?q=Tekken+1994"
+    }
+  },
+  "Tekken2": {
+    "name": "Tekken 2",
+    "platforms": ["PlayStation"],
+    "release_year": 1995,
+    "playable_characters": [
+      {"name": "Kazuya Mishima", "combat_style": "Advanced Mishima-style Karate with electrics and counters"},
+      {"name": "Nina Williams", "combat_style": "Aikido-style strikes with grapples and rapid counters"},
+      {"name": "Marshall Law", "combat_style": "Jeet Kune Do-inspired kick and strike combinations"},
+      {"name": "King", "combat_style": "Professional Wrestling with throws and chain combos"},
+      {"name": "Paul Phoenix", "combat_style": "Karate-based power striking"},
+      {"name": "Yoshimitsu", "combat_style": "Ninjutsu-inspired sword and acrobatic strikes"}
+    ],
+    "martial_arts_used": ["Mishima-style Karate", "Aikido", "Jeet Kune Do", "Professional Wrestling", "Karate", "Ninjutsu"],
+    "youtube_trailer": "https://www.youtube.com/watch?v=2fNRBKGRZbc",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Tekken+2+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Tekken_2",
+      "igdb": "https://www.igdb.com/games/tekken-2",
+      "gamespot": "https://www.gamespot.com/games/tekken-2/",
+      "google": "https://www.google.com/search?q=Tekken+2"
+    }
+  },
+  "Tekken3": {
+    "name": "Tekken 3",
+    "platforms": ["PlayStation"],
+    "release_year": 1998,
+    "playable_characters": [
+      {"name": "Jin Kazama", "combat_style": "Mishima-style Karate with fast strikes, launchers, and combos"},
+      {"name": "Hwoarang", "combat_style": "Taekwondo-based combat with stance switching and kick pressure"},
+      {"name": "Paul Phoenix", "combat_style": "Karate power strikes with overhand combos"},
+      {"name": "Marshall Law", "combat_style": "Jeet Kune Do-style fast strikes and acrobatics"},
+      {"name": "Nina Williams", "combat_style": "Aikido and assassination strikes"},
+      {"name": "King", "combat_style": "Professional Wrestling grapples and throws"},
+      {"name": "Ling Xiaoyu", "combat_style": "Chinese martial arts with agility and acrobatic kicks"},
+      {"name": "Yoshimitsu", "combat_style": "Ninjutsu-inspired sword and unarmed combat"},
+      {"name": "Eddy Gordo", "combat_style": "Capoeira with spinning kicks and fluid acrobatics"}
+    ],
+    "martial_arts_used": ["Mishima-style Karate", "Taekwondo", "Jeet Kune Do", "Aikido", "Capoeira", "Professional Wrestling", "Ninjutsu", "Chinese Martial Arts"],
+    "youtube_trailer": "https://www.youtube.com/watch?v=GTJxSf_-UcE",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Tekken+3+gameplay+combat",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Tekken_3",
+      "igdb": "https://www.igdb.com/games/tekken-3",
+      "gamespot": "https://www.gamespot.com/games/tekken-3/",
+      "google": "https://www.google.com/search?q=Tekken+3"
+    }
+  },
+  "Tekken4": {
+    "name": "Tekken 4",
+    "platforms": ["PlayStation 2"],
+    "release_year": 2001,
+    "playable_characters": [
+      {"name": "Kazuya Mishima", "combat_style": "Mishima-style Karate with electrics and counters"},
+      {"name": "Steve Fox", "combat_style": "Boxing with speed, jabs, and evasive movement"},
+      {"name": "Heihachi Mishima", "combat_style": "Mishima-style Karate with heavy strikes and counters"},
+      {"name": "Marshall Law", "combat_style": "Jeet Kune Do-style acrobatic strikes"},
+      {"name": "Nina Williams", "combat_style": "Aikido-based grapples and assassination strikes"},
+      {"name": "Paul Phoenix", "combat_style": "Karate power striking with overhand punches"},
+      {"name": "King", "combat_style": "Professional Wrestling throws and chain combos"},
+      {"name": "Yoshimitsu", "combat_style": "Ninjutsu sword and acrobatic combat"},
+      {"name": "Bryan Fury", "combat_style": "Kickboxing with brutal strikes and combos"},
+      {"name": "Lei Wulong", "combat_style": "Bajiquan and martial arts acrobatics"}
+    ],
+    "martial_arts_used": ["Mishima-style Karate", "Boxing", "Jeet Kune Do", "Aikido", "Karate", "Professional Wrestling", "Ninjutsu", "Kickboxing", "Bajiquan"],
+    "youtube_trailer": "https://www.youtube.com/watch?v=R_hT4LFxtPw",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Tekken+4+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Tekken_4",
+      "igdb": "https://www.igdb.com/games/tekken-4",
+      "gamespot": "https://www.gamespot.com/games/tekken-4/",
+      "google": "https://www.google.com/search?q=Tekken+4"
+    }
+  },
+
+  "Tekken5": {
+    "name": "Tekken 5",
+    "platforms": ["PlayStation 2"],
+    "release_year": 2004,
+    "playable_characters": [
+      {"name": "Heihachi Mishima", "combat_style": "Mishima-style Karate with strong strikes and electrics"},
+      {"name": "Jin Kazama", "combat_style": "Mishima-style Karate with counters, launchers, and precise strikes"},
+      {"name": "Asuka Kazama", "combat_style": "Aikido-style defensive counters with throws and reversals"},
+      {"name": "Marshall Law", "combat_style": "Jeet Kune Do with kicks, strikes, and acrobatics"},
+      {"name": "Paul Phoenix", "combat_style": "Karate-based power strikes and overhand combos"},
+      {"name": "King", "combat_style": "Professional Wrestling with throws and chain attacks"},
+      {"name": "Nina Williams", "combat_style": "Aikido and assassination-style strikes and grapples"},
+      {"name": "Hwoarang", "combat_style": "Taekwondo with stance switching and kick combos"},
+      {"name": "Ling Xiaoyu", "combat_style": "Chinese martial arts with acrobatics and agility"},
+      {"name": "Yoshimitsu", "combat_style": "Ninjutsu-style sword and acrobatic combat"},
+      {"name": "Eddy Gordo", "combat_style": "Capoeira with spinning kicks and flowy movement"},
+      {"name": "Bryan Fury", "combat_style": "Kickboxing with brutal punches and elbows"},
+      {"name": "Lei Wulong", "combat_style": "Bajiquan and Drunken Boxing acrobatics"}
+    ],
+    "martial_arts_used": ["Mishima-style Karate", "Aikido", "Jeet Kune Do", "Karate", "Professional Wrestling", "Taekwondo", "Chinese Martial Arts", "Capoeira", "Ninjutsu", "Kickboxing", "Bajiquan"],
+    "youtube_trailer": "https://www.youtube.com/watch?v=csLYOR-wvdE",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Tekken+5+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Tekken_5",
+      "igdb": "https://www.igdb.com/games/tekken-5",
+      "gamespot": "https://www.gamespot.com/games/tekken-5/",
+      "google": "https://www.google.com/search?q=Tekken+5"
+    }
+  },
+  "Tekken6": {
+    "name": "Tekken 6",
+    "platforms": ["PlayStation 3", "Xbox 360"],
+    "release_year": 2009,
+    "playable_characters": [
+      {"name": "Lars Alexandersson", "combat_style": "Hybrid striking martial arts with dynamic movement and pressure"},
+      {"name": "Alisa Bosconovitch", "combat_style": "Acrobatic strikes with mechanical enhancements and precise hits"},
+      {"name": "Jin Kazama", "combat_style": "Mishima-style Karate with electrics, launchers, and combos"},
+      {"name": "Heihachi Mishima", "combat_style": "Mishima-style Karate with strong striking and electrics"},
+      {"name": "Kazuya Mishima", "combat_style": "Mishima-style Karate with aggressive offense and electrics"},
+      {"name": "Paul Phoenix", "combat_style": "Karate with powerful punches and overhand strikes"},
+      {"name": "Marshall Law", "combat_style": "Jeet Kune Do with acrobatic strikes and fast kicks"},
+      {"name": "King", "combat_style": "Professional Wrestling with grapples and chain throws"},
+      {"name": "Nina Williams", "combat_style": "Aikido-based grapples and assassination strikes"},
+      {"name": "Bryan Fury", "combat_style": "Kickboxing with brutal punches and combos"},
+      {"name": "Hwoarang", "combat_style": "Taekwondo with stance switching and kicking pressure"},
+      {"name": "Lei Wulong", "combat_style": "Bajiquan and Drunken Boxing acrobatics"}
+    ],
+    "martial_arts_used": ["Mishima-style Karate", "Jeet Kune Do", "Karate", "Aikido", "Professional Wrestling", "Taekwondo", "Bajiquan", "Kickboxing", "Acrobatic martial arts", "Hybrid striking techniques"],
+    "youtube_trailer": "https://www.youtube.com/watch?v=wXX2XrILyvY",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Tekken+6+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Tekken_6",
+      "igdb": "https://www.igdb.com/games/tekken-6",
+      "gamespot": "https://www.gamespot.com/games/tekken-6/",
+      "google": "https://www.google.com/search?q=Tekken+6"
+    }
+  },
+  "Tekken7": {
+    "name": "Tekken 7",
+    "platforms": ["PlayStation 4", "Xbox One"],
+    "release_year": 2017,
+    "playable_characters": [
+      {"name": "Jin Kazama", "combat_style": "Balanced Mishima-style Karate with counters and precise strikes"},
+      {"name": "Kazumi Mishima", "combat_style": "Mishima-style Karate with controlled aggression and strong counters"},
+      {"name": "Heihachi Mishima", "combat_style": "Mishima-style Karate with electrics and heavy strikes"},
+      {"name": "Kazuya Mishima", "combat_style": "Mishima-style Karate with aggressive offense and electrics"},
+      {"name": "Paul Phoenix", "combat_style": "Karate with heavy punches and overhand strikes"},
+      {"name": "Marshall Law", "combat_style": "Jeet Kune Do with fast strikes and acrobatics"},
+      {"name": "King", "combat_style": "Professional Wrestling with grapples and chain throws"},
+      {"name": "Nina Williams", "combat_style": "Aikido-based grapples and assassination techniques"},
+      {"name": "Hwoarang", "combat_style": "Taekwondo with stance switching and kick combos"},
+      {"name": "Bryan Fury", "combat_style": "Kickboxing with brutal combos"},
+      {"name": "Lars Alexandersson", "combat_style": "Hybrid striking martial arts with agile attacks"},
+      {"name": "Alisa Bosconovitch", "combat_style": "Acrobatic mechanical-enhanced strikes"}
+    ],
+    "martial_arts_used": ["Mishima-style Karate", "Karate", "Aikido", "Jeet Kune Do", "Professional Wrestling", "Taekwondo", "Kickboxing", "Hybrid martial arts", "Acrobatic combat"],
+    "youtube_trailer": "https://www.youtube.com/watch?v=1V-_q3SKh5w",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Tekken+7+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Tekken_7",
+      "igdb": "https://www.igdb.com/games/tekken-7",
+      "gamespot": "https://www.gamespot.com/games/tekken-7/",
+      "google": "https://www.google.com/search?q=Tekken+7"
+    }
+  },
+  "Tekken8": {
+    "name": "Tekken 8",
+    "platforms": ["PlayStation 5", "Xbox Series X/S"],
+    "release_year": 2024,
+    "playable_characters": [
+      {"name": "Jin Kazama", "combat_style": "Mishima-style Karate with aggressive pressure, electrics, and cinematic strikes"},
+      {"name": "Kazuya Mishima", "combat_style": "Mishima-style Karate with brutal electrics and offensive combos"},
+      {"name": "Heihachi Mishima", "combat_style": "Mishima-style Karate with precise strikes and countering"},
+      {"name": "Lars Alexandersson", "combat_style": "Hybrid striking martial arts with agile attacks and pressure"},
+      {"name": "Marshall Law", "combat_style": "Jeet Kune Do with fast acrobatics and kicks"},
+      {"name": "Paul Phoenix", "combat_style": "Karate-based power punches and overhand strikes"},
+      {"name": "King", "combat_style": "Professional Wrestling with chain throws and grapples"},
+      {"name": "Nina Williams", "combat_style": "Aikido-based counters and assassination strikes"},
+      {"name": "Hwoarang", "combat_style": "Taekwondo with stance switching and kick combos"},
+      {"name": "Bryan Fury", "combat_style": "Kickboxing with high-damage combos"},
+      {"name": "Alisa Bosconovitch", "combat_style": "Acrobatic mechanical-enhanced strikes"}
+    ],
+    "martial_arts_used": ["Mishima-style Karate", "Karate", "Aikido", "Jeet Kune Do", "Professional Wrestling", "Taekwondo", "Kickboxing", "Hybrid striking techniques", "Acrobatic combat"],
+    "youtube_trailer": "https://www.youtube.com/watch?v=_MM4clV2qjE",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Tekken+8+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Tekken_8",
+      "igdb": "https://www.igdb.com/games/tekken-8",
+      "gamespot": "https://www.gamespot.com/games/tekken-8/",
+      "google": "https://www.google.com/search?q=Tekken+8"
+    }
+  }
+}
+

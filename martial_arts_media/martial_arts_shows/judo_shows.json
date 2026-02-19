@@ -1,0 +1,40 @@
+{
+  "JudoBoy": {
+    "name": "Judo Boy",
+    "format": "Animated",
+    "release_year": 1969,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "language": "Japanese",
+    "plot": "A young judo practitioner travels the countryside searching for his father’s killer, using his judo skills to face rivals, corrupt fighters, and dojo challengers along the way.",
+    "youtube": {
+      "trailer": "https://www.youtube.com/watch?v=EYQSkOhfXBo",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=judo+boy+anime+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0202181/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Judo_Boy",
+    "google_link": "https://www.google.com/search?q=Judo+Boy+1969+anime"
+  },
+  "Yawara": {
+    "name": "Yawara!",
+    "format": "Animated",
+    "release_year": 1989,
+    "genre": [
+      "Sports",
+      "Comedy",
+      "Drama"
+    ],
+    "language": "Japanese",
+    "plot": "A cheerful but reluctant judo prodigy is pushed by her grandfather toward competitive success and Olympic glory, balancing elite judo training with school life and personal freedom.",
+    "youtube": {
+      "trailer": "https://www.youtube.com/watch?v=FjXJrkxQeAE",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=yawara+anime+judo+matches"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0096686/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Yawara!",
+    "google_link": "https://www.google.com/search?q=Yawara+anime+judo"
+  }
+}

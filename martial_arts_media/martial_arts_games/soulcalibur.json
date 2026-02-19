@@ -1,0 +1,417 @@
+{
+  "SoulEdge": {
+    "name": "Soul Edge (Soul Blade)",
+    "platforms": [
+      "PlayStation"
+    ],
+    "release_year": 1996,
+    "playable_characters": [
+      {
+        "name": "Mitsurugi",
+        "combat_style": "Kenjutsu sword combat with strong overhead strikes, counters, and combos"
+      },
+      {
+        "name": "Sophitia Alexandra",
+        "combat_style": "Sword and shield combat with fast strikes, defensive techniques, and counters"
+      },
+      {
+        "name": "Taki",
+        "combat_style": "Ninjutsu-based combat with fast strikes, acrobatics, and dual ninjatō"
+      },
+      {
+        "name": "Cervantes",
+        "combat_style": "Dual sword and pistol combat combining Spanish fencing and pirate-style techniques"
+      },
+      {
+        "name": "Seong Mi-na",
+        "combat_style": "Naginatajutsu with polearm spins, long-range attacks, and acrobatics"
+      }
+    ],
+    "martial_arts_used": [
+      "Kenjutsu",
+      "Ninjutsu",
+      "Naginatajutsu",
+      "Swordsmanship",
+      "Spanish fencing",
+      "Dual-wield combat"
+    ],
+    "youtube_trailer": "https://www.youtube.com/watch?v=UjYhMbYzo_Y",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Soul+Edge+Soul+Blade+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Soul_Blade",
+      "igdb": "https://www.igdb.com/games/soul-blade",
+      "gamespot": "https://www.gamespot.com/games/soul-blade/",
+      "google": "https://www.google.com/search?q=Soul+Edge+Soul+Blade+video+game"
+    }
+  },
+  "Soulcalibur": {
+    "name": "Soulcalibur",
+    "platforms": [
+      "Dreamcast",
+      "PlayStation 2",
+      "PlayStation 3",
+      "PlayStation 4",
+      "Xbox",
+      "Xbox 360",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "release_year": 1998,
+    "playable_characters": [
+      {
+        "name": "Mitsurugi",
+        "combat_style": "Kenjutsu sword combat with strong strikes, counters, and combos"
+      },
+      {
+        "name": "Sophitia Alexandra",
+        "combat_style": "Sword and shield combat with fast strikes, defensive techniques, and counters"
+      },
+      {
+        "name": "Taki",
+        "combat_style": "Ninjutsu-based combat with dual ninjatō, acrobatics, and fast combos"
+      },
+      {
+        "name": "Cervantes",
+        "combat_style": "Dual sword and pistol combat combining fencing and pirate techniques"
+      },
+      {
+        "name": "Seong Mi-na",
+        "combat_style": "Naginatajutsu with spins, long-range polearm attacks, and acrobatics"
+      },
+      {
+        "name": "Kilik",
+        "combat_style": "Bōjutsu with staff strikes, counters, and fluid movement"
+      },
+      {
+        "name": "Maxi",
+        "combat_style": "Nunchaku-based combat with fast combos and agility-focused attacks"
+      }
+    ],
+    "martial_arts_used": [
+      "Kenjutsu",
+      "Ninjutsu",
+      "Naginatajutsu",
+      "Bōjutsu",
+      "Nunchaku",
+      "Swordsmanship",
+      "Dual-wield combat",
+      "Acrobatics"
+    ],
+    "youtube_trailer": "https://www.youtube.com/watch?v=f6PkTOdmdHs",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Soulcalibur+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Soulcalibur_(video_game)",
+      "igdb": "https://www.igdb.com/games/soulcalibur",
+      "gamespot": "https://www.gamespot.com/games/soulcalibur/",
+      "google": "https://www.google.com/search?q=Soulcalibur+video+game"
+    }
+  },
+  "SoulcaliburII": {
+    "name": "Soulcalibur II",
+    "platforms": [
+      "PlayStation 2",
+      "Xbox",
+      "GameCube"
+    ],
+    "release_year": 2002,
+    "playable_characters": [
+      {
+        "name": "Mitsurugi",
+        "combat_style": "Kenjutsu sword combat with counters and powerful strikes"
+      },
+      {
+        "name": "Sophitia Alexandra",
+        "combat_style": "Sword and shield combat with counters, strikes, and defensive moves"
+      },
+      {
+        "name": "Taki",
+        "combat_style": "Ninjutsu-based dual ninjatō combat with fast acrobatics"
+      },
+      {
+        "name": "Cervantes",
+        "combat_style": "Dual sword and pistol combat with fluid fencing moves"
+      },
+      {
+        "name": "Seong Mi-na",
+        "combat_style": "Naginatajutsu with spinning strikes and long-range attacks"
+      },
+      {
+        "name": "Kilik",
+        "combat_style": "Bōjutsu with staff techniques, counters, and fluid movement"
+      },
+      {
+        "name": "Maxi",
+        "combat_style": "Nunchaku-based combat emphasizing combos and speed"
+      },
+      {
+        "name": "Talim",
+        "combat_style": "Dual dagger wind-based martial arts emphasizing mobility and acrobatics"
+      },
+      {
+        "name": "Yoshimitsu",
+        "combat_style": "Kenjutsu and ninjutsu hybrid with trick moves and stealth attacks"
+      }
+    ],
+    "martial_arts_used": [
+      "Kenjutsu",
+      "Ninjutsu",
+      "Naginatajutsu",
+      "Bōjutsu",
+      "Nunchaku",
+      "Dual dagger martial arts",
+      "Swordsmanship",
+      "Acrobatics"
+    ],
+    "youtube_trailer": "https://www.youtube.com/watch?v=_e58pJ6t_-I",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Soulcalibur+II+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Soulcalibur_II",
+      "igdb": "https://www.igdb.com/games/soulcalibur-ii",
+      "gamespot": "https://www.gamespot.com/games/soulcalibur-ii/",
+      "google": "https://www.google.com/search?q=Soulcalibur+II+video+game"
+    }
+  },
+  "SoulcaliburIII": {
+    "name": "Soulcalibur III",
+    "platforms": [
+      "PlayStation 2"
+    ],
+    "release_year": 2005,
+    "playable_characters": [
+      {
+        "name": "Siegfried",
+        "combat_style": "Longsword combat with wide swings, counters, and heavy strikes"
+      },
+      {
+        "name": "Astaroth",
+        "combat_style": "Axe-based combat emphasizing power strikes and throws"
+      },
+      {
+        "name": "Mitsurugi",
+        "combat_style": "Kenjutsu sword combat with counters and combos"
+      },
+      {
+        "name": "Taki",
+        "combat_style": "Dual ninjatō acrobatics with ninjutsu-based strikes"
+      },
+      {
+        "name": "Sophitia Alexandra",
+        "combat_style": "Sword and shield combat with precise strikes and counters"
+      },
+      {
+        "name": "Cassandra",
+        "combat_style": "Sword and shield combat with quick combos and defensive moves"
+      },
+      {
+        "name": "Kilik",
+        "combat_style": "Bōjutsu with staff techniques and counter-focused combos"
+      },
+      {
+        "name": "Talim",
+        "combat_style": "Dual dagger wind-based combat emphasizing mobility"
+      }
+    ],
+    "martial_arts_used": [
+      "Kenjutsu",
+      "Bōjutsu",
+      "Swordsmanship",
+      "Axe-based combat",
+      "Dual dagger martial arts",
+      "Ninjutsu",
+      "Acrobatics"
+    ],
+    "youtube_trailer": "https://www.youtube.com/watch?v=ku2PtqxzVgg",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Soulcalibur+III+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Soulcalibur_III",
+      "igdb": "https://www.igdb.com/games/soulcalibur-iii",
+      "gamespot": "https://www.gamespot.com/games/soulcalibur-iii/",
+      "google": "https://www.google.com/search?q=Soulcalibur+III+video+game"
+    }
+  },
+  "SoulcaliburIV": {
+    "name": "Soulcalibur IV",
+    "platforms": [
+      "PlayStation 3",
+      "Xbox 360"
+    ],
+    "release_year": 2008,
+    "playable_characters": [
+      {
+        "name": "Siegfried",
+        "combat_style": "Longsword combat with counters, heavy strikes, and combos"
+      },
+      {
+        "name": "Mitsurugi",
+        "combat_style": "Kenjutsu sword combat with fast and strong attacks"
+      },
+      {
+        "name": "Sophitia Alexandra",
+        "combat_style": "Sword and shield combat with counters and defensive techniques"
+      },
+      {
+        "name": "Taki",
+        "combat_style": "Dual ninjatō acrobatics with ninjutsu strikes"
+      },
+      {
+        "name": "Cassandra",
+        "combat_style": "Sword and shield combat with fast combos"
+      },
+      {
+        "name": "Talim",
+        "combat_style": "Dual dagger wind-based martial arts with agility and combos"
+      },
+      {
+        "name": "Voldo",
+        "combat_style": "Acrobatic and contorted combat with dual short swords"
+      },
+      {
+        "name": "Ivy",
+        "combat_style": "Whip sword combat with long-range strikes and grapples"
+      },
+      {
+        "name": "Yoda",
+        "combat_style": "Lightsaber combat with Jedi techniques (guest character)"
+      },
+      {
+        "name": "Darth Vader",
+        "combat_style": "Lightsaber combat with force-powered strikes (guest character)"
+      }
+    ],
+    "martial_arts_used": [
+      "Kenjutsu",
+      "Ninjutsu",
+      "Dual dagger martial arts",
+      "Whip sword combat",
+      "Swordsmanship",
+      "Acrobatics",
+      "Lightsaber combat"
+    ],
+    "youtube_trailer": "https://www.youtube.com/watch?v=R4FTN9Qa2eY",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Soulcalibur+IV+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Soulcalibur_IV",
+      "igdb": "https://www.igdb.com/games/soulcalibur-iv",
+      "gamespot": "https://www.gamespot.com/games/soulcalibur-iv/",
+      "google": "https://www.google.com/search?q=Soulcalibur+IV+video+game"
+    }
+  },
+  "SoulcaliburV": {
+    "name": "Soulcalibur V",
+    "platforms": [
+      "PlayStation 3",
+      "Xbox 360"
+    ],
+    "release_year": 2012,
+    "playable_characters": [
+      {
+        "name": "Patroklos",
+        "combat_style": "Sword combat with fluid combos, counters, and special techniques"
+      },
+      {
+        "name": "Pyrrha",
+        "combat_style": "Sword combat with fast strikes, acrobatics, and counters"
+      },
+      {
+        "name": "Siegfried",
+        "combat_style": "Heavy longsword combat with wide attacks and counters"
+      },
+      {
+        "name": "Xianghua",
+        "combat_style": "Sword combat emphasizing speed, counters, and combos"
+      },
+      {
+        "name": "Mitsurugi",
+        "combat_style": "Kenjutsu sword combat with strong overhead strikes"
+      },
+      {
+        "name": "Taki",
+        "combat_style": "Dual ninjatō acrobatics with ninjutsu-based attacks"
+      },
+      {
+        "name": "Sophitia Alexandra",
+        "combat_style": "Sword and shield combat with defensive strikes"
+      }
+    ],
+    "martial_arts_used": [
+      "Kenjutsu",
+      "Ninjutsu",
+      "Swordsmanship",
+      "Dual-wield combat",
+      "Acrobatics"
+    ],
+    "youtube_trailer": "https://www.youtube.com/watch?v=mPQh0uPVSMI",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Soulcalibur+V+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Soulcalibur_V",
+      "igdb": "https://www.igdb.com/games/soulcalibur-v",
+      "gamespot": "https://www.gamespot.com/games/soulcalibur-v/",
+      "google": "https://www.google.com/search?q=Soulcalibur+V+video+game"
+    }
+  },
+  "SoulcaliburVI": {
+    "name": "Soulcalibur VI",
+    "platforms": [
+      "PlayStation 4",
+      "Xbox One",
+      "PC"
+    ],
+    "release_year": 2018,
+    "playable_characters": [
+      {
+        "name": "Sophitia Alexandra",
+        "combat_style": "Sword and shield combat with counters and precision strikes"
+      },
+      {
+        "name": "Talim",
+        "combat_style": "Dual dagger wind-based martial arts emphasizing mobility and combos"
+      },
+      {
+        "name": "Mitsurugi",
+        "combat_style": "Kenjutsu sword combat with fast and heavy strikes"
+      },
+      {
+        "name": "Siegfried",
+        "combat_style": "Longsword combat with wide swings and counters"
+      },
+      {
+        "name": "Taki",
+        "combat_style": "Dual ninjatō acrobatics with ninjutsu strikes"
+      },
+      {
+        "name": "Ivy",
+        "combat_style": "Whip sword combat with long-range strikes and grapples"
+      },
+      {
+        "name": "Kilik",
+        "combat_style": "Bōjutsu staff combat with counters and fluid movement"
+      },
+      {
+        "name": "Xianghua",
+        "combat_style": "Sword combat emphasizing speed and counter-based combos"
+      },
+      {
+        "name": "Geralt of Rivia",
+        "combat_style": "Sword and magic combat with monster-hunting techniques (guest character)"
+      }
+    ],
+    "martial_arts_used": [
+      "Kenjutsu",
+      "Ninjutsu",
+      "Bōjutsu",
+      "Dual dagger martial arts",
+      "Swordsmanship",
+      "Whip sword combat",
+      "Acrobatics",
+      "Magic sword techniques"
+    ],
+    "youtube_trailer": "https://www.youtube.com/watch?v=kOq5dVigDGU",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Soulcalibur+VI+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Soulcalibur_VI",
+      "igdb": "https://www.igdb.com/games/soulcalibur-vi",
+      "gamespot": "https://www.gamespot.com/games/soulcalibur-vi/",
+      "google": "https://www.google.com/search?q=Soulcalibur+VI+video+game"
+    }
+  }
+}

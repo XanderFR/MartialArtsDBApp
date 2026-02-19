@@ -1,0 +1,59 @@
+{% macro navbar() %}
+<div>
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="{{ url_for('home') }}">Black Belt City</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown"
+      aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarNavDropdown">
+      <ul class="navbar-nav">
+        <!-- Dropdown -->
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="martialArtsDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Martial Arts
+          </a>
+          <ul class="dropdown-menu" aria-labelledby="martialArtsDropdown">
+            <li><a class="dropdown-item" href="{{ url_for('martial_arts') }}">See All</a></li>
+            <li><a class="dropdown-item" href="{{ url_for('martial_arts_striking') }}">Strikers</a></li>
+            <li><a class="dropdown-item" href="{{ url_for('martial_arts_grappling') }}">Grapplers</a></li>
+            <li><a class="dropdown-item" href="{{ url_for('martial_arts_hybrids') }}">Hybrids</a></li>
+            <li><a class="dropdown-item" href="{{ url_for('martial_arts_weapons') }}">Weapons</a></li>
+          </ul>
+        </li>
+
+        <!-- Other Tabs -->
+        <li class="nav-item">
+          <a class="nav-link" href="{{ url_for('martial_arts_schools', province='quebec', city='montreal') }}">Martial Arts School Database</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="{{ url_for('digital_marketing_services') }}">Digital Marketing Services</a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="martialArtsMediaDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Martial Arts in the Media
+          </a>
+          <ul class="dropdown-menu" aria-labelledby="martialArtsMediaDropdown">
+            <li><a class="dropdown-item" href="{{ url_for('martial_arts_shows', art_key='karate_shows') }}">Shows</a></li>
+            <li><a class="dropdown-item" href="{{ url_for('martial_arts_movies', art_key='karate_movies' ) }}">Movies</a></li>
+            <li><a class="dropdown-item" href="{{ url_for('martial_arts_games') }}">Video Games</a></li>
+          </ul>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="martialArtsMediaDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Martial Arts in Real World
+          </a>
+          <ul class="dropdown-menu" aria-labelledby="martialArtsMediaDropdown">
+            <li><a class="dropdown-item" href="{{ url_for('martial_arts_real_world_character_development', art_key='karate_character_development') }}">Character Development</a></li>
+            <li><a class="dropdown-item" href="{{ url_for('martial_arts_real_world_documentaries', art_key='karate_documentaries') }}">Documentaries</a></li>
+            <li><a class="dropdown-item" href="{{ url_for('martial_arts_real_world_self_defense', art_key='karate_self_defense') }}">Self Defense</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+</div>
+{% endmacro %}

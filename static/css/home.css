@@ -1,0 +1,23 @@
+.phone-screen {
+  width: 800px;            /* adjust as needed */
+  aspect-ratio: 16 / 9;    /* landscape smartphone ratio */
+  object-fit: cover;       /* crop image nicely */
+  display: block;
+  margin: 0 auto;          /* center horizontally */
+  border-radius: 20px;     /* optional: rounded corners */
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.3); /* optional: subtle phone shadow */
+}
+
+/* Caption color themes */
+.caption-red   { color: #9D0208; }
+.caption-blue  { color: #457B9D; }
+.caption-olive { color: #808000; }
+.caption-purple { color: #7B1FA2; }
+.caption-indigo { color: #191970; }
+
+/* Darken the controls */
+.control-dark {
+  background-color: black !important;
+  background-image: none !important;
+}
+

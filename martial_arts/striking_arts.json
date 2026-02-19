@@ -1,0 +1,410 @@
+{
+  "Boxing": {
+    "name": "Boxing",
+    "image": {
+      "file_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/USAG_Stuttgart_Oktoberfest_Boxing_Championship_%285950640%29.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:USAG_Stuttgart_Oktoberfest_Boxing_Championship_(5950640).jpg",
+      "attribution": "U.S. Army photo by Jason Johnston, Public domain, via Wikimedia Commons",
+      "alt_text": "U.S. Soldiers participate in the Oktoberfest Boxing Championship in Germany."
+    },
+    "country_of_origin": "United Kingdom",
+    "description": [
+      "Boxing is a combat sport that focuses on using punches, footwork, and defense to outscore or outmaneuver an opponent. It emphasizes speed, timing, and precision rather than kicks or grappling.",
+      "Modern boxing developed in the United Kingdom and evolved from earlier forms of bare-knuckle fighting. Over time, rules and safety equipment were introduced, shaping boxing into a popular international sport.",
+      "Boxers learn punching combinations, defensive movements like slipping and blocking, and constant footwork. Training also includes conditioning, coordination, and learning how to stay calm under pressure.",
+      "People practice boxing to improve fitness, confidence, and mental toughness. It is widely used for sport, conditioning, and self-defense, and is popular with teens and young adults."
+    ],
+    "primary_techniques": [
+      "Punches",
+      "Footwork",
+      "Head movement",
+      "Blocking"
+    ],
+    "common_uses": [
+      "Sport",
+      "Fitness",
+      "Competition",
+      "Self-defense"
+    ],
+    "competition_format": "Timed rounds with scoring based on clean punches",
+    "benefits": [
+      "Develops fast and accurate punching skills.",
+      "Improves endurance, coordination, and reflexes.",
+      "Teaches effective movement and distance control.",
+      "Builds mental toughness and confidence through disciplined training."
+    ],
+    "famous_practitioners": [
+      "Muhammad Ali",
+      "Mike Tyson",
+      "Floyd Mayweather Jr.",
+      "Katie Taylor"
+    ],
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Boxing",
+    "google_search_link": "https://www.google.com/search?q=what+is+boxing%3F",
+    "youtube_search_link": "https://www.youtube.com/results?search_query=what+is+boxing%3F"
+  },
+
+  "Capoeira": {
+    "name": "Capoeira",
+    "image": {
+      "file_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Cia_Capoeira_Jo%C3%A3o_de_Barro_-_Foto_Jo%C3%A3o_Ramos_Bahiatursa_%288271595623%29.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Cia_Capoeira_Jo%C3%A3o_de_Barro_-_Foto_Jo%C3%A3o_Ramos_Bahiatursa_(8271595623).jpg",
+      "attribution": "Turismo Bahia, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "alt_text": "Capoeira performers demonstrate movements during a cultural presentation in Brazil."
+    },
+    "country_of_origin": "Brazil",
+    "description": [
+      "Capoeira is a martial art that combines movement, acrobatics, and music. It looks like a dance but includes kicks, sweeps, and evasive movements used for self-defense.",
+      "Capoeira was developed in Brazil by enslaved Africans who disguised combat training as dance. Over time, it became an important part of Brazilian culture and history.",
+      "Students learn flowing movements, kicks, dodges, and acrobatics while interacting with a partner. Training also includes rhythm, coordination, and awareness of space.",
+      "People practice Capoeira to improve flexibility, creativity, and confidence. It is valued for its strong sense of community, cultural expression, and full-body fitness."
+    ],
+    "primary_techniques": [
+      "Kicks",
+      "Sweeps",
+      "Dodges",
+      "Acrobatics"
+    ],
+    "common_uses": [
+      "Cultural practice",
+      "Fitness",
+      "Self-defense",
+      "Performance"
+    ],
+    "competition_format": "Game-based exchanges within a roda (circle)",
+    "benefits": [
+      "Improves flexibility, balance, and coordination.",
+      "Encourages creativity and expressive movement.",
+      "Builds full-body strength and endurance.",
+      "Connects physical training with music and cultural history."
+    ],
+    "famous_practitioners": [
+      "Mestre Bimba",
+      "Mestre Pastinha",
+      "Mestre João Grande",
+      "Mestre Suassuna"
+    ],
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Capoeira",
+    "google_search_link": "https://www.google.com/search?q=what+is+capoeira%3F",
+    "youtube_search_link": "https://www.youtube.com/results?search_query=what+is+capoeira%3F"
+  },
+
+  "Karate": {
+    "name": "Karate",
+    "image": {
+      "file_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/EVD-kumite-060.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:EVD-kumite-060.jpg",
+      "attribution": "User:Evdcoldeportes, CC BY-SA 2.5 CO <https://creativecommons.org/licenses/by-sa/2.5/co/deed.en>, via Wikimedia Commons",
+      "alt_text": "Two karate practitioners spar during a kumite match in a competition setting."
+    },
+    "country_of_origin": "Japan",
+    "description": [
+      "Karate is a martial art that focuses on using the body as a powerful and controlled tool for self-defense. It teaches punches, kicks, blocks, and strikes while emphasizing discipline, respect, and self-control.",
+      "Karate originated on the island of Okinawa, which is now part of Japan. It developed as a way for people to protect themselves without weapons and was later influenced by both local fighting styles and Chinese martial arts.",
+      "In Karate, students learn basic techniques, forms called kata, and controlled sparring. Training also includes balance, coordination, breathing, and learning how to move with focus and precision.",
+      "People practice Karate to build confidence, improve fitness, and develop mental focus. It is also valued for teaching respect, perseverance, and discipline, making it popular with kids, teens, and adults alike."
+    ],
+    "primary_techniques": [
+      "Punches",
+      "Kicks",
+      "Blocks",
+      "Open-hand strikes"
+    ],
+    "common_uses": [
+      "Sport",
+      "Self-defense",
+      "Fitness",
+      "Discipline"
+    ],
+    "competition_format": "Point-based sparring and kata",
+    "benefits": [
+      "Develops precise striking and blocking skills rooted in traditional forms (kata).",
+      "Teaches controlled power, emphasizing technique over brute strength.",
+      "Strengthens timing, distance awareness, and body mechanics specific to Karate techniques.",
+      "Preserves traditional Japanese martial arts philosophy, including respect, etiquette, and mental discipline unique to Karate practice."
+    ],
+    "famous_practitioners": [
+      "Gichin Funakoshi",
+      "Masutatsu Oyama",
+      "Chojun Miyagi",
+      "Lyoto Machida"
+    ],
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Karate",
+    "google_search_link": "https://www.google.com/search?q=what+is+karate%3F",
+    "youtube_search_link": "https://www.youtube.com/results?search_query=what+is+karate%3F"
+  },
+
+  "KungFu": {
+    "name": "Kung Fu",
+    "image": {
+      "file_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Shi_DeRu_and_Shi_DeYang.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Shi_DeRu_and_Shi_DeYang.jpg",
+      "attribution": "Shi Deru (a.k.a. Shawn Xiangyang Liu), CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
+      "alt_text": "Kung Fu masters Shi Deru and Shi DeYang pose together demonstrating traditional martial arts attire."
+    },
+    "country_of_origin": "China",
+    "description": [
+      "Kung Fu is a broad term for many Chinese martial arts that focus on striking, movement, and self-defense. Styles can range from fast and fluid to powerful and direct.",
+      "Kung Fu has ancient roots in China and was influenced by philosophy, medicine, and traditional training methods. It developed over centuries in temples, villages, and families.",
+      "Training includes punches, kicks, stances, forms, and sometimes weapons, depending on the style. Students also work on balance, coordination, and controlled breathing.",
+      "People practice Kung Fu to improve physical ability, mental focus, and discipline. It is valued for its deep traditions and its connection between body and mind."
+    ],
+    "primary_techniques": [
+      "Punches",
+      "Kicks",
+      "Stances",
+      "Open-hand techniques"
+    ],
+    "common_uses": [
+      "Self-defense",
+      "Fitness",
+      "Discipline",
+      "Cultural practice"
+    ],
+    "competition_format": "Forms (taolu) and light-contact sparring",
+    "benefits": [
+      "Develops strong stances and coordinated full-body movement.",
+      "Improves balance, flexibility, and control.",
+      "Encourages patience and long-term skill development.",
+      "Preserves traditional Chinese martial arts philosophy and practice."
+    ],
+    "famous_practitioners": [
+      "Bruce Lee",
+      "Ip Man",
+      "Jet Li",
+      "Jackie Chan"
+    ],
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Chinese_martial_arts",
+    "google_search_link": "https://www.google.com/search?q=what+is+kung+fu%3F",
+    "youtube_search_link": "https://www.youtube.com/results?search_query=what+is+kung+fu%3F"
+  },
+
+  "Lethwei": {
+    "name": "Lethwei",
+    "image": {
+      "file_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Lethwei_figths_in_Ye_city_Myanmar_2.png?20200210145816",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Lethwei_figths_in_Ye_city_Myanmar_2.png",
+      "attribution": "Lethwei Master, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+      "alt_text": "Lethwei fighter lands punch on opponent's face, Ye city, Myanmar, Feb 2020"
+    },
+    "country_of_origin": "Myanmar (Burma)",
+    "description": [
+      "Lethwei, also known as Burmese bare-knuckle boxing, is a striking martial art famous for its aggressive style and use of headbutts.",
+      "It originated in Myanmar and has been practiced for centuries as both a cultural tradition and a combat sport. Lethwei emphasizes knockouts over points, with draws declared if no fighter is knocked out.",
+      "Training includes punches, kicks, elbows, knees, headbutts, clinch work, and conditioning. Traditional bouts often use minimal hand wrapping, highlighting the bare-knuckle aspect.",
+      "People practice Lethwei to improve striking power, endurance, toughness, and mental discipline. It is increasingly gaining global recognition in martial arts circles and MMA crossovers."
+    ],
+    "primary_techniques": [
+      "Punches",
+      "Kicks",
+      "Elbows",
+      "Knees",
+      "Headbutts",
+      "Clinch striking"
+    ],
+    "common_uses": [
+      "Sport",
+      "Competition",
+      "Fitness",
+      "Self-defense"
+    ],
+    "competition_format": "Full-contact bare-knuckle bouts, with draws if no knockout occurs",
+    "benefits": [
+      "Develops powerful and diverse striking techniques.",
+      "Improves endurance, toughness, and mental resilience.",
+      "Teaches effective close-range combat and clinch control.",
+      "Preserves Burmese cultural martial arts traditions."
+    ],
+    "famous_practitioners": [
+      "Coca Light Burne",
+      "Tun Tun Min",
+      "Saw Nga Man",
+      "Dave Leduc"
+    ],
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Lethwei",
+    "google_search_link": "https://www.google.com/search?q=what+is+lethwei%3F",
+    "youtube_search_link": "https://www.youtube.com/results?search_query=what+is+lethwei%3F"
+  },
+
+  "MuayThai": {
+    "name": "Muay Thai",
+    "image": {
+      "file_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Muay_Thai_Fight_Us_Vs_Burma_%2880668035%29.jpeg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Muay_Thai_Fight_Us_Vs_Burma_(80668035).jpeg",
+      "attribution": "Gerrit Phil Baumann, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons",
+      "alt_text": "Two Muay Thai fighters compete in a match, demonstrating striking techniques in the ring."
+    },
+    "country_of_origin": "Thailand",
+    "description": [
+      "Muay Thai is a striking martial art known for using the entire body as a weapon. It includes punches, kicks, elbows, and knees, and is often called the 'Art of Eight Limbs.'",
+      "Muay Thai originated in Thailand and was developed from ancient battlefield combat techniques. Over time, it evolved into a national sport and an important part of Thai culture.",
+      "Students of Muay Thai learn powerful striking, clinch fighting, and defensive movement. Training focuses on conditioning, balance, timing, and learning to stay calm under pressure.",
+      "People practice Muay Thai to improve strength, endurance, and confidence. It is popular for fitness, competition, and self-defense, especially for those who enjoy high-energy training."
+    ],
+    "primary_techniques": [
+      "Punches",
+      "Kicks",
+      "Elbows",
+      "Knees",
+      "Clinching"
+    ],
+    "common_uses": [
+      "Sport",
+      "Fitness",
+      "Self-defense",
+      "Competition"
+    ],
+    "competition_format": "Full-contact striking with rounds",
+    "benefits": [
+      "Builds strong full-body striking skills using arms and legs together.",
+      "Improves conditioning, stamina, and mental toughness.",
+      "Teaches effective close-range fighting and balance through clinch work.",
+      "Develops resilience and confidence through disciplined, high-intensity training."
+    ],
+    "famous_practitioners": [
+      "Buakaw Banchamek",
+      "Saenchai",
+      "Samart Payakaroon",
+      "Valentina Shevchenko"
+    ],
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Muay_Thai",
+    "google_search_link": "https://www.google.com/search?q=what+is+muay+thai%3F",
+    "youtube_search_link": "https://www.youtube.com/results?search_query=what+is+muay+thai%3F"
+  },
+
+  "Sanda": {
+    "name": "Sanda",
+    "image": {
+      "file_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Sanshou_%28San_da%29_-_kick_%28practice_fight%29_Katwijk%2C_dec_4%2C_2006.JPG",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Sanshou_(San_da)_-_kick_(practice_fight)_Katwijk,_dec_4,_2006.JPG",
+      "attribution": "Richardkw, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
+      "alt_text": "Sanshou (San da) - kick during a practice fight in Katwijk, December 4, 2006"
+    },
+    "country_of_origin": "China",
+    "description": [
+      "Sanda, also called Sanshou, is a modern Chinese martial art and combat sport derived from traditional Kung Fu. It combines striking, kicking, and wrestling techniques into full-contact sparring.",
+      "Developed in the late 20th century, Sanda was created to train Chinese military and law enforcement personnel while also functioning as a sport with standardized rules and safety gear.",
+      "Training includes punches, kicks, throws, sweeps, and defensive movement. Athletes practice both solo drills and partner sparring, often using protective gear for competitive matches.",
+      "People practice Sanda for sport, self-defense, fitness, and competitive martial arts tournaments. It is recognized internationally and has inspired many modern combat sports athletes."
+    ],
+    "primary_techniques": [
+      "Punches",
+      "Kicks",
+      "Throws",
+      "Sweeps",
+      "Clinch work"
+    ],
+    "common_uses": [
+      "Sport competition",
+      "Self-defense",
+      "Fitness",
+      "Mixed martial arts training"
+    ],
+    "competition_format": "Full-contact bouts with rounds, protective gear, and point scoring for strikes and throws",
+    "benefits": [
+      "Builds full-body striking and grappling skills.",
+      "Develops agility, balance, and coordination.",
+      "Encourages practical, adaptable fighting techniques.",
+      "Improves reaction time and competitive mindset."
+    ],
+    "famous_practitioners": [
+      "Cung Le",
+      "Zhang Weili (transitioned to MMA)",
+      "Gao Jinlong",
+      "Jiang Hua"
+    ],
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Sanda_(sport)",
+    "google_search_link": "https://www.google.com/search?q=what+is+sanda+martial+art",
+    "youtube_search_link": "https://www.youtube.com/results?search_query=what+is+sanda+martial+art"
+  },
+
+  "Savate": {
+    "name": "Savate",
+    "image": {
+      "file_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Seminario_Internacional_Savate_Cuba_2008.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Seminario_Internacional_Savate_Cuba_2008.jpg",
+      "attribution": "Osvaldo george, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+      "alt_text": "Participants demonstrate Savate techniques during an international seminar in Cuba, 2008."
+    },
+    "country_of_origin": "France",
+    "description": [
+      "Savate is a striking martial art that combines precise kicking techniques with boxing-style punches. It is known for its speed, accuracy, and controlled movement.",
+      "Savate originated in France and developed from street fighting techniques and fencing influences. It later became a regulated sport with formal training and rules.",
+      "Students learn fast kicks, clean punches, and footwork while maintaining balance and control. Training emphasizes timing, distance, and technical precision.",
+      "People practice Savate to improve agility, coordination, and confidence. It is popular as both a sport and a refined system of self-defense."
+    ],
+    "primary_techniques": [
+      "Kicks",
+      "Punches",
+      "Footwork",
+      "Defensive movement"
+    ],
+    "common_uses": [
+      "Sport",
+      "Self-defense",
+      "Fitness",
+      "Competition"
+    ],
+    "competition_format": "Light- to full-contact bouts with scoring",
+    "benefits": [
+      "Develops fast and accurate kicking techniques.",
+      "Improves coordination between hands and feet.",
+      "Teaches precise movement and distance control.",
+      "Builds agility and technical striking skills."
+    ],
+    "famous_practitioners": [
+      "Joseph Charlemont",
+      "Charles Charlemont",
+      "Lucien Allard",
+      "Gerard Gordeau"
+    ],
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Savate",
+    "google_search_link": "https://www.google.com/search?q=what+is+savate%3F",
+    "youtube_search_link": "https://www.youtube.com/results?search_query=what+is+savate%3F"
+  },
+
+  "Taekwondo": {
+    "name": "Taekwondo",
+    "image": {
+      "file_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Taekwondo_Mujeres_%2810146646423%29.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Taekwondo_Mujeres_(10146646423).jpg",
+      "attribution": "Red CreaDeporte, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
+      "alt_text": "Female Taekwondo athletes perform kicks during a training session or competition."
+    },
+    "country_of_origin": "South Korea",
+    "description": [
+      "Taekwondo is a martial art known for its fast, high, and powerful kicking techniques. It combines athletic movement with discipline, respect, and focus.",
+      "Taekwondo originated in Korea and was influenced by older Korean fighting styles and modern martial arts. It later became an international sport and an Olympic event.",
+      "Training in Taekwondo includes kicking techniques, basic strikes, forms called poomsae, and controlled sparring. Students also develop flexibility, balance, and speed.",
+      "People practice Taekwondo to build confidence, coordination, and physical fitness. It is especially popular with kids and teens because of its structured belt system and emphasis on personal growth."
+    ],
+    "primary_techniques": [
+      "Kicks",
+      "Spinning kicks",
+      "Punches",
+      "Blocks"
+    ],
+    "common_uses": [
+      "Sport",
+      "Fitness",
+      "Self-defense",
+      "Discipline"
+    ],
+    "competition_format": "Olympic-style point sparring and poomsae",
+    "benefits": [
+      "Develops powerful and precise kicking techniques.",
+      "Improves flexibility, balance, and coordination.",
+      "Encourages goal-setting through a clear belt progression system.",
+      "Promotes respect, focus, and self-discipline rooted in Korean martial arts tradition."
+    ],
+    "famous_practitioners": [
+      "Choi Hong-hi",
+      "Hwang Kee",
+      "Steven López",
+      "Jade Jones"
+    ],
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Taekwondo",
+    "google_search_link": "https://www.google.com/search?q=what+is+taekwondo%3F",
+    "youtube_search_link": "https://www.youtube.com/results?search_query=what+is+taekwondo%3F"
+  }
+}

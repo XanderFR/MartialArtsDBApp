@@ -1,0 +1,506 @@
+{
+  "StreetFighter": {
+    "name": "Street Fighter",
+    "platforms": [
+      "Arcade",
+      "Commodore 64",
+      "ZX Spectrum",
+      "Amstrad CPC"
+    ],
+    "release_year": 1987,
+    "playable_characters": [
+      {
+        "name": "Ryu",
+        "combat_style": "Shotokan karate with strong basic strikes and early projectile techniques"
+      },
+      {
+        "name": "Ken",
+        "combat_style": "Shotokan-inspired martial arts with emphasis on speed and flare"
+      }
+    ],
+    "martial_arts_used": [
+      "Shotokan Karate",
+      "Traditional Karate",
+      "Striking fundamentals"
+    ],
+    "youtube_trailer": "https://www.youtube.com/watch?v=jO9lhTjfhWY",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Street+Fighter+1987+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Street_Fighter_(video_game)",
+      "igdb": "https://www.igdb.com/games/street-fighter",
+      "gamespot": "https://www.gamespot.com/games/street-fighter/",
+      "google": "https://www.google.com/search?q=Street+Fighter+1987"
+    }
+  },
+
+  "StreetFighterII": {
+    "name": "Street Fighter II: The World Warrior",
+    "platforms": [
+      "Arcade",
+      "Super Nintendo",
+      "Sega Genesis",
+      "PlayStation",
+      "Sega Saturn"
+    ],
+    "release_year": 1991,
+    "playable_characters": [
+      {
+        "name": "Ryu",
+        "combat_style": "Shotokan karate with fireballs, anti-air attacks, and strong fundamentals"
+      },
+      {
+        "name": "Ken",
+        "combat_style": "Shotokan-derived martial arts focused on speed and flashy combos"
+      },
+      {
+        "name": "Chun-Li",
+        "combat_style": "Chinese martial arts with fast kicks, agility, and acrobatic movement"
+      },
+      {
+        "name": "Guile",
+        "combat_style": "Military-style striking with sonic booms and disciplined grappling defense"
+      },
+      {
+        "name": "Blanka",
+        "combat_style": "Brazilian Capoeira influences with rolling attacks and wild strikes"
+      },
+      {
+        "name": "Dhalsim",
+        "combat_style": "Yoga-based stretching strikes with spiritual technique focus"
+      },
+      {
+        "name": "E. Honda",
+        "combat_style": "Sumo wrestling with powerful slaps and balance disruption"
+      },
+      {
+        "name": "Zangief",
+        "combat_style": "Russian Sambo and pro-wrestling-inspired grappling and throws"
+      }
+    ],
+    "martial_arts_used": [
+      "Shotokan Karate",
+      "Chinese Kung Fu",
+      "Capoeira",
+      "Yoga Fighting",
+      "Sumo",
+      "Sambo"
+    ],
+    "youtube_trailer": "https://www.youtube.com/watch?v=vQ6W5M8z4YA",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Street+Fighter+II+World+Warrior+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Street_Fighter_II",
+      "igdb": "https://www.igdb.com/games/street-fighter-ii-the-world-warrior",
+      "gamespot": "https://www.gamespot.com/games/street-fighter-ii-the-world-warrior/",
+      "google": "https://www.google.com/search?q=Street+Fighter+II+The+World+Warrior"
+    }
+  },
+
+  "StreetFighterAlpha": {
+    "name": "Street Fighter Alpha: Warriors' Dreams",
+    "platforms": [
+      "Arcade",
+      "PlayStation",
+      "Sega Saturn"
+    ],
+    "release_year": 1995,
+    "playable_characters": [
+      {
+        "name": "Ryu",
+        "combat_style": "Refined Shotokan karate with custom combo capabilities"
+      },
+      {
+        "name": "Chun-Li",
+        "combat_style": "Chinese martial arts with improved agility and kick power"
+      },
+      {
+        "name": "Sakura",
+        "combat_style": "Street-inspired Shotokan with improvisational techniques"
+      },
+      {
+        "name": "Charlie Nash",
+        "combat_style": "Military striking with disciplined counters and aerial moves"
+      }
+    ],
+    "martial_arts_used": [
+      "Shotokan Karate",
+      "Chinese Kung Fu",
+      "Street Fighting",
+      "Military Striking"
+    ],
+    "youtube_trailer": "https://www.youtube.com/watch?v=i0nbG3j3a34",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Street+Fighter+Alpha+Warriors+Dreams+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Street_Fighter_Alpha:_Warriors%27_Dreams",
+      "igdb": "https://www.igdb.com/games/street-fighter-alpha-warriors-dreams",
+      "gamespot": "https://www.gamespot.com/games/street-fighter-alpha-warriors-dreams/",
+      "google": "https://www.google.com/search?q=Street+Fighter+Alpha+Warriors+Dreams"
+    }
+  },
+
+  "StreetFighterAlpha2": {
+    "name": "Street Fighter Alpha 2",
+    "platforms": [
+      "Arcade",
+      "PlayStation",
+      "Sega Saturn",
+      "SNES"
+    ],
+    "release_year": 1996,
+    "playable_characters": [
+      {
+        "name": "Ryu",
+        "combat_style": "Shotokan karate with fast combos and defensive counters"
+      },
+      {
+        "name": "Ken",
+        "combat_style": "Aggressive Shotokan with stronger fireball techniques"
+      },
+      {
+        "name": "Rose",
+        "combat_style": "Soul Power mystic strikes with countering movements"
+      },
+      {
+        "name": "Cammy",
+        "combat_style": "British Commando Striking with quick kicks and dive attacks"
+      }
+    ],
+    "martial_arts_used": [
+      "Shotokan Karate",
+      "British Commando Striking",
+      "Mystic Striking"
+    ],
+    "youtube_trailer": "https://www.youtube.com/watch?v=ugIrISWPr2g",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Street+Fighter+Alpha+2+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Street_Fighter_Alpha_2",
+      "igdb": "https://www.igdb.com/games/street-fighter-alpha-2",
+      "gamespot": "https://www.gamespot.com/games/street-fighter-alpha-2/",
+      "google": "https://www.google.com/search?q=Street+Fighter+Alpha+2"
+    }
+  },
+
+  "StreetFighterAlpha3": {
+    "name": "Street Fighter Alpha 3",
+    "platforms": [
+      "Arcade",
+      "PlayStation",
+      "Dreamcast",
+      "PSP"
+    ],
+    "release_year": 1998,
+    "playable_characters": [
+      {
+        "name": "Ryu",
+        "combat_style": "Shotokan karate with selectable style systems (Isms) for varied combat"
+      },
+      {
+        "name": "Chun-Li",
+        "combat_style": "Chinese martial arts with lengthy combos and aerial dominance"
+      },
+      {
+        "name": "Guy",
+        "combat_style": "Bushin-style Ninjutsu-inspired strikes with acrobatic movement"
+      },
+      {
+        "name": "Sodom",
+        "combat_style": "Nihon Kempo-influenced weapon and strike mixing"
+      }
+    ],
+    "martial_arts_used": [
+      "Shotokan Karate",
+      "Chinese Kung Fu",
+      "Ninjutsu",
+      "Nihon Kempo"
+    ],
+    "youtube_trailer": "https://www.youtube.com/watch?v=MpPkit4lL4Y",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Street+Fighter+Alpha+3+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Street_Fighter_Alpha_3",
+      "igdb": "https://www.igdb.com/games/street-fighter-alpha-3",
+      "gamespot": "https://www.gamespot.com/games/street-fighter-alpha-3/",
+      "google": "https://www.google.com/search?q=Street+Fighter+Alpha+3"
+    }
+  },
+
+  "StreetFighterIII": {
+    "name": "Street Fighter III: New Generation",
+    "platforms": [
+      "Arcade",
+      "Dreamcast"
+    ],
+    "release_year": 1997,
+    "playable_characters": [
+      {
+        "name": "Ryu",
+        "combat_style": "Evolved Shotokan karate with parry focus and refined combos"
+      },
+      {
+        "name": "Ken",
+        "combat_style": "Shotokan karate with flaming special move enhancements"
+      },
+      {
+        "name": "Alex",
+        "combat_style": "Wrestling and striking blend with powerful throws"
+      }
+    ],
+    "martial_arts_used": [
+      "Shotokan Karate",
+      "Catch Wrestling",
+      "Hybrid striking"
+    ],
+    "youtube_trailer": "https://www.youtube.com/watch?v=7cMtJPNp_N8",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Street+Fighter+III+New+Generation+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Street_Fighter_III",
+      "igdb": "https://www.igdb.com/games/street-fighter-iii-new-generation",
+      "gamespot": "",
+      "google": "https://www.google.com/search?q=Street+Fighter+III+New+Generation"
+    }
+  },
+
+  "StreetFighterIII3rdStrike": {
+    "name": "Street Fighter III: 3rd Strike",
+    "platforms": [
+      "Arcade",
+      "Dreamcast",
+      "PlayStation 2",
+      "Xbox",
+      "PlayStation 3",
+      "Xbox 360",
+      "Nintendo Switch",
+      "PC"
+    ],
+    "release_year": 1999,
+    "playable_characters": [
+      {
+        "name": "Ryu",
+        "combat_style": "Shotokan-focused parry and combo mastery"
+      },
+      {
+        "name": "Chun-Li",
+        "combat_style": "Kung Fu with extended combos and agility emphasis"
+      },
+      {
+        "name": "Urien",
+        "combat_style": "Aegis-influenced grappling and energy strike control"
+      },
+      {
+        "name": "Dudley",
+        "combat_style": "Boxing with powerful hooks and footwork"
+      }
+    ],
+    "martial_arts_used": [
+      "Shotokan Karate",
+      "Chinese Kung Fu",
+      "Boxing",
+      "Grappling Arts"
+    ],
+    "youtube_trailer": "https://www.youtube.com/watch?v=7uPuRm9G-zA",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Street+Fighter+III+3rd+Strike+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Street_Fighter_III:_3rd_Strike",
+      "igdb": "https://www.igdb.com/games/street-fighter-iii-3rd-strike",
+      "gamespot": "",
+      "google": "https://www.google.com/search?q=Street+Fighter+III+3rd+Strike"
+    }
+  },
+
+    "StreetFighterIV": {
+    "name": "Street Fighter IV",
+    "platforms": [
+      "PlayStation 3",
+      "Xbox 360",
+      "PC",
+      "Nintendo Switch"
+    ],
+    "release_year": 2008,
+    "playable_characters": [
+      {
+        "name": "Ryu",
+        "combat_style": "Shotokan karate with focus on Hadoken, Shoryuken, and parry counters"
+      },
+      {
+        "name": "Ken",
+        "combat_style": "Shotokan karate emphasizing speed, flaming attacks, and juggling combos"
+      },
+      {
+        "name": "Chun-Li",
+        "combat_style": "Chinese martial arts with high-speed kicks, aerial strikes, and counters"
+      },
+      {
+        "name": "Guile",
+        "combat_style": "Military striking style with disciplined sonic booms and flash kicks"
+      },
+      {
+        "name": "Dhalsim",
+        "combat_style": "Yoga-based fighting with long reach attacks and teleportation"
+      },
+      {
+        "name": "E. Honda",
+        "combat_style": "Sumo wrestling with heavy slaps and charge-based attacks"
+      },
+      {
+        "name": "Blanka",
+        "combat_style": "Brazilian Capoeira with rolling attacks and electricity-based strikes"
+      },
+      {
+        "name": "Zangief",
+        "combat_style": "Russian Sambo and pro wrestling-inspired grappling and throws"
+      },
+      {
+        "name": "Abel",
+        "combat_style": "Mixed striking and grappling with throws and powerful punches"
+      },
+      {
+        "name": "Rufus",
+        "combat_style": "Freestyle martial arts with acrobatic strikes and spinning attacks"
+      }
+    ],
+    "martial_arts_used": [
+      "Shotokan Karate",
+      "Chinese Kung Fu",
+      "Sumo",
+      "Capoeira",
+      "Sambo",
+      "Hybrid grappling",
+      "Yoga Fighting"
+    ],
+    "youtube_trailer": "https://www.youtube.com/watch?v=zzcpCyaDTFk",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Street+Fighter+IV+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Street_Fighter_IV",
+      "igdb": "https://www.igdb.com/games/street-fighter-iv",
+      "gamespot": "https://www.gamespot.com/games/street-fighter-iv/",
+      "google": "https://www.google.com/search?q=Street+Fighter+IV"
+    }
+  },
+
+  "StreetFighterV": {
+    "name": "Street Fighter V",
+    "platforms": [
+      "PlayStation 4",
+      "PC"
+    ],
+    "release_year": 2016,
+    "playable_characters": [
+      {
+        "name": "Ryu",
+        "combat_style": "Shotokan karate with cinematic strikes, EX moves, and modern combo system"
+      },
+      {
+        "name": "Ken",
+        "combat_style": "Aggressive Shotokan with fast flaming attacks and juggle combos"
+      },
+      {
+        "name": "Chun-Li",
+        "combat_style": "Chinese martial arts with aerial mobility, fast kicks, and combos"
+      },
+      {
+        "name": "Nash",
+        "combat_style": "Military strike-based fighting with ranged projectiles and hand-to-hand combat"
+      },
+      {
+        "name": "Cammy",
+        "combat_style": "British Commando striking with acrobatics and rapid kicks"
+      },
+      {
+        "name": "Birdie",
+        "combat_style": "Brawling with heavy striking, throws, and unconventional attacks"
+      },
+      {
+        "name": "Necalli",
+        "combat_style": "Savage mixed martial arts with predatory strikes and enhanced strength"
+      },
+      {
+        "name": "Vega",
+        "combat_style": "Spanish Ninjutsu-style acrobatics with claw attacks and agility"
+      },
+      {
+        "name": "R. Mika",
+        "combat_style": "Professional wrestling with power throws, aerial moves, and tag techniques"
+      },
+      {
+        "name": "Zangief",
+        "combat_style": "Russian Sambo wrestling with throws, grapples, and spinning attacks"
+      }
+    ],
+    "martial_arts_used": [
+      "Shotokan Karate",
+      "Chinese Kung Fu",
+      "Sambo",
+      "Brawling",
+      "Ninjutsu",
+      "Professional Wrestling",
+      "Military Striking"
+    ],
+    "youtube_trailer": "https://www.youtube.com/watch?v=0nFd7Iylj5A",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Street+Fighter+V+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Street_Fighter_V",
+      "igdb": "https://www.igdb.com/games/street-fighter-v",
+      "gamespot": "https://www.gamespot.com/games/street-fighter-v/",
+      "google": "https://www.google.com/search?q=Street+Fighter+V"
+    }
+  },
+
+  "StreetFighter6": {
+    "name": "Street Fighter 6",
+    "platforms": [
+      "PlayStation 4",
+      "PlayStation 5",
+      "Xbox Series X/S",
+      "PC"
+    ],
+    "release_year": 2023,
+    "playable_characters": [
+      {
+        "name": "Ryu",
+        "combat_style": "Updated Shotokan karate with cinematic strikes, EX moves, and modern combos"
+      },
+      {
+        "name": "Ken",
+        "combat_style": "Aggressive Shotokan karate with fast juggles, flaming strikes, and counter techniques"
+      },
+      {
+        "name": "Luke",
+        "combat_style": "Modern hybrid martial arts with rapid combos, counters, and dynamic striking"
+      },
+      {
+        "name": "Chun-Li",
+        "combat_style": "Chinese martial arts with aerial kicks, speed combos, and counter techniques"
+      },
+      {
+        "name": "Guile",
+        "combat_style": "Military-style striking with disciplined counters, sonic boom, and flash kick"
+      },
+      {
+        "name": "Cammy",
+        "combat_style": "British Commando-inspired acrobatics and rapid kicking techniques"
+      },
+      {
+        "name": "Manon",
+        "combat_style": "French Savate with quick kicks, counters, and fluid footwork"
+      },
+      {
+        "name": "Kimberly",
+        "combat_style": "Ninjutsu-inspired modern strikes with acrobatics and fast mobility"
+      }
+    ],
+    "martial_arts_used": [
+      "Shotokan Karate",
+      "Chinese Kung Fu",
+      "Savate",
+      "Ninjutsu",
+      "Military Striking",
+      "Hybrid martial arts"
+    ],
+    "youtube_trailer": "https://www.youtube.com/watch?v=1INU3FOJsTw",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Street+Fighter+6+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Street_Fighter_6",
+      "igdb": "https://www.igdb.com/games/street-fighter-6",
+      "gamespot": "https://www.gamespot.com/games/street-fighter-6/",
+      "google": "https://www.google.com/search?q=Street+Fighter+6"
+    }
+  }
+}

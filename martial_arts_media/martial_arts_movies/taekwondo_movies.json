@@ -1,0 +1,209 @@
+{
+  "BestOfTheBest": {
+    "name": "Best of the Best",
+    "format": "Live-Action",
+    "release_year": 1989,
+    "genre": ["Action", "Sports"],
+    "language": "English",
+    "logline": "An American taekwondo team competes against Korea in an international championship.",
+    "youtube": {
+      "trailer": "https://youtu.be/KxpGbK0BoaE",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=best+of+the+best+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0097516/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Best_of_the_Best_(1989_film)",
+    "google_link": "https://www.google.com/search?q=Best+of+the+Best+1989+film"
+  },
+
+  "BestOfTheBestII": {
+    "name": "Best of the Best II",
+    "format": "Live-Action",
+    "release_year": 1993,
+    "genre": ["Action"],
+    "language": "English",
+    "logline": "Former champions are drawn into an underground competition.",
+    "youtube": {
+      "trailer": "https://youtu.be/kACp4dFPQ0I",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=best+of+the+best+2+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0106386/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Best_of_the_Best_II",
+    "google_link": "https://www.google.com/search?q=Best+of+the+Best+II+film"
+  },
+
+  "BestOfTheBest3": {
+    "name": "Best of the Best 3: No Turning Back",
+    "format": "Live-Action",
+    "release_year": 1995,
+    "genre": ["Action"],
+    "language": "English",
+    "logline": "A taekwondo master battles a violent gang threatening a small town.",
+    "youtube": {
+      "trailer": "https://youtu.be/Z4F3w7SPJ3E",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=best+of+the+best+3+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0109261/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Best_of_the_Best_3:_No_Turning_Back",
+    "google_link": "https://www.google.com/search?q=Best+of+the+Best+3+film"
+  },
+
+  "BestOfTheBest4": {
+    "name": "Best of the Best 4: Without Warning",
+    "format": "Live-Action",
+    "release_year": 1998,
+    "genre": ["Action"],
+    "language": "English",
+    "logline": "A fighter is forced back into combat to stop an international threat.",
+    "youtube": {
+      "trailer": "https://youtu.be/Jky-0XX4hCg",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=best+of+the+best+4+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0165676/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Best_of_the_Best_4:_Without_Warning",
+    "google_link": "https://www.google.com/search?q=Best+of+the+Best+4+film"
+  },
+
+  "BlackBeltAngels": {
+    "name": "Black Belt Angels",
+    "format": "Live-Action",
+    "release_year": 1990,
+    "genre": ["Action"],
+    "language": "English",
+    "logline": "Female fighters trained in taekwondo take on dangerous criminal forces.",
+    "youtube": {
+      "trailer": "https://youtu.be/VnRWkimCAVI",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=black+belt+angels+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0096947/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Black_Belt_Angels",
+    "google_link": "https://www.google.com/search?q=Black+Belt+Angels+film"
+  },
+
+  "Clementine": {
+    "name": "Clementine",
+    "format": "Live-Action",
+    "release_year": 2004,
+    "genre": ["Action"],
+    "language": "Korean",
+    "logline": "A revenge-driven fighter confronts his enemies using taekwondo.",
+    "youtube": {
+      "trailer": "https://youtu.be/XQ_TrYqW7O8",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=clementine+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0410920/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Clementine_(2004_film)",
+    "google_link": "https://www.google.com/search?q=Clementine+2004+film"
+  },
+
+  "ConductZero": {
+    "name": "Conduct Zero",
+    "format": "Live-Action",
+    "release_year": 2002,
+    "genre": ["Drama", "Action"],
+    "language": "Korean",
+    "logline": "A rebellious student navigates school violence and discipline.",
+    "youtube": {
+      "trailer": "https://youtu.be/_JqnMsgUYXo",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=conduct+zero+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0310775/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Conduct_Zero",
+    "google_link": "https://www.google.com/search?q=Conduct+Zero+film"
+  },
+
+  "FootFistWay": {
+    "name": "The Foot Fist Way",
+    "format": "Live-Action",
+    "release_year": 2006,
+    "genre": ["Comedy"],
+    "language": "English",
+    "logline": "A taekwondo instructor struggles with ego and purpose in a comedy setting.",
+    "youtube": {
+      "trailer": "https://youtu.be/9xyeguPUnqg",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=the+foot+fist+way+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0493459/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/The_Foot_Fist_Way",
+    "google_link": "https://www.google.com/search?q=The+Foot+Fist+Way+film"
+  },
+
+  "IcanIWillIDid": {
+    "name": "I Can I Will I Did",
+    "format": "Live-Action",
+    "release_year": 2017,
+    "genre": ["Drama"],
+    "language": "English",
+    "logline": "A bullied teen rebuilds strength and confidence with guidance from a taekwondo master.",
+    "youtube": {
+      "trailer": "https://youtu.be/4B3kRPkrLuE",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=i+can+i+will+i+did+taekwondo+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt4046713/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/I_Can_I_Will_I_Did",
+    "google_link": "https://www.google.com/search?q=I+Can+I+Will+I+Did+film"
+  },
+
+  "MiamiConnection": {
+    "name": "Miami Connection",
+    "format": "Live-Action",
+    "release_year": 1987,
+    "genre": ["Action"],
+    "language": "English",
+    "logline": "A taekwondo-trained rock band fights drug-dealing ninjas in Florida.",
+    "youtube": {
+      "trailer": "https://youtu.be/UeljYBnGo5g",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=miami+connection+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0092549/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Miami_Connection",
+    "google_link": "https://www.google.com/search?q=Miami+Connection+film"
+  },
+
+  "OfficerBlackBelt": {
+    "name": "Officer Black Belt",
+    "format": "Live-Action",
+    "release_year": 2024,
+    "genre": ["Action"],
+    "language": "Korean",
+    "logline": "A police officer skilled in taekwondo fights crime.",
+    "youtube": {
+      "trailer": "https://youtu.be/WNkGz6aKFvk",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=officer+black+belt+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Officer_Black_Belt",
+    "google_link": "https://www.google.com/search?q=Officer+Black+Belt+film"
+  },
+
+  "TheKick": {
+    "name": "The Kick",
+    "format": "Live-Action",
+    "release_year": 2011,
+    "genre": ["Action"],
+    "language": "Thai / Korean",
+    "logline": "A family of taekwondo practitioners faces danger while pursuing honor.",
+    "youtube": {
+      "trailer": "https://youtu.be/uU6bXUsPN7k",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=the+kick+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt1990255/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/The_Kick_(film)",
+    "google_link": "https://www.google.com/search?q=The+Kick+2011+film"
+  },
+
+  "WhenTaekwondoStrikes": {
+    "name": "When Taekwondo Strikes",
+    "format": "Live-Action",
+    "release_year": 1973,
+    "genre": ["Action"],
+    "language": "Korean",
+    "logline": "Taekwondo masters defend their community.",
+    "youtube": {
+      "trailer": "https://youtu.be/UV_wGfLcJ2k",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=when+taekwondo+strikes+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0070194/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/When_Taekwondo_Strikes",
+    "google_link": "https://www.google.com/search?q=When+Taekwondo+Strikes+film"
+  }
+}

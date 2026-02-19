@@ -1,0 +1,145 @@
+{
+  "BoyKillsWorld": {
+    "name": "Boy Kills World",
+    "format": "Live-Action",
+    "release_year": 2023,
+    "genre": ["Action", "Comedy"],
+    "language": "English",
+    "logline": "In a dystopian future, a deaf and mute fighter trained by a shaman seeks vengeance against those who murdered his family amid an oppressive regime.",
+    "youtube": {
+      "trailer": "https://youtu.be/tztCsUyiQv8",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=boy+kills+world+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt13923084/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Boy_Kills_World",
+    "google_link": "https://www.google.com/search?q=Boy+Kills+World+film"
+  },
+
+  "Headshot": {
+    "name": "Headshot",
+    "format": "Live-Action",
+    "release_year": 2016,
+    "genre": ["Action", "Thriller"],
+    "language": "Indonesian / English",
+    "logline": "An amnesiac man must protect a doctor from a criminal syndicate while uncovering his violent past.",
+    "youtube": {
+      "trailer": "https://youtu.be/uDQFd1iQyjw",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=headshot+2016+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt5147214/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Headshot_(2016_film)",
+    "google_link": "https://www.google.com/search?q=Headshot+2016+film"
+  },
+
+  "Merantau": {
+    "name": "Merantau",
+    "format": "Live-Action",
+    "release_year": 2009,
+    "genre": ["Action", "Silat"],
+    "language": "Indonesian / English",
+    "logline": "A young man trained in silat leaves his village and battles human traffickers.",
+    "youtube": {
+      "trailer": "https://youtu.be/2-DFFNUE1-U",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=merantau+silat+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt1368116/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Merantau",
+    "google_link": "https://www.google.com/search?q=Merantau+film"
+  },
+
+  "TheDeedOfDeath": {
+    "name": "The Deed of Death",
+    "format": "Live-Action",
+    "release_year": 2019,
+    "genre": ["Action"],
+    "language": "Malay",
+    "logline": "Two siblings from a silat family must rescue their brother and reclaim stolen land.",
+    "youtube": {
+      "trailer": "https://youtu.be/Ec6-Rlozg-E",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=the+deed+of+death+silat+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt11167446/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/The_Deed_of_Death",
+    "google_link": "https://www.google.com/search?q=The+Deed+of+Death+2019+film"
+  },
+
+  "TheGoldenCaneWarrior": {
+    "name": "The Golden Cane Warrior",
+    "format": "Live-Action",
+    "release_year": 2014,
+    "genre": ["Action"],
+    "language": "Indonesian",
+    "logline": "A master silat warrior’s legacy sparks rivalry and betrayal among disciples.",
+    "youtube": {
+      "trailer": "https://youtu.be/FgwNwlpDB1M",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=the+golden+cane+warrior+silat+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/search/title/?title=The+Golden+Cane+Warrior",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/The_Golden_Cane_Warrior",
+    "google_link": "https://www.google.com/search?q=The+Golden+Cane+Warrior+film"
+  },
+
+  "TheRaid": {
+    "name": "The Raid: Redemption",
+    "format": "Live-Action",
+    "release_year": 2011,
+    "genre": ["Action"],
+    "language": "Indonesian",
+    "logline": "An elite police squad assaults a high-rise controlled by a ruthless crime boss.",
+    "youtube": {
+      "trailer": "https://youtu.be/m6Q7KnXpNOg",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=the+raid+2011+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt1899353/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/The_Raid_(2011_film)",
+    "google_link": "https://www.google.com/search?q=The+Raid+2011+film"
+  },
+
+  "TheRaid2": {
+    "name": "The Raid 2",
+    "format": "Live-Action",
+    "release_year": 2014,
+    "genre": ["Action"],
+    "language": "Indonesian",
+    "logline": "Rama goes undercover in a crime family while navigating escalating violence.",
+    "youtube": {
+      "trailer": "https://youtu.be/PQ6yUHHfZ04",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=the+raid+2+fight+scenes"
+    },
+    "imdb_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/The_Raid_2",
+    "google_link": "https://www.google.com/search?q=The+Raid+2+film"
+  },
+
+  "Wira": {
+    "name": "Wira",
+    "format": "Live-Action",
+    "release_year": 2019,
+    "genre": ["Action"],
+    "language": "Malay / English",
+    "logline": "An ex-military man returns home to face local crime lords.",
+    "youtube": {
+      "trailer": "https://youtu.be/dUPa6yiGjBw",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=wira+2019+fight+scenes"
+    },
+    "imdb_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Wira_(film)",
+    "google_link": "https://www.google.com/search?q=Wira+2019+film"
+  },
+
+  "Yasmine": {
+    "name": "Yasmine",
+    "format": "Live-Action",
+    "release_year": 2014,
+    "genre": ["Drama"],
+    "language": "Malay / English",
+    "logline": "A Bruneian schoolgirl learns silat and finds empowerment balancing tradition and modern life.",
+    "youtube": {
+      "trailer": "https://youtu.be/_jqrFYOnhlY",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=yasmine+silat+scenes"
+    },
+    "imdb_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Yasmine_(film)",
+    "google_link": "https://www.google.com/search?q=Yasmine+2014+film"
+  }
+}

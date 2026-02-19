@@ -1,0 +1,256 @@
+{
+  "AFightersBlues": {
+    "name": "A Fighter's Blues",
+    "format": "Live-Action",
+    "release_year": 2001,
+    "genre": ["Drama", "Sports"],
+    "language": "English",
+    "logline": "A former Muay Thai fighter struggles with his past and seeks redemption through one last chance at honor.",
+    "youtube": {
+      "trailer": "https://youtu.be/6WYVSypcbDA",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=a+fighter%27s+blues+muay+thai+scenes"
+    },
+    "imdb_link": "",
+    "wikipedia_link": "",
+    "google_link": "https://www.google.com/search?q=A+Fighters+Blues+2001+film"
+  },
+
+  "APrayerBeforeDawn": {
+    "name": "A Prayer Before Dawn",
+    "format": "Live-Action",
+    "release_year": 2017,
+    "genre": ["Drama", "Biography", "Sports"],
+    "language": ["English", "Thai"],
+    "logline": "A British boxer survives a brutal Thai prison through underground Muay Thai fighting.",
+    "youtube": {
+      "trailer": "https://youtu.be/Mp88Nuci68c",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=a+prayer+before+dawn+muay+thai+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt4080956/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/A_Prayer_Before_Dawn",
+    "google_link": "https://www.google.com/search?q=A+Prayer+Before+Dawn+2017+film"
+  },
+
+  "BangkokKnockout": {
+    "name": "Bangkok Knockout",
+    "format": "Live-Action",
+    "release_year": 2010,
+    "genre": ["Action"],
+    "language": "Thai",
+    "logline": "A group of young Muay Thai fighters are lured into an underground death match tournament.",
+    "youtube": {
+      "trailer": "https://youtu.be/4YaG80jRijs",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=bangkok+knockout+muay+thai+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt1673697/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Bangkok_Knockout",
+    "google_link": "https://www.google.com/search?q=Bangkok+Knockout+2010+film"
+  },
+
+  "BeautifulBoxer": {
+    "name": "Beautiful Boxer",
+    "format": "Live-Action",
+    "release_year": 2003,
+    "genre": ["Drama", "Biography", "Sports"],
+    "language": "Thai",
+    "logline": "The true story of Nong Toom, a transgender Muay Thai champion who fights to fund gender reassignment surgery.",
+    "youtube": {
+      "trailer": "https://youtu.be/6orM84owB7M",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=beautiful+boxer+muay+thai+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0388500/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Beautiful_Boxer",
+    "google_link": "https://www.google.com/search?q=Beautiful+Boxer+2003+film"
+  },
+  "BornToFight": {
+    "name": "Born to Fight",
+    "format": "Live-Action",
+    "release_year": 2004,
+    "genre": ["Action"],
+    "language": "Thai",
+    "logline": "Elite athletes and fighters use Muay Thai and extreme sports skills to battle terrorists in rural Thailand.",
+    "youtube": {
+      "trailer": "https://youtu.be/sm95mZZQYpI",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=born+to+fight+muay+thai+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0416044/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Born_to_Fight_(2004_film)",
+    "google_link": "https://www.google.com/search?q=Born+to+Fight+2004+film"
+  },
+
+  "ChaiLai": {
+    "name": "Chai Lai",
+    "format": "Live-Action",
+    "release_year": 2006,
+    "genre": ["Action"],
+    "language": "Thai",
+    "logline": "A rural Muay Thai fighter takes on corruption and crime using his fighting skills.",
+    "youtube": {
+      "trailer": "https://youtu.be/g9HYha2Fd9k",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=chai+lai+muay+thai+scenes"
+    },
+    "imdb_link": "",
+    "wikipedia_link": "",
+    "google_link": "https://www.google.com/search?q=Chai+Lai+2006+Thai+film"
+  },
+
+  "Chocolate": {
+    "name": "Chocolate",
+    "format": "Live-Action",
+    "release_year": 2008,
+    "genre": ["Action", "Martial Arts"],
+    "language": "Thai",
+    "logline": "An autistic girl with an extraordinary ability to mimic martial arts fights gangsters to pay off her mother’s debts.",
+    "youtube": {
+      "trailer": "https://youtu.be/u5oaZmrR7Ak",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=chocolate+2008+muay+thai+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt1183251/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Chocolate_(2008_film)",
+    "google_link": "https://www.google.com/search?q=Chocolate+2008+Thai+film"
+  },
+
+  "DynamiteWarrior": {
+    "name": "Dynamite Warrior",
+    "format": "Live-Action",
+    "release_year": 2006,
+    "genre": ["Action", "Fantasy"],
+    "language": "Thai",
+    "logline": "A rocket-powered warrior seeks revenge using Muay Thai in a stylized historical fantasy.",
+    "youtube": {
+      "trailer": "https://youtu.be/lf2TMWCp-Y0",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=dynamite+warrior+muay+thai+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0475250/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Dynamite_Warrior",
+    "google_link": "https://www.google.com/search?q=Dynamite+Warrior+2006+film"
+  },
+
+  "Fireball": {
+    "name": "Fireball",
+    "format": "Live-Action",
+    "release_year": 2009,
+    "genre": ["Action", "Sports"],
+    "language": "Thai",
+    "logline": "Illegal underground Muay Thai matches turn deadly when a former athlete searches for his missing brother.",
+    "youtube": {
+      "trailer": "https://youtu.be/IB_mm-8spPo",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=fireball+muay+thai+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt1441912/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Fireball_(2009_film)",
+    "google_link": "https://www.google.com/search?q=Fireball+2009+Thai+film"
+  },
+
+  "MuayThaiChaiya": {
+    "name": "Muay Thai Chaiya",
+    "format": "Live-Action",
+    "release_year": 2007,
+    "genre": ["Drama"],
+    "language": "Thai",
+    "logline": "A village fighter trained in the traditional Muay Chaiya style faces corruption and exploitation in Bangkok.",
+    "youtube": {
+      "trailer": "https://youtu.be/URriWvTDlOU",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=muay+thai+chaiya+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0981222/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Muay_Thai_Chaiya",
+    "google_link": "https://www.google.com/search?q=Muay+Thai+Chaiya+2007+film"
+  },
+
+  "OngBak": {
+    "name": "Ong-Bak",
+    "format": "Live-Action",
+    "release_year": 2003,
+    "genre": ["Action"],
+    "language": "Thai",
+    "logline": "A Muay Thai fighter travels to Bangkok to retrieve a stolen sacred statue using only his fighting skills.",
+    "youtube": {
+      "trailer": "https://youtu.be/nAYUv9wjV48",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=ong+bak+muay+thai+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0368909/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Ong-Bak",
+    "google_link": "https://www.google.com/search?q=Ong-Bak+2003+film"
+  },
+
+  "OngBak2": {
+    "name": "Ong Bak 2",
+    "format": "Live-Action",
+    "release_year": 2008,
+    "genre": ["Action"],
+    "language": "Thai",
+    "logline": "A warrior trained in multiple traditional Thai martial arts seeks revenge in a historical setting.",
+    "youtube": {
+      "trailer": "https://youtu.be/YcHISERBGL4",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=ong+bak+2+muay+thai+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0785035/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Ong_Bak_2",
+    "google_link": "https://www.google.com/search?q=Ong+Bak+2+2008+film"
+  },
+
+  "OngBak3": {
+    "name": "Ong Bak 3",
+    "format": "Live-Action",
+    "release_year": 2010,
+    "genre": ["Action"],
+    "language": "Thai",
+    "logline": "The final chapter follows a broken warrior’s spiritual and physical recovery through martial arts.",
+    "youtube": {
+      "trailer": "https://youtu.be/YKCsWyKpywM",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=ong+bak+3+muay+thai+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt1653690/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Ong_Bak_3",
+    "google_link": "https://www.google.com/search?q=Ong+Bak+3+2010+film"
+  },
+
+  "RagingPhoenix": {
+    "name": "Raging Phoenix",
+    "format": "Live-Action",
+    "release_year": 2009,
+    "genre": ["Action"],
+    "language": "Thai",
+    "logline": "A young woman is trained in an unconventional Muay Thai-based fighting style to defeat human traffickers.",
+    "youtube": {
+      "trailer": "https://youtu.be/ejM7ZCEzs5A",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=raging+phoenix+muay+thai+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt1242599/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Raging_Phoenix",
+    "google_link": "https://www.google.com/search?q=Raging+Phoenix+2009+film"
+  },
+
+  "TomYumGoong": {
+    "name": "Tom-Yum-Goong",
+    "format": "Live-Action",
+    "release_year": 2005,
+    "genre": ["Action"],
+    "language": ["Thai", "English"],
+    "logline": "A Muay Thai fighter travels overseas to rescue his stolen elephant using devastating elbow and knee strikes.",
+    "youtube": {
+      "trailer": "https://youtu.be/AEfEN1YhxpY",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=tom+yum+goong+muay+thai+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0427954/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Tom-Yum-Goong",
+    "google_link": "https://www.google.com/search?q=Tom-Yum-Goong+2005+film"
+  },
+
+  "YamadaTheSamuraiOfAyothaya": {
+    "name": "Yamada: The Samurai of Ayothaya",
+    "format": "Live-Action",
+    "release_year": 2010,
+    "genre": ["Action", "Drama"],
+    "language": "Thai",
+    "logline": "A Japanese samurai becomes a warrior in Siam, blending swordsmanship with Muay Thai combat.",
+    "youtube": {
+      "trailer": "https://youtu.be/Shi1iVS1Hhc",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=yamada+muay+thai+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt1742336/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Yamada:_The_Samurai_of_Ayothaya",
+    "google_link": "https://www.google.com/search?q=Yamada+The+Samurai+of+Ayothaya+2010+film"
+  }
+}

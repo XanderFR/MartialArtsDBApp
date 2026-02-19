@@ -1,0 +1,530 @@
+{
+  "DBZBudokai": {
+    "name": "Dragon Ball Z: Budokai",
+    "platforms": ["PlayStation 2", "Nintendo GameCube"],
+    "release_year": 2002,
+    "playable_characters": [
+      {
+        "name": "Goku",
+        "combat_style": "Balanced martial arts combat with punches, kicks, throws, and ki-based techniques like Kamehameha"
+      },
+      {
+        "name": "Vegeta",
+        "combat_style": "Aggressive hand-to-hand combat with powerful strikes, counters, and energy blasts"
+      },
+      {
+        "name": "Gohan",
+        "combat_style": "Fast martial arts combos mixed with explosive ki attacks"
+      },
+      {
+        "name": "Piccolo",
+        "combat_style": "Technical combat using long-range strikes, grapples, and energy techniques"
+      }
+    ],
+    "martial_arts_used": ["Kung Fu", "Karate", "Kickboxing", "Wrestling", "Acrobatics"],
+    "youtube_trailer": "https://www.youtube.com/watch?v=I-KXv-o1P5E",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Dragon+Ball+Z+Budokai+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Dragon_Ball_Z:_Budokai",
+      "igdb": "https://www.igdb.com/games/dragon-ball-z-budokai",
+      "gamespot": "https://www.gamespot.com/games/dragon-ball-z-budokai/",
+      "google": "https://www.google.com/search?q=Dragon+Ball+Z+Budokai"
+    }
+  },
+
+  "DBZBudokai2": {
+    "name": "Dragon Ball Z: Budokai 2",
+    "platforms": ["PlayStation 2", "Nintendo GameCube"],
+    "release_year": 2003,
+    "playable_characters": [
+      {
+        "name": "Goku",
+        "combat_style": "Expanded martial arts combos with teleportation and ki-enhanced strikes"
+      },
+      {
+        "name": "Vegeta",
+        "combat_style": "High-impact close combat with explosive ki counters"
+      },
+      {
+        "name": "Cell",
+        "combat_style": "Adaptive fighting style combining strikes, grabs, and energy attacks"
+      }
+    ],
+    "martial_arts_used": ["Kung Fu", "Karate", "Kickboxing", "Acrobatics"],
+    "youtube_trailer": "https://www.youtube.com/watch?v=6WjMG1np8SQ",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Dragon+Ball+Z+Budokai+2+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Dragon_Ball_Z:_Budokai_2",
+      "igdb": "https://www.igdb.com/games/dragon-ball-z-budokai-2",
+      "gamespot": "https://www.gamespot.com/games/dragon-ball-z-budokai-2/",
+      "google": "https://www.google.com/search?q=Dragon+Ball+Z+Budokai+2"
+    }
+  },
+
+  "DBZBudokai3": {
+    "name": "Dragon Ball Z: Budokai 3",
+    "platforms": ["PlayStation 2", "Nintendo GameCube"],
+    "release_year": 2004,
+    "playable_characters": [
+      {
+        "name": "Goku",
+        "combat_style": "Highly fluid martial arts with advanced aerial combat, counters, and transformations"
+      },
+      {
+        "name": "Vegeta",
+        "combat_style": "Relentless pressure-based fighting with powerful melee strings"
+      },
+      {
+        "name": "Majin Buu",
+        "combat_style": "Unorthodox close-range combat using elastic strikes and brute force"
+      }
+    ],
+    "martial_arts_used": ["Kung Fu", "Karate", "Kickboxing", "Wrestling", "Acrobatics"],
+    "youtube_trailer": "https://www.youtube.com/watch?v=Gb3CSzByaLA",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Dragon+Ball+Z+Budokai+3+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Dragon_Ball_Z:_Budokai_3",
+      "igdb": "https://www.igdb.com/games/dragon-ball-z-budokai-3",
+      "gamespot": "https://www.gamespot.com/games/dragon-ball-z-budokai-3/",
+      "google": "https://www.google.com/search?q=Dragon+Ball+Z+Budokai+3"
+    }
+  },
+
+  "DBZSagas": {
+    "name": "Dragon Ball Z: Sagas",
+    "platforms": ["PlayStation 2", "Xbox", "Nintendo GameCube"],
+    "release_year": 2005,
+    "playable_characters": [
+      {
+        "name": "Goku",
+        "combat_style": "Beat-em-up style martial arts combat with simplified combos and ki attacks"
+      },
+      {
+        "name": "Gohan",
+        "combat_style": "Fast-paced hand-to-hand combat with aerial strikes"
+      }
+    ],
+    "martial_arts_used": ["Kung Fu", "Karate", "Brawling"],
+    "youtube_trailer": "https://www.youtube.com/watch?v=0qZjjGKoljE",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Dragon+Ball+Z+Sagas+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Dragon_Ball_Z:_Sagas",
+      "igdb": "https://www.igdb.com/games/dragon-ball-z-sagas",
+      "gamespot": "https://www.gamespot.com/games/dragon-ball-z-sagas/",
+      "google": "https://www.google.com/search?q=Dragon+Ball+Z+Sagas"
+    }
+  },
+
+  "SuperDragonBallZ": {
+    "name": "Super Dragon Ball Z",
+    "platforms": ["PlayStation 2"],
+    "release_year": 2006,
+    "playable_characters": [
+      {
+        "name": "Goku",
+        "combat_style": "Traditional arcade-style martial arts with precise strikes and footsies"
+      },
+      {
+        "name": "Piccolo",
+        "combat_style": "Zoning-based combat with counters and stretching attacks"
+      }
+    ],
+    "martial_arts_used": ["Kung Fu", "Karate", "Kickboxing"],
+    "youtube_trailer": "https://www.youtube.com/watch?v=meIqdHCmnwc",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Super+Dragon+Ball+Z+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Super_Dragon_Ball_Z",
+      "igdb": "https://www.igdb.com/games/super-dragon-ball-z",
+      "gamespot": "https://www.gamespot.com/games/super-dragon-ball-z/",
+      "google": "https://www.google.com/search?q=Super+Dragon+Ball+Z"
+    }
+  },
+
+  "DBZBudokaiTenkaichi": {
+    "name": "Dragon Ball Z: Budokai Tenkaichi",
+    "platforms": ["PlayStation 2"],
+    "release_year": 2005,
+    "playable_characters": [
+      {
+        "name": "Goku",
+        "combat_style": "High-speed free-flight combat with martial arts strikes and large-scale ki attacks"
+      }
+    ],
+    "martial_arts_used": ["Kung Fu", "Karate", "Acrobatics"],
+    "youtube_trailer": "https://www.youtube.com/watch?v=8KcteJuuqQ4",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Budokai+Tenkaichi+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Dragon_Ball_Z:_Budokai_Tenkaichi",
+      "igdb": "https://www.igdb.com/games/dragon-ball-z-budokai-tenkaichi",
+      "gamespot": "https://www.gamespot.com/games/dragon-ball-z-budokai-tenkaichi/",
+      "google": "https://www.google.com/search?q=Budokai+Tenkaichi"
+    }
+  },
+
+  "DBZBudokaiTenkaichi2": {
+    "name": "Dragon Ball Z: Budokai Tenkaichi 2",
+    "platforms": ["PlayStation 2", "Nintendo Wii"],
+    "release_year": 2006,
+    "playable_characters": [
+      {
+        "name": "Goku",
+        "combat_style": "Expanded aerial martial arts combat with counters and beam clashes"
+      }
+    ],
+    "martial_arts_used": ["Kung Fu", "Karate", "Acrobatics"],
+    "youtube_trailer": "https://youtu.be/jSWHN1cmQc0",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Budokai+Tenkaichi+2+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Dragon_Ball_Z:_Budokai_Tenkaichi_2",
+      "igdb": "https://www.igdb.com/games/dragon-ball-z-budokai-tenkaichi-2",
+      "gamespot": "https://www.gamespot.com/games/dragon-ball-z-budokai-tenkaichi-2/",
+      "google": "https://www.google.com/search?q=Budokai+Tenkaichi+2"
+    }
+  },
+
+  "DBZBudokaiTenkaichi3": {
+    "name": "Dragon Ball Z: Budokai Tenkaichi 3",
+    "platforms": ["PlayStation 2", "Nintendo Wii"],
+    "release_year": 2007,
+    "playable_characters": [
+      {
+        "name": "Goku",
+        "combat_style": "Extremely fast martial arts-based aerial combat with precision movement and counters"
+      }
+    ],
+    "martial_arts_used": ["Kung Fu", "Karate", "Acrobatics"],
+    "youtube_trailer": "https://www.youtube.com/watch?v=sfbMHbFiN08",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Budokai+Tenkaichi+3+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Dragon_Ball_Z:_Budokai_Tenkaichi_3",
+      "igdb": "https://www.igdb.com/games/dragon-ball-z-budokai-tenkaichi-3",
+      "gamespot": "https://www.gamespot.com/games/dragon-ball-z-budokai-tenkaichi-3/",
+      "google": "https://www.google.com/search?q=Budokai+Tenkaichi+3"
+    }
+  },
+
+  "DBZBurstLimit": {
+    "name": "Dragon Ball Z: Burst Limit",
+    "platforms": ["PlayStation 3", "Xbox 360"],
+    "release_year": 2008,
+    "playable_characters": [
+      {
+        "name": "Goku",
+        "combat_style": "Cinematic martial arts combat with counters, beam clashes, and burst mechanics"
+      }
+    ],
+    "martial_arts_used": ["Kung Fu", "Karate", "Kickboxing"],
+    "youtube_trailer": "https://www.youtube.com/watch?v=ZANS8_IwDzA",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Dragon+Ball+Z+Burst+Limit+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Dragon_Ball_Z:_Burst_Limit",
+      "igdb": "https://www.igdb.com/games/dragon-ball-z-burst-limit",
+      "gamespot": "https://www.gamespot.com/games/dragon-ball-z-burst-limit/",
+      "google": "https://www.google.com/search?q=Dragon+Ball+Z+Burst+Limit"
+    }
+  },
+
+  "DBZInfiniteWorld": {
+    "name": "Dragon Ball Z: Infinite World",
+    "platforms": ["PlayStation 2"],
+    "release_year": 2008,
+    "playable_characters": [
+      {
+        "name": "Goku",
+        "combat_style": "Refined martial arts combat blending Budokai mechanics with cinematic elements"
+      }
+    ],
+    "martial_arts_used": ["Kung Fu", "Karate", "Kickboxing"],
+    "youtube_trailer": "https://www.youtube.com/watch?v=fUpho33E4W0",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Dragon+Ball+Z+Infinite+World+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Dragon_Ball_Z:_Infinite_World",
+      "igdb": "https://www.igdb.com/games/dragon-ball-z-infinite-world",
+      "gamespot": "https://www.gamespot.com/games/dragon-ball-z-infinite-world/",
+      "google": "https://www.google.com/search?q=Dragon+Ball+Z+Infinite+World"
+    }
+  },
+
+  "DBZRagingBlast": {
+    "name": "Dragon Ball: Raging Blast",
+    "platforms": [
+      "PlayStation 3",
+      "Xbox 360"
+    ],
+    "release_year": 2009,
+    "playable_characters": [
+      {
+        "name": "Goku",
+        "combat_style": "High-speed aerial martial arts with environmental destruction and ki clashes"
+      }
+    ],
+    "martial_arts_used": [
+      "Kung Fu",
+      "Karate",
+      "Acrobatics"
+    ],
+    "youtube_trailer": "https://www.youtube.com/watch?v=1KvP1F-lMaw",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Dragon+Ball+Raging+Blast+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Dragon_Ball:_Raging_Blast",
+      "igdb": "https://www.igdb.com/games/dragon-ball-raging-blast",
+      "gamespot": "https://www.gamespot.com/games/dragon-ball-raging-blast/",
+      "google": "https://www.google.com/search?q=Dragon+Ball+Raging+Blast"
+    }
+  },
+  "DBZRagingBlast2": {
+    "name": "Dragon Ball: Raging Blast 2",
+    "platforms": ["PlayStation 3", "Xbox 360"],
+    "release_year": 2010,
+    "playable_characters": [
+      {
+        "name": "Goku",
+        "combat_style": "Ultra-fast aerial martial arts with extended combos, counters, and cinematic ki clashes"
+      },
+      {
+        "name": "Vegeta",
+        "combat_style": "Aggressive close-range combat emphasizing pressure, speed, and explosive energy attacks"
+      }
+    ],
+    "martial_arts_used": ["Kung Fu", "Karate", "Acrobatics"],
+    "youtube_trailer": "https://www.youtube.com/watch?v=ZUeLR5t0OOI",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Dragon+Ball+Raging+Blast+2+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Dragon_Ball:_Raging_Blast_2",
+      "igdb": "https://www.igdb.com/games/dragon-ball-raging-blast-2",
+      "gamespot": "https://www.gamespot.com/games/dragon-ball-raging-blast-2/",
+      "google": "https://www.google.com/search?q=Dragon+Ball+Raging+Blast+2"
+    }
+  },
+
+  "DBZUltimateTenkaichi": {
+    "name": "Dragon Ball Z: Ultimate Tenkaichi",
+    "platforms": ["PlayStation 3", "Xbox 360"],
+    "release_year": 2011,
+    "playable_characters": [
+      {
+        "name": "Goku",
+        "combat_style": "Cinematic martial arts combat focused on timing, counters, and quick-time clashes"
+      }
+    ],
+    "martial_arts_used": ["Kung Fu", "Karate"],
+    "youtube_trailer": "https://www.youtube.com/watch?v=nLYtreHQ_q8",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Dragon+Ball+Z+Ultimate+Tenkaichi+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Dragon_Ball_Z:_Ultimate_Tenkaichi",
+      "igdb": "https://www.igdb.com/games/dragon-ball-z-ultimate-tenkaichi",
+      "gamespot": "https://www.gamespot.com/games/dragon-ball-z-ultimate-tenkaichi/",
+      "google": "https://www.google.com/search?q=Dragon+Ball+Z+Ultimate+Tenkaichi"
+    }
+  },
+
+  "DBZForKinect": {
+    "name": "Dragon Ball Z: For Kinect",
+    "platforms": ["Xbox 360"],
+    "release_year": 2012,
+    "playable_characters": [
+      {
+        "name": "Goku",
+        "combat_style": "Motion-controlled martial arts strikes, poses, and ki-based attacks"
+      }
+    ],
+    "martial_arts_used": ["Karate", "Kung Fu", "Fitness-Based Movement"],
+    "youtube_trailer": "https://www.youtube.com/watch?v=kO6SUiUbdOc",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Dragon+Ball+Z+For+Kinect+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Dragon_Ball_Z:_For_Kinect",
+      "igdb": "https://www.igdb.com/games/dragon-ball-z-for-kinect",
+      "gamespot": "https://www.gamespot.com/games/dragon-ball-z-for-kinect/",
+      "google": "https://www.google.com/search?q=Dragon+Ball+Z+For+Kinect"
+    }
+  },
+
+  "DBZBudokaiHDCollection": {
+    "name": "Dragon Ball Z: Budokai HD Collection",
+    "platforms": ["PlayStation 3", "Xbox 360"],
+    "release_year": 2012,
+    "playable_characters": [
+      {
+        "name": "Goku",
+        "combat_style": "Classic martial arts combat with refined combos and ki management"
+      }
+    ],
+    "martial_arts_used": ["Kung Fu", "Karate", "Kickboxing"],
+    "youtube_trailer": "https://www.youtube.com/watch?v=JDD7ftxamsY",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Dragon+Ball+Z+Budokai+HD+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Dragon_Ball_Z:_Budokai_HD_Collection",
+      "igdb": "https://www.igdb.com/games/dragon-ball-z-budokai-hd-collection",
+      "gamespot": "https://www.gamespot.com/games/dragon-ball-z-budokai-hd-collection/",
+      "google": "https://www.google.com/search?q=Dragon+Ball+Z+Budokai+HD+Collection"
+    }
+  },
+
+  "DBZBattleOfZ": {
+    "name": "Dragon Ball Z: Battle of Z",
+    "platforms": ["PlayStation 3", "Xbox 360"],
+    "release_year": 2014,
+    "playable_characters": [
+      {
+        "name": "Goku",
+        "combat_style": "Team-based aerial combat combining martial arts strikes with cooperative ki attacks"
+      }
+    ],
+    "martial_arts_used": ["Kung Fu", "Karate", "Acrobatics"],
+    "youtube_trailer": "https://www.youtube.com/watch?v=WwIs718L2eU",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Dragon+Ball+Z+Battle+of+Z+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Dragon_Ball_Z:_Battle_of_Z",
+      "igdb": "https://www.igdb.com/games/dragon-ball-z-battle-of-z",
+      "gamespot": "https://www.gamespot.com/games/dragon-ball-z-battle-of-z/",
+      "google": "https://www.google.com/search?q=Dragon+Ball+Z+Battle+of+Z"
+    }
+  },
+
+  "DBXenoverse": {
+    "name": "Dragon Ball Xenoverse",
+    "platforms": ["PlayStation 3", "PlayStation 4", "Xbox 360", "Xbox One"],
+    "release_year": 2015,
+    "playable_characters": [
+      {
+        "name": "Custom Time Patroller",
+        "combat_style": "Player-created martial arts style blending strikes, ki attacks, and aerial movement"
+      }
+    ],
+    "martial_arts_used": ["Kung Fu", "Karate", "Kickboxing", "Acrobatics"],
+    "youtube_trailer": "https://www.youtube.com/watch?v=2iBqy2uUOz0",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Dragon+Ball+Xenoverse+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Dragon_Ball_Xenoverse",
+      "igdb": "https://www.igdb.com/games/dragon-ball-xenoverse",
+      "gamespot": "https://www.gamespot.com/games/dragon-ball-xenoverse/",
+      "google": "https://www.google.com/search?q=Dragon+Ball+Xenoverse"
+    }
+  },
+
+  "DBXenoverse2": {
+    "name": "Dragon Ball Xenoverse 2",
+    "platforms": ["PlayStation 4", "Xbox One", "Nintendo Switch"],
+    "release_year": 2016,
+    "playable_characters": [
+      {
+        "name": "Custom Time Patroller",
+        "combat_style": "Expanded martial arts combat with deeper combos, transformations, and team-based techniques"
+      }
+    ],
+    "martial_arts_used": ["Kung Fu", "Karate", "Kickboxing", "Acrobatics"],
+    "youtube_trailer": "https://www.youtube.com/watch?v=JnUbg-9v_bE",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Dragon+Ball+Xenoverse+2+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Dragon_Ball_Xenoverse_2",
+      "igdb": "https://www.igdb.com/games/dragon-ball-xenoverse-2",
+      "gamespot": "https://www.gamespot.com/games/dragon-ball-xenoverse-2/",
+      "google": "https://www.google.com/search?q=Dragon+Ball+Xenoverse+2"
+    }
+  },
+
+  "DBFighterZ": {
+    "name": "Dragon Ball FighterZ",
+    "platforms": ["PlayStation 4", "Xbox One", "Nintendo Switch"],
+    "release_year": 2018,
+    "playable_characters": [
+      {
+        "name": "Goku",
+        "combat_style": "High-speed 2D fighting game combat with precise martial arts inputs and aerial combos"
+      }
+    ],
+    "martial_arts_used": ["Kung Fu", "Karate", "Boxing"],
+    "youtube_trailer": "https://www.youtube.com/watch?v=oBI0MU73nlc",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Dragon+Ball+FighterZ+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Dragon_Ball_FighterZ",
+      "igdb": "https://www.igdb.com/games/dragon-ball-fighterz",
+      "gamespot": "https://www.gamespot.com/games/dragon-ball-fighterz/",
+      "google": "https://www.google.com/search?q=Dragon+Ball+FighterZ"
+    }
+  },
+
+  "DBHeroesWorldMission": {
+    "name": "Super Dragon Ball Heroes: World Mission",
+    "platforms": ["Nintendo Switch"],
+    "release_year": 2019,
+    "playable_characters": [
+      {
+        "name": "Multiple Heroes Characters",
+        "combat_style": "Card-driven combat influenced by martial arts positioning and timing"
+      }
+    ],
+    "martial_arts_used": ["Kung Fu", "Karate"],
+    "youtube_trailer": "https://www.youtube.com/watch?v=hCr4XKf3Dsk",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Super+Dragon+Ball+Heroes+World+Mission+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Super_Dragon_Ball_Heroes:_World_Mission",
+      "igdb": "https://www.igdb.com/games/super-dragon-ball-heroes-world-mission",
+      "gamespot": "https://www.gamespot.com/games/super-dragon-ball-heroes-world-mission/",
+      "google": "https://www.google.com/search?q=Super+Dragon+Ball+Heroes+World+Mission"
+    }
+  },
+
+  "DBZKakarot": {
+    "name": "Dragon Ball Z: Kakarot",
+    "platforms": ["PlayStation 4", "Xbox One", "Nintendo Switch"],
+    "release_year": 2020,
+    "playable_characters": [
+      {
+        "name": "Goku",
+        "combat_style": "Action-RPG martial arts combat blending free movement, combos, and cinematic ki attacks"
+      }
+    ],
+    "martial_arts_used": ["Kung Fu", "Karate", "Acrobatics"],
+    "youtube_trailer": "https://www.youtube.com/watch?v=1Y-A1kUCvzY",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Dragon+Ball+Z+Kakarot+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Dragon_Ball_Z:_Kakarot",
+      "igdb": "https://www.igdb.com/games/dragon-ball-z-kakarot",
+      "gamespot": "https://www.gamespot.com/games/dragon-ball-z-kakarot/",
+      "google": "https://www.google.com/search?q=Dragon+Ball+Z+Kakarot"
+    }
+  },
+
+  "DBTheBreakers": {
+    "name": "Dragon Ball: The Breakers",
+    "platforms": ["PlayStation 4", "Xbox One", "Nintendo Switch"],
+    "release_year": 2022,
+    "playable_characters": [
+      {
+        "name": "Survivors",
+        "combat_style": "Asymmetrical gameplay with limited martial arts and evasive movement"
+      }
+    ],
+    "martial_arts_used": ["Basic Martial Arts", "Evasion"],
+    "youtube_trailer": "https://www.youtube.com/watch?v=mYv-c7GaT4k",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Dragon+Ball+The+Breakers+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Dragon_Ball:_The_Breakers",
+      "igdb": "https://www.igdb.com/games/dragon-ball-the-breakers",
+      "gamespot": "https://www.gamespot.com/games/dragon-ball-the-breakers/",
+      "google": "https://www.google.com/search?q=Dragon+Ball+The+Breakers"
+    }
+  },
+
+  "DBSparkingZero": {
+    "name": "Dragon Ball: Sparking! Zero",
+    "platforms": ["PlayStation 5", "Xbox Series X/S"],
+    "release_year": 2024,
+    "playable_characters": [
+      {
+        "name": "Goku",
+        "combat_style": "Next-generation high-speed martial arts combat with advanced physics, aerial freedom, and cinematic clashes"
+      }
+    ],
+    "martial_arts_used": ["Kung Fu", "Karate", "Acrobatics"],
+    "youtube_trailer": "https://www.youtube.com/watch?v=XTvBSY0YMyg",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Dragon+Ball+Sparking+Zero+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Dragon_Ball:_Sparking!_Zero",
+      "igdb": "https://www.igdb.com/games/dragon-ball-sparking-zero",
+      "gamespot": "https://www.gamespot.com/games/dragon-ball-sparking-zero/",
+      "google": "https://www.google.com/search?q=Dragon+Ball+Sparking+Zero"
+    }
+  }
+}

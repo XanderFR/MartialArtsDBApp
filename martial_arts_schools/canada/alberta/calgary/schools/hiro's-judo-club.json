@@ -1,0 +1,10 @@
+{
+  "id": "hiro's-judo-club",
+  "name": "Hiro's Judo Club",
+  "styles_taught": ["Judo"],
+  "address": "1919 27 Ave NE, Calgary, AB T2E 7E4",
+  "phone": "+14032503177",
+  "links": {
+    "website": "https://hirosjudoclub.com/"
+  }
+}

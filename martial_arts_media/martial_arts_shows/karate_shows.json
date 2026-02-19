@@ -1,0 +1,77 @@
+{
+  "CobraKai": {
+    "name": "Cobra Kai",
+    "format": "Live-Action",
+    "release_year": 2018,
+    "genre": [
+      "Action",
+      "Drama",
+      "Comedy"
+    ],
+    "language": "English",
+    "plot": "Decades after the All Valley Karate Tournament, rival dojos and former champions reignite their feud as a new generation learns the ways of karate.",
+    "youtube": {
+      "trailer": "https://youtu.be/xCwwxNbtK6Y",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=cobra+kai+karate+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt7221388/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Cobra_Kai",
+    "google_link": "https://www.google.com/search?q=Cobra+Kai+TV+series"
+  },
+  "KarateBakaIchidai": {
+    "name": "Karate Baka Ichidai",
+    "format": "Animated",
+    "release_year": 1973,
+    "genre": [
+      "Action",
+      "Drama",
+      "Biography"
+    ],
+    "language": "Japanese",
+    "plot": "A dramatized account of Mas Oyama’s life, chronicling his brutal training, dojo challenges, and the rise of Kyokushin karate.",
+    "youtube": {
+      "trailer": "https://www.youtube.com/watch?v=-6Ed-ygptk8",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=karate+baka+ichidai+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0262980/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Karate_Baka_Ichidai",
+    "google_link": "https://www.google.com/search?q=Karate+Baka+Ichidai+anime"
+  },
+  "KarateCombat": {
+  "name": "Karate Combat",
+  "format": "Live-Action",
+  "release_year": 2018,
+  "genre": [
+    "Sports",
+    "Action"
+  ],
+  "language": "English",
+  "plot": "A professional full-contact karate league where elite karate practitioners from around the world compete under a rule set designed to preserve traditional karate techniques, movement, and striking.",
+  "youtube": {
+    "trailer": "https://www.youtube.com/watch?v=ajLoYC3kNPI",
+    "fight_scenes_search": "https://www.youtube.com/results?search_query=karate+combat+full+fights"
+  },
+  "imdb_link": "https://www.imdb.com/title/tt9174696/",
+  "wikipedia_link": "https://en.wikipedia.org/wiki/Karate_Combat",
+  "google_link": "https://www.google.com/search?q=Karate+Combat+league"
+},
+  "KickinIt": {
+    "name": "Kickin' It",
+    "format": "Live-Action",
+    "release_year": 2011,
+    "genre": [
+      "Action",
+      "Comedy",
+      "Family"
+    ],
+    "language": "English",
+    "plot": "A group of students train at a struggling karate dojo, learning discipline, friendship, and competition as they aim for tournament glory.",
+    "youtube": {
+      "trailer": "https://www.youtube.com/watch?v=mnoTUfH8L6U",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=kickin+it+karate+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt1765546/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Kickin%27_It",
+    "google_link": "https://www.google.com/search?q=Kickin%27+It+TV+series"
+  }
+}

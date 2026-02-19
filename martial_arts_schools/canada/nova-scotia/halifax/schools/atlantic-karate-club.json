@@ -1,0 +1,10 @@
+{
+  "id": "atlantic-karate-club",
+  "name": "Atlantic Karate Club",
+  "styles_taught": ["Karate"],
+  "address": "1014 Purcells Cove Rd, Halifax, NS B3N 1M7",
+  "phone": "+19024774639",
+  "links": {
+    "website": "https://www.atlantickarateclub.ca/"
+  }
+}

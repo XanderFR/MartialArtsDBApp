@@ -1,0 +1,10 @@
+{
+  "id": "mizu-studio",
+  "name": "Mizu Studio",
+  "styles_taught": ["Brazilian Jiu-Jitsu", "Muay Thai"],
+  "address": "4767 Dagenais St #106B, Montreal, Quebec H4C 1L8",
+  "phone": "",
+  "links": {
+    "website": "https://mizustudio.ca/"
+  }
+}

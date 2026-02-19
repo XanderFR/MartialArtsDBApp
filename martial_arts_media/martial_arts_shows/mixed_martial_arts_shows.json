@@ -1,0 +1,38 @@
+{
+  "Kingdom": {
+    "name": "Kingdom",
+    "format": "Live-Action",
+    "release_year": 2014,
+    "genre": [
+      "Drama",
+      "Sports"
+    ],
+    "language": "English",
+    "plot": "Follows a family running an MMA gym in California, focusing on the struggles of fighters both inside and outside the cage. The series blends intense fight choreography with personal drama, showcasing realistic mixed martial arts techniques.",
+    "youtube": {
+      "trailer": "https://www.youtube.com/watch?v=IzKkTKOY38Q",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=kingdom+tv+series+best+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt2632424/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Kingdom_(American_TV_series)",
+    "google_link": "https://www.google.com/search?q=Kingdom+tv+series"
+  },
+  "TheCage": {
+    "name": "The Cage",
+    "format": "Live-Action",
+    "release_year": 2024,
+    "genre": [
+      "Drama",
+      "Sports"
+    ],
+    "language": "French",
+    "plot": "Centers on an aspiring MMA fighter whose life changes after an unexpected fight thrusts him into the professional MMA world. The series combines personal drama with intense, realistic fight scenes.",
+    "youtube": {
+      "trailer": "https://www.youtube.com/watch?v=ITRAoWpYh4M",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=the+cage+tv+series+best+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt27699714/",
+    "wikipedia_link": "https://www.netflix.com/tudum/the-cage?utm_source=chatgpt.com",
+    "google_link": "https://www.google.com/search?q=The+Cage+tv+series"
+  }
+}

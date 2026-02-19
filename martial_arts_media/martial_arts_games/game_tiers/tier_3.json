@@ -1,0 +1,52 @@
+{
+  "king_of_fighters": {
+    "name": "The King of Fighters",
+    "image": {
+      "file_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Logo_King_of_Fighters.png",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Logo_King_of_Fighters.png",
+      "attribution": "Mika1h, SNK, Public domain, via Wikimedia Commons",
+      "alt_text": "Logo King of Fighters"
+    },
+    "link": "king_of_fighters"
+  },
+  "ea_sports_ufc": {
+    "name": "EA Sorts UFC",
+    "image": {
+      "file_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/UFC_logo.svg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:UFC_logo.svg",
+      "attribution": "The original uploader was Grinkod at Russian Wikipedia., Public domain, via Wikimedia Commons",
+      "alt_text": "UFC Logo"
+    },
+    "link": "ea_sports_ufc"
+  },
+  "dead_or_alive": {
+    "name": "Dead or Alive",
+    "image": {
+      "file_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/DOA_wordmark.png",
+      "page_url": "https://commons.wikimedia.org/wiki/File:DOA_wordmark.png",
+      "attribution": "Tecmo, Public domain, via Wikimedia Commons",
+      "alt_text": "DOA wordmark"
+    },
+    "link": "dead_or_alive"
+  },
+  "splinter_cell": {
+    "name": "Splinter Cell",
+    "image": {
+      "file_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Splinter_Cell_Conviction_logo.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Splinter_Cell_Conviction_logo.jpg",
+      "attribution": "Ubisoft, Public domain, via Wikimedia Commons",
+      "alt_text": "Splinter Cell Conviction logo"
+    },
+    "link": "splinter_cell"
+  },
+  "fight_night": {
+    "name": "Fight Night",
+    "image": {
+      "file_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Fight_Night_%28EA_video_game_series%29.png",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Fight_Night_(EA_video_game_series).png",
+      "attribution": "The original uploader was X201 at English Wikipedia., Public domain, via Wikimedia Commons",
+      "alt_text": "Fight Night (EA video game series)"
+    },
+    "link": "fight_night"
+  }
+}

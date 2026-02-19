@@ -1,0 +1,58 @@
+{
+  "LetFreeTheCurseOfTaekwondo": {
+    "name": "Let Free the Curse of Taekwondo",
+    "format": "Live-Action",
+    "release_year": 2024,
+    "genre": [
+      "Drama",
+      "Romance"
+    ],
+    "language": "Korean",
+    "plot": "A high school student disillusioned with his father’s rural taekwondo gym meets a cheerful taekwondo student from Seoul. Their connection grows amid family struggles, separation, and eventual reunion a decade later, with taekwondo woven into the backdrop of their emotional journey.",
+    "youtube": {
+      "trailer": "https://www.youtube.com/watch?v=DttHxBHl0aY",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=let+free+the+curse+of+taekwondo+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt26789046/",
+    "wikipedia_link": "https://koreandrama.org/let-free-the-curse-of-taekwondo/",
+    "google_link": "https://www.google.com/search?q=Let+Free+the+Curse+of+Taekwondo+TV+series"
+  },
+  "TheGodOfHighSchool": {
+    "name": "The God of High School",
+    "format": "Animated",
+    "release_year": 2020,
+    "genre": [
+      "Action",
+      "Martial Arts",
+      "Fantasy"
+    ],
+    "language": "Korean / Japanese (anime adaptation)",
+    "plot": "High school fighters from around the world enter a tournament where they can use any martial art to win and have a wish granted. The main character, Jin Mori, uses a fictionalized taekwondo-based style called Renewal Taekwondo, emphasizing fast, powerful kicks.",
+    "youtube": {
+      "trailer": "https://www.youtube.com/watch?v=oqjwUfprNAk",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=the+god+of+high+school+anime+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt10954624/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/The_God_of_High_School",
+    "google_link": "https://www.google.com/search?q=The+God+of+High+School+anime"
+  },
+  "TheWhirlwindGirl": {
+    "name": "The Whirlwind Girl",
+    "format": "Live-Action",
+    "release_year": 2015,
+    "genre": [
+      "Sports",
+      "Teen",
+      "Romance"
+    ],
+    "language": "Mandarin",
+    "plot": "Qi Bai Cao, a passionate taekwondo student, trains under a former world champion while competing in tournaments, facing rivalries, friendships, and personal challenges along the way.",
+    "youtube": {
+      "trailer": "https://www.youtube.com/watch?v=iQBm3J2JS8Y",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=the+whirlwind+girl+taekwondo+fights"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt5026376/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/The_Whirlwind_Girl",
+    "google_link": "https://www.google.com/search?q=The+Whirlwind+Girl+TV+series"
+  }
+}

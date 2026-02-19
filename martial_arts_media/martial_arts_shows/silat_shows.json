@@ -1,0 +1,21 @@
+{
+  "WuAssassins": {
+    "name": "Wu Assassins",
+    "format": "Live-Action",
+    "release_year": 2019,
+    "genre": [
+      "Action",
+      "Fantasy",
+      "Crime"
+    ],
+    "language": "English",
+    "plot": "A young chef in San Francisco discovers he is the last of the Wu Assassins, tasked with harnessing mystical powers and mastering martial arts to defeat criminal organizations. The fight choreography is dominated by silat, showcasing rapid strikes, sweeps, and close-quarters combat.",
+    "youtube": {
+      "trailer": "https://www.youtube.com/watch?v=3tXQMq967PY",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=wu+assassins+best+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt7136886/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Wu_Assassins",
+    "google_link": "https://www.google.com/search?q=Wu+Assassins+tv+series"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "BornAChampion": {
+    "name": "Born a Champion",
+    "format": "Live-Action",
+    "release_year": 2021,
+    "genre": ["Drama", "Action", "Sport"],
+    "language": "English",
+    "logline": "A Marine and Jiu-Jitsu practitioner confronts his past while competing in the modern Brazilian Jiu-Jitsu world.",
+    "youtube": {
+      "trailer": "https://youtu.be/CqXcwOHVUBI",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=born+a+champion+bjj+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt13106584/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Born_a_Champion",
+    "google_link": "https://www.google.com/search?q=Born+a+Champion+2021"
+  },
+
+  "BrazilianBrawl": {
+    "name": "Brazilian Brawl",
+    "format": "Live-Action",
+    "release_year": 2003,
+    "genre": ["Action"],
+    "language": "English",
+    "logline": "An American fighter travels to Brazil and becomes immersed in the dangerous underground world of Brazilian Jiu-Jitsu.",
+    "youtube": {
+      "trailer": "https://youtu.be/yO-OztYtmKE",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=brazilian+brawl+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0373734/",
+    "wikipedia_link": "",
+    "google_link": "https://www.google.com/search?q=Brazilian+Brawl+2003"
+  },
+
+  "Redbelt": {
+    "name": "Redbelt",
+    "format": "Live-Action",
+    "release_year": 2008,
+    "genre": ["Drama", "Sport", "Action"],
+    "language": "English",
+    "logline": "A principled Jiu-Jitsu instructor faces moral and financial pressures that challenge his code of honor.",
+    "youtube": {
+      "trailer": "https://youtu.be/_LlkIRIQeuc",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=redbelt+jiu+jitsu+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt1012804/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Redbelt",
+    "google_link": "https://www.google.com/search?q=Redbelt+2008"
+  }
+}

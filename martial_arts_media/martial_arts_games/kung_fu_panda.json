@@ -1,0 +1,134 @@
+{
+  "KungFuPanda": {
+    "name": "Kung Fu Panda",
+    "platforms": [
+      "PlayStation 2",
+      "PlayStation 3",
+      "Xbox 360",
+      "Wii",
+      "Nintendo DS"
+    ],
+    "release_year": 2008,
+    "playable_characters": [
+      { "name": "Po", "combat_style": "Panda kung fu with powerful strikes, rolling moves, and chi techniques" },
+      { "name": "Tigress", "combat_style": "Tiger kung fu with strong melee combos and strikes" },
+      { "name": "Monkey", "combat_style": "Agile acrobatic kung fu with staff and flips" },
+      { "name": "Viper", "combat_style": "Fluid serpentine kung fu focusing on flexibility and grapples" },
+      { "name": "Crane", "combat_style": "Aerial kung fu focusing on flight, evasion, and ranged gust strikes" },
+      { "name": "Mantis", "combat_style": "Fast precision kung fu with rapid attacks and evasive moves" },
+      { "name": "Shifu", "combat_style": "Master staff kung fu with refined strikes and counters" }
+    ],
+    "martial_arts_used": [
+      "Kung Fu (core styles from Furious Five and Shifu)",
+      "Acrobatics",
+      "Chi techniques",
+      "Animal-inspired kung fu styles"
+    ],
+    "youtube_trailer": "https://www.youtube.com/watch?v=OpbCWHVUHpU",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Kung+Fu+Panda+2008+video+game+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Kung_Fu_Panda_(video_game)",
+      "igdb": "https://www.igdb.com/games/kung-fu-panda",
+      "gamespot": "https://www.gamespot.com/games/kung-fu-panda/",
+      "google": "https://www.google.com/search?q=Kung+Fu+Panda+2008+video+game"
+    }
+  },
+
+  "KungFuPandaLegendaryWarriors": {
+    "name": "Kung Fu Panda: Legendary Warriors",
+    "platforms": [
+      "Wii",
+      "Nintendo DS"
+    ],
+    "release_year": 2008,
+    "playable_characters": [
+      { "name": "Po", "combat_style": "Dragon Warrior kung fu with a mix of strength and chi" },
+      { "name": "Tigress", "combat_style": "Tiger kung fu with powerful strikes" },
+      { "name": "Monkey", "combat_style": "Acrobatic staff based kung fu" },
+      { "name": "Shifu", "combat_style": "Experienced master kung fu with precise counters" }
+    ],
+    "martial_arts_used": [
+      "Kung Fu",
+      "Team kung fu tactics",
+      "Acrobatics"
+    ],
+    "youtube_trailer": "https://www.youtube.com/watch?v=3vt80cM0OlQ",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Kung+Fu+Panda+Legendary+Warriors+gameplay+combat",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Kung_Fu_Panda:_Legendary_Warriors",
+      "igdb": "https://www.igdb.com/games/kung-fu-panda-legendary-warriors",
+      "gamespot": "https://www.gamespot.com/games/kung-fu-panda-legendary-warriors/",
+      "google": "https://www.google.com/search?q=Kung+Fu+Panda+Legendary+Warriors+video+game"
+    }
+  },
+
+  "KungFuPanda2": {
+    "name": "Kung Fu Panda 2",
+    "platforms": [
+      "PlayStation 3",
+      "Xbox 360",
+      "Wii",
+      "Nintendo DS"
+    ],
+    "release_year": 2011,
+    "playable_characters": [
+      { "name": "Po", "combat_style": "Enhanced kung fu with storytelling-driven combos and chi" },
+      { "name": "Tigress", "combat_style": "Tiger kung fu with heavy strikes and agility" },
+      { "name": "Monkey", "combat_style": "Agile kung fu with quick mid-range attacks" },
+      { "name": "Viper", "combat_style": "Serpentine kung fu with flexible grapples" },
+      { "name": "Crane", "combat_style": "Aerial kung fu aiding mobility and ranged hits" },
+      { "name": "Mantis", "combat_style": "Rapid precision kung fu attacks" }
+    ],
+    "martial_arts_used": [
+      "Kung Fu",
+      "Acrobatics",
+      "Chi empowerment"
+    ],
+    "youtube_trailer": "https://www.youtube.com/watch?v=9_BFKJBgHzM",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Kung+Fu+Panda+2+video+game+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Kung_Fu_Panda_2_(video_game)",
+      "igdb": "https://www.igdb.com/games/kung-fu-panda-2",
+      "gamespot": "https://www.gamespot.com/games/kung-fu-panda-2/",
+      "google": "https://www.google.com/search?q=Kung+Fu+Panda+2+video+game"
+    }
+  },
+
+  "KungFuPandaShowdown": {
+    "name": "Kung Fu Panda: Showdown of Legendary Legends",
+    "platforms": [
+      "PlayStation 3",
+      "PlayStation 4",
+      "Xbox 360",
+      "Xbox One",
+      "Wii U",
+      "Nintendo 3DS",
+      "Windows"
+    ],
+    "release_year": 2015,
+    "playable_characters": [
+      { "name": "Po", "combat_style": "Fighting game kung fu with signature combos and chi blasts" },
+      { "name": "Tigress", "combat_style": "Balanced striking kung fu with counters" },
+      { "name": "Monkey", "combat_style": "Acrobatic agile fighting" },
+      { "name": "Shifu", "combat_style": "Tactical kung fu with precise strikes" },
+      { "name": "Tai Lung", "combat_style": "Aggressive leopard style kung fu with powerful attacks" },
+      { "name": "Lord Shen", "combat_style": "Peacock-inspired kung fu mixed with ranged cannon artillery" },
+      { "name": "Mr. Ping", "combat_style": "Support-style kung fu moves as a nontraditional combatant" },
+      { "name": "Storming Ox", "combat_style": "Heavy brute kung fu style with strong hits" },
+      { "name": "Croc", "combat_style": "Tank-style kung fu with crushing bites and swings" }
+    ],
+    "martial_arts_used": [
+      "Kung Fu (various animal styles)",
+      "Acrobatics",
+      "Chi-based special moves"
+    ],
+    "youtube_trailer": "https://www.youtube.com/watch?v=IdP47ljQpuk",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Kung+Fu+Panda+Showdown+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Kung_Fu_Panda:_Showdown_of_Legendary_Legends",
+      "igdb": "https://www.igdb.com/games/kung-fu-panda-showdown-of-legendary-legends",
+      "gamespot": "https://www.gamespot.com/games/kung-fu-panda-showdown-of-legendary-legends/",
+      "google": "https://www.google.com/search?q=Kung+Fu+Panda+Showdown+of+Legendary+Legends+video+game"
+    }
+  }
+}

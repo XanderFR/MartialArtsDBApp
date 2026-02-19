@@ -1,0 +1,230 @@
+{
+  "Yakuza1": {
+    "name": "Yakuza",
+    "platforms": ["PlayStation 2", "PlayStation 3", "PlayStation 4"],
+    "release_year": 2005,
+    "playable_characters": [
+      {
+        "name": "Kazuma Kiryu",
+        "combat_style": "Street-fighting brawler combining Karate-inspired strikes, Judo throws, and grappling, with cinematic Heat Actions"
+      }
+    ],
+    "martial_arts_used": ["Karate", "Judo", "Grappling", "Street fighting"],
+    "youtube_trailer": "https://www.youtube.com/watch?v=2G85zZetL6Q",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Yakuza+gameplay+combat",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Yakuza_(video_game)",
+      "igdb": "https://www.igdb.com/games/yakuza",
+      "gamespot": "https://www.gamespot.com/games/yakuza/",
+      "google": "https://www.google.com/search?q=Yakuza+video+game"
+    }
+  },
+
+  "Yakuza2": {
+    "name": "Yakuza 2",
+    "platforms": ["PlayStation 2", "PlayStation 3", "PlayStation 4"],
+    "release_year": 2006,
+    "playable_characters": [
+      {
+        "name": "Kazuma Kiryu",
+        "combat_style": "Refined brawling with Karate strikes, Judo throws, grappling, and cinematic Heat Actions"
+      }
+    ],
+    "martial_arts_used": ["Karate", "Judo", "Grappling", "Street fighting"],
+    "youtube_trailer": "https://www.youtube.com/watch?v=Xp2I7H6MEzA",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Yakuza+2+gameplay+combat",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Yakuza_2",
+      "igdb": "https://www.igdb.com/games/yakuza-2",
+      "gamespot": "https://www.gamespot.com/games/yakuza-2/",
+      "google": "https://www.google.com/search?q=Yakuza+2+video+game"
+    }
+  },
+
+  "Yakuza3": {
+    "name": "Yakuza 3",
+    "platforms": ["PlayStation 3", "PlayStation 4"],
+    "release_year": 2009,
+    "playable_characters": [
+      {
+        "name": "Kazuma Kiryu",
+        "combat_style": "Street brawling with Karate strikes, Judo throws, grappling, environmental interactions, and Heat Actions"
+      }
+    ],
+    "martial_arts_used": ["Karate", "Judo", "Grappling", "Environmental combat"],
+    "youtube_trailer": "https://www.youtube.com/watch?v=_6mv0OdFNxg",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Yakuza+3+gameplay+combat",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Yakuza_3",
+      "igdb": "https://www.igdb.com/games/yakuza-3",
+      "gamespot": "https://www.gamespot.com/games/yakuza-3/",
+      "google": "https://www.google.com/search?q=Yakuza+3+video+game"
+    }
+  },
+
+  "Yakuza4": {
+    "name": "Yakuza 4",
+    "platforms": ["PlayStation 3", "PlayStation 4"],
+    "release_year": 2010,
+    "playable_characters": [
+      {
+        "name": "Kazuma Kiryu",
+        "combat_style": "Balanced brawling with Karate strikes, Judo throws, grappling, and Heat Actions"
+      },
+      {
+        "name": "Shun Akiyama",
+        "combat_style": "Agile street-fighting with boxing punches and fast combos"
+      },
+      {
+        "name": "Taiga Saejima",
+        "combat_style": "Powerful grappling and wrestling-based throws with slow but heavy strikes"
+      },
+      {
+        "name": "Tatsuo Tanimura",
+        "combat_style": "Counter-focused brawling with fast counters and defensive maneuvers"
+      }
+    ],
+    "martial_arts_used": ["Karate", "Boxing", "Judo", "Wrestling", "Grappling", "Street fighting"],
+    "youtube_trailer": "https://www.youtube.com/watch?v=24DsHmBdWxg",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Yakuza+4+gameplay+combat",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Yakuza_4",
+      "igdb": "https://www.igdb.com/games/yakuza-4",
+      "gamespot": "https://www.gamespot.com/games/yakuza-4/",
+      "google": "https://www.google.com/search?q=Yakuza+4+video+game"
+    }
+  },
+
+  "Yakuza5": {
+    "name": "Yakuza 5",
+    "platforms": ["PlayStation 3"],
+    "release_year": 2012,
+    "playable_characters": [
+      {
+        "name": "Kazuma Kiryu",
+        "combat_style": "Expansive brawling with Karate strikes, Judo throws, grappling, environmental Heat Actions"
+      },
+      {
+        "name": "Shun Akiyama",
+        "combat_style": "Boxing and kick-focused street-fighting with agile combos"
+      },
+      {
+        "name": "Taiga Saejima",
+        "combat_style": "Wrestling-heavy combat with grapples, throws, and high-damage strikes"
+      },
+      {
+        "name": "Haruka Sawamura",
+        "combat_style": "Street brawling with agile punches and kicks, lighter grappling"
+      },
+      {
+        "name": "Tatsuo Tanimura",
+        "combat_style": "Counter-based brawling with defensive strikes and throws"
+      }
+    ],
+    "martial_arts_used": ["Karate", "Boxing", "Judo", "Wrestling", "Grappling", "Street fighting"],
+    "youtube_trailer": "https://www.youtube.com/watch?v=_5RAQ7FUDaA",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Yakuza+5+gameplay+combat",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Yakuza_5",
+      "igdb": "https://www.igdb.com/games/yakuza-5",
+      "gamespot": "https://www.gamespot.com/games/yakuza-5/",
+      "google": "https://www.google.com/search?q=Yakuza+5+video+game"
+    }
+  },
+
+  "Yakuza6": {
+    "name": "Yakuza 6: The Song of Life",
+    "platforms": ["PlayStation 4"],
+    "release_year": 2016,
+    "playable_characters": [
+      {
+        "name": "Kazuma Kiryu",
+        "combat_style": "Cinematic street-fighting brawling with Karate strikes, Judo throws, grappling, and Heat Actions in multi-environment combat"
+      }
+    ],
+    "martial_arts_used": ["Karate", "Judo", "Grappling", "Environmental combat", "Street fighting"],
+    "youtube_trailer": "https://www.youtube.com/watch?v=nyaB-yIUJIE",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Yakuza+6+gameplay+combat",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Yakuza_6:_The_Song_of_Life",
+      "igdb": "https://www.igdb.com/games/yakuza-6",
+      "gamespot": "https://www.gamespot.com/games/yakuza-6-the-song-of-life/",
+      "google": "https://www.google.com/search?q=Yakuza+6+video+game"
+    }
+  },
+
+  "YakuzaKiwami": {
+    "name": "Yakuza: Kiwami",
+    "platforms": ["PlayStation 3", "PlayStation 4"],
+    "release_year": 2016,
+    "playable_characters": [
+      {
+        "name": "Kazuma Kiryu",
+        "combat_style": "Remastered brawling with Karate strikes, Judo throws, grappling, environmental Heat Actions, and cinematic flair"
+      }
+    ],
+    "martial_arts_used": ["Karate", "Judo", "Grappling", "Environmental combat", "Street fighting"],
+    "youtube_trailer": "https://www.youtube.com/watch?v=oz1E9OJjxb8",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Yakuza+Kiwami+combat",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Yakuza:_Kiwami",
+      "igdb": "https://www.igdb.com/games/yakuza-kiwami",
+      "gamespot": "https://www.gamespot.com/games/yakuza-kiwami/",
+      "google": "https://www.google.com/search?q=Yakuza+Kiwami+video+game"
+    }
+  },
+
+  "YakuzaKiwami2": {
+    "name": "Yakuza: Kiwami 2",
+    "platforms": ["PlayStation 4"],
+    "release_year": 2017,
+    "playable_characters": [
+      {
+        "name": "Kazuma Kiryu",
+        "combat_style": "Enhanced remastered brawling with Karate strikes, Judo throws, grappling, multi-style combos, and cinematic Heat Actions"
+      }
+    ],
+    "martial_arts_used": ["Karate", "Judo", "Grappling", "Street fighting", "Multi-style brawling"],
+    "youtube_trailer": "https://www.youtube.com/watch?v=lwOaWD4L6FI",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Yakuza+Kiwami+2+combat",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Yakuza:_Kiwami_2",
+      "igdb": "https://www.igdb.com/games/yakuza-kiwami-2",
+      "gamespot": "https://www.gamespot.com/games/yakuza-kiwami-2/",
+      "google": "https://www.google.com/search?q=Yakuza+Kiwami+2+video+game"
+    }
+  },
+
+  "Yakuza7": {
+    "name": "Yakuza: Like a Dragon",
+    "platforms": ["PlayStation 4", "Xbox One", "Xbox Series X/S", "PC"],
+    "release_year": 2020,
+    "playable_characters": [
+      {
+        "name": "Ichiban Kasuga",
+        "combat_style": "Turn-based martial arts combat with Karate, Boxing, Kickboxing, and RPG-style abilities"
+      },
+      {
+        "name": "Koichi Adachi",
+        "combat_style": "Police brawler combat with boxing strikes, takedowns, and grapples"
+      },
+      {
+        "name": "Nanba",
+        "combat_style": "Street brawling with Judo throws, strikes, and improvised weapon use"
+      },
+      {
+        "name": "Saeko Mukoda",
+        "combat_style": "Martial arts with swift punches, kicks, and acrobatic strikes"
+      }
+    ],
+    "martial_arts_used": ["Karate", "Boxing", "Kickboxing", "Judo", "Grappling", "Street fighting"],
+    "youtube_trailer": "https://www.youtube.com/watch?v=hhqbNaxO82g",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Yakuza+Like+a+Dragon+combat",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Yakuza:_Like_a_Dragon",
+      "igdb": "https://www.igdb.com/games/yakuza-like-a-dragon",
+      "gamespot": "https://www.gamespot.com/games/yakuza-like-a-dragon/",
+      "google": "https://www.google.com/search?q=Yakuza+Like+a+Dragon+video+game"
+    }
+  }
+}

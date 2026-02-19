@@ -1,0 +1,237 @@
+{
+  "DeadOrAlive": {
+    "name": "Dead or Alive",
+    "platforms": ["PlayStation", "Arcade"],
+    "release_year": 1996,
+    "playable_characters": [
+      {"name": "Kasumi", "combat_style": "Ninjutsu-based acrobatic combat with fast strikes, throws, and evasive maneuvers"},
+      {"name": "Ayane", "combat_style": "Stealthy ninjutsu with agile strikes and counters"},
+      {"name": "Ryu Hayabusa", "combat_style": "Ninjutsu with fast strikes and aerial combos"},
+      {"name": "Gen Fu", "combat_style": "Chinese martial arts with circular strikes and throws"},
+      {"name": "Bayman", "combat_style": "Russian Sambo with throws and grappling"},
+      {"name": "Hitomi", "combat_style": "Karate with precise strikes and counters"},
+      {"name": "Leifang", "combat_style": "Wushu with spinning kicks and acrobatics"},
+      {"name": "Jacky Bryant", "combat_style": "Jeet Kune Do with fluid strikes and movement"},
+      {"name": "Christie", "combat_style": "Aikido with throws and joint locks"}
+    ],
+    "martial_arts_used": [
+      "Ninjutsu",
+      "Karate",
+      "Wushu",
+      "Sambo",
+      "Jeet Kune Do",
+      "Aikido",
+      "Striking",
+      "Grappling",
+      "Acrobatic combat"
+    ],
+    "youtube_trailer": "https://www.youtube.com/watch?v=XKodWQ6-YcA",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Dead+or+Alive+1+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Dead_or_Alive_(video_game)",
+      "igdb": "https://www.igdb.com/games/dead-or-alive",
+      "gamespot": "https://www.gamespot.com/games/dead-or-alive/",
+      "google": "https://www.google.com/search?q=Dead+or+Alive+1"
+    }
+  },
+
+  "DeadOrAlive2": {
+    "name": "Dead or Alive 2",
+    "platforms": ["PlayStation 2", "Xbox"],
+    "release_year": 2000,
+    "playable_characters": [
+      {"name": "Kasumi", "combat_style": "Ninjutsu with fast strikes and counters"},
+      {"name": "Ayane", "combat_style": "Stealth ninjutsu with quick attacks"},
+      {"name": "Ryu Hayabusa", "combat_style": "Ninjutsu with aerial combos and counters"},
+      {"name": "Hayate", "combat_style": "Ninjutsu with defensive counters"},
+      {"name": "Hitomi", "combat_style": "Karate with precise strikes and combos"},
+      {"name": "Leifang", "combat_style": "Wushu with spinning attacks and acrobatics"},
+      {"name": "Jann Lee", "combat_style": "Jeet Kune Do with aggressive strikes"},
+      {"name": "Bayman", "combat_style": "Sambo with grappling and throws"},
+      {"name": "Christie", "combat_style": "Aikido with counters and locks"},
+      {"name": "Bass Armstrong", "combat_style": "Professional wrestling with throws and slams"}
+    ],
+    "martial_arts_used": [
+      "Ninjutsu",
+      "Karate",
+      "Wushu",
+      "Jeet Kune Do",
+      "Sambo",
+      "Aikido",
+      "Professional wrestling",
+      "Striking",
+      "Grappling",
+      "Acrobatic combat"
+    ],
+    "youtube_trailer": "https://www.youtube.com/watch?v=GrWNmzb-fxw",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Dead+or+Alive+2+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Dead_or_Alive_2",
+      "igdb": "https://www.igdb.com/games/dead-or-alive-2",
+      "gamespot": "https://www.gamespot.com/games/dead-or-alive-2/",
+      "google": "https://www.google.com/search?q=Dead+or+Alive+2"
+    }
+  },
+
+  "DeadOrAlive3": {
+    "name": "Dead or Alive 3",
+    "platforms": ["Xbox"],
+    "release_year": 2001,
+    "playable_characters": [
+      {"name": "Kasumi", "combat_style": "Ninjutsu with fast strikes and counters"},
+      {"name": "Ayane", "combat_style": "Stealth ninjutsu with evasive maneuvers"},
+      {"name": "Ryu Hayabusa", "combat_style": "Ninjutsu with high-speed combos"},
+      {"name": "Hayate", "combat_style": "Ninjutsu with counters and throws"},
+      {"name": "Hitomi", "combat_style": "Karate with strong strikes"},
+      {"name": "Leifang", "combat_style": "Wushu with acrobatics"},
+      {"name": "Jann Lee", "combat_style": "Jeet Kune Do with fluid strikes"},
+      {"name": "Bass Armstrong", "combat_style": "Wrestling with grapples and throws"},
+      {"name": "Christie", "combat_style": "Aikido with joint locks"},
+      {"name": "Bayman", "combat_style": "Sambo with throws and counters"}
+    ],
+    "martial_arts_used": [
+      "Ninjutsu",
+      "Karate",
+      "Wushu",
+      "Jeet Kune Do",
+      "Sambo",
+      "Aikido",
+      "Professional wrestling",
+      "Striking",
+      "Grappling",
+      "Acrobatic combat"
+    ],
+    "youtube_trailer": "https://www.youtube.com/watch?v=QBJwxYMfV4o",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Dead+or+Alive+3+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Dead_or_Alive_3",
+      "igdb": "https://www.igdb.com/games/dead-or-alive-3",
+      "gamespot": "https://www.gamespot.com/games/dead-or-alive-3/",
+      "google": "https://www.google.com/search?q=Dead+or+Alive+3"
+    }
+  },
+
+  "DeadOrAlive4": {
+    "name": "Dead or Alive 4",
+    "platforms": ["Xbox 360"],
+    "release_year": 2005,
+    "playable_characters": [
+      {"name": "Kasumi", "combat_style": "Ninjutsu with fast strikes and counters"},
+      {"name": "Ayane", "combat_style": "Stealth ninjutsu with aerial attacks"},
+      {"name": "Ryu Hayabusa", "combat_style": "Ninjutsu with acrobatic combos"},
+      {"name": "Hayate", "combat_style": "Ninjutsu with defensive maneuvers"},
+      {"name": "Hitomi", "combat_style": "Karate with precise strikes"},
+      {"name": "Leifang", "combat_style": "Wushu with spinning kicks"},
+      {"name": "Jann Lee", "combat_style": "Jeet Kune Do with aggressive attacks"},
+      {"name": "Bass Armstrong", "combat_style": "Wrestling with throws"},
+      {"name": "Christie", "combat_style": "Aikido with counters"},
+      {"name": "Bayman", "combat_style": "Sambo with grappling"},
+      {"name": "Ayane's clone", "combat_style": "Ninjutsu with quick strikes"},
+      {"name": "Kokoro", "combat_style": "Ba Ji Quan with long-range strikes"}
+    ],
+    "martial_arts_used": [
+      "Ninjutsu",
+      "Karate",
+      "Wushu",
+      "Jeet Kune Do",
+      "Sambo",
+      "Aikido",
+      "Professional wrestling",
+      "Ba Ji Quan",
+      "Striking",
+      "Grappling",
+      "Acrobatic combat"
+    ],
+    "youtube_trailer": "https://www.youtube.com/watch?v=UQ29qQfuIw4",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Dead+or+Alive+4+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Dead_or_Alive_4",
+      "igdb": "https://www.igdb.com/games/dead-or-alive-4",
+      "gamespot": "https://www.gamespot.com/games/dead-or-alive-4/",
+      "google": "https://www.google.com/search?q=Dead+or+Alive+4"
+    }
+  },
+
+  "DeadOrAlive5": {
+    "name": "Dead or Alive 5",
+    "platforms": ["PlayStation 3", "Xbox 360", "PlayStation 4"],
+    "release_year": 2012,
+    "playable_characters": [
+      {"name": "Kasumi", "combat_style": "Ninjutsu with fast strikes and counters"},
+      {"name": "Ayane", "combat_style": "Stealth ninjutsu with agile combos"},
+      {"name": "Ryu Hayabusa", "combat_style": "Ninjutsu with aerial combos"},
+      {"name": "Hayate", "combat_style": "Ninjutsu with counters"},
+      {"name": "Hitomi", "combat_style": "Karate with precise strikes"},
+      {"name": "Leifang", "combat_style": "Wushu with acrobatics"},
+      {"name": "Jann Lee", "combat_style": "Jeet Kune Do with fast attacks"},
+      {"name": "Bass Armstrong", "combat_style": "Wrestling with throws"},
+      {"name": "Christie", "combat_style": "Aikido with joint locks"},
+      {"name": "Bayman", "combat_style": "Sambo with grapples"},
+      {"name": "Honoka", "combat_style": "Mimic-style mixed martial arts"}
+    ],
+    "martial_arts_used": [
+      "Ninjutsu",
+      "Karate",
+      "Wushu",
+      "Jeet Kune Do",
+      "Sambo",
+      "Aikido",
+      "Professional wrestling",
+      "Mixed martial arts",
+      "Striking",
+      "Grappling",
+      "Acrobatic combat"
+    ],
+    "youtube_trailer": "https://www.youtube.com/watch?v=zVUg8x12vKw",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Dead+or+Alive+5+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Dead_or_Alive_5",
+      "igdb": "https://www.igdb.com/games/dead-or-alive-5",
+      "gamespot": "https://www.gamespot.com/games/dead-or-alive-5/",
+      "google": "https://www.google.com/search?q=Dead+or+Alive+5"
+    }
+  },
+
+  "DeadOrAlive6": {
+    "name": "Dead or Alive 6",
+    "platforms": ["PlayStation 4", "Xbox One", "PC"],
+    "release_year": 2019,
+    "playable_characters": [
+      {"name": "Kasumi", "combat_style": "Ninjutsu with fast strikes and counters"},
+      {"name": "Ayane", "combat_style": "Stealth ninjutsu with aerial maneuvers"},
+      {"name": "Ryu Hayabusa", "combat_style": "Ninjutsu with acrobatic combos"},
+      {"name": "Hayate", "combat_style": "Ninjutsu with defensive counters"},
+      {"name": "Hitomi", "combat_style": "Karate with precise attacks"},
+      {"name": "Leifang", "combat_style": "Wushu with spinning attacks"},
+      {"name": "Jann Lee", "combat_style": "Jeet Kune Do with fast strikes"},
+      {"name": "Bass Armstrong", "combat_style": "Wrestling with throws and grapples"},
+      {"name": "Christie", "combat_style": "Aikido with joint locks"},
+      {"name": "Bayman", "combat_style": "Sambo with throws"},
+      {"name": "Honoka", "combat_style": "Mimic-style mixed martial arts"},
+      {"name": "Kane", "combat_style": "Powerful striking with brute strength"},
+      {"name": "Kokoro", "combat_style": "Ba Ji Quan with long-range strikes"}
+    ],
+    "martial_arts_used": [
+      "Ninjutsu",
+      "Karate",
+      "Wushu",
+      "Jeet Kune Do",
+      "Sambo",
+      "Aikido",
+      "Professional wrestling",
+      "Mixed martial arts",
+      "Ba Ji Quan",
+      "Striking",
+      "Grappling",
+      "Acrobatic combat"
+    ],
+    "youtube_trailer": "https://www.youtube.com/watch?v=ecYRKkc6GGI",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Dead+or+Alive+6+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Dead_or_Alive_6",
+      "igdb": "https://www.igdb.com/games/dead-or-alive-6",
+      "gamespot": "https://www.gamespot.com/games/dead-or-alive-6/",
+      "google": "https://www.google.com/search?q=Dead+or+Alive+6"
+    }
+  }
+}

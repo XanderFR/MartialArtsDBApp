@@ -1,0 +1,193 @@
+{
+  "ColdShowers": {
+    "name": "Cold Showers",
+    "format": "Live-Action",
+    "release_year": 2005,
+    "genre": ["Drama"],
+    "language": "French",
+    "logline": "A troubled youth finds direction and discipline through the practice of judo.",
+    "youtube": {
+      "trailer": "https://youtu.be/PKDAacQjPbA",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=cold+showers+film+judo+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0422133/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Cold_Showers",
+    "google_link": "https://www.google.com/search?q=Cold+Showers+2005+film"
+  },
+
+  "Firestorm": {
+    "name": "Firestorm",
+    "format": "Live-Action",
+    "release_year": 2013,
+    "genre": ["Action", "Thriller"],
+    "language": "Cantonese",
+    "logline": "A police officer with a competitive judo background faces off against a ruthless criminal mastermind.",
+    "youtube": {
+      "trailer": "https://youtu.be/IkvI4Y0toJg",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=firestorm+2013+judo+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt2599716/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Firestorm_(2013_film)",
+    "google_link": "https://www.google.com/search?q=Firestorm+2013+film"
+  },
+
+  "JudokaSecretAgent": {
+    "name": "Judoka-Secret Agent",
+    "format": "Live-Action",
+    "release_year": 1966,
+    "genre": ["Action", "Spy", "Thriller"],
+    "language": "Italian",
+    "logline": "A secret agent who is also a skilled judoka takes on international espionage threats.",
+    "youtube": {
+      "trailer": "",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=judoka+secret+agent+judo+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0060616/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Judoka-Secret_Agent",
+    "google_link": "https://www.google.com/search?q=Judoka+Secret+Agent+1966+film"
+  },
+
+  "MyAnnoyingBrother": {
+    "name": "My Annoying Brother",
+    "format": "Live-Action",
+    "release_year": 2016,
+    "genre": ["Drama", "Sports", "Comedy"],
+    "language": "Korean",
+    "logline": "A national-level judoka struggles to rebuild his life after a devastating injury with help from his estranged brother.",
+    "youtube": {
+      "trailer": "https://youtu.be/5vYf4lCaTxY",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=my+annoying+brother+judo+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt6277440/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/My_Annoying_Brother",
+    "google_link": "https://www.google.com/search?q=My+Annoying+Brother+2016+film"
+  },
+
+  "OfficerBlackBelt": {
+    "name": "Officer Black Belt",
+    "format": "Live-Action",
+    "release_year": 2024,
+    "genre": ["Action", "Comedy"],
+    "language": "English",
+    "logline": "A police officer skilled in multiple martial arts, including judo, takes on organized crime.",
+    "youtube": {
+      "trailer": "https://youtu.be/WNkGz6aKFvk",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=officer+black+belt+judo+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0089736/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Officer_Black_Belt",
+    "google_link": "https://www.google.com/search?q=Officer+Black+Belt+2024+film"
+  },
+
+  "PattyIsSuchAGirlyName": {
+    "name": "Patty Is Such a Girly Name",
+    "format": "Live-Action",
+    "release_year": 2025,
+    "genre": ["Drama", "Romance", "Sport"],
+    "language": "Greek",
+    "logline": "An 18-year-old judo athlete from a remote Greek island moves to Athens chasing her Olympic dream, only to face love, betrayal, and the painful truths that could break her—or make her stronger.",
+    "youtube": {
+      "trailer": "https://youtu.be/-yn2E2GHt6A",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=patty+is+such+a+girly+name+judo+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt37530747/",
+    "wikipedia_link": "",
+    "google_link": "https://www.google.com/search?q=Patty+Is+Such+a+Girly+Name+2025+film"
+  },
+
+  "SanshiroSugata": {
+    "name": "Sanshiro Sugata",
+    "format": "Live-Action",
+    "release_year": 1943,
+    "genre": ["Drama", "Action"],
+    "language": "Japanese",
+    "logline": "A young man discovers judo and matures spiritually and physically through intense training and competition.",
+    "youtube": {
+      "trailer": "https://youtu.be/YkhlR14327c",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=sanshiro+sugata+judo+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0036323/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Sanshiro_Sugata",
+    "google_link": "https://www.google.com/search?q=Sanshiro+Sugata+1943+film"
+  },
+
+  "SanshiroSugataPartII": {
+    "name": "Sanshiro Sugata Part II",
+    "format": "Live-Action",
+    "release_year": 1945,
+    "genre": ["Drama", "Action", "Adventure"],
+    "language": "Japanese",
+    "logline": "Sanshiro continues his journey as a judoka, facing new rivals and ideological challenges.",
+    "youtube": {
+      "trailer": "",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=sanshiro+sugata+part+2+judo+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0038054/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Sanshiro_Sugata",
+    "google_link": "https://www.google.com/search?q=Sanshiro+Sugata+Part+II+1945+film"
+  },
+
+  "Tatami": {
+    "name": "Tatami",
+    "format": "Live-Action",
+    "release_year": 2023,
+    "genre": ["Drama", "Thriller"],
+    "language": "Japanese",
+    "logline": "A dramatic exploration of discipline, honor, and rivalry within the world of judo.",
+    "youtube": {
+      "trailer": "https://youtu.be/iXLa1gh6LWk",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=tatami+film+judo+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Tatami_(film)",
+    "google_link": "https://www.google.com/search?q=Tatami+2023+film"
+  },
+
+  "ThrowDown": {
+    "name": "Throw Down",
+    "format": "Live-Action",
+    "release_year": 2004,
+    "genre": ["Drama", "Action", "Sport"],
+    "language": "Cantonese",
+    "logline": "A former judo champion rediscovers purpose through renewed competition and mentorship.",
+    "youtube": {
+      "trailer": "https://youtu.be/A7QrvLbT3gE",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=throw+down+2004+judo+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0411061/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Throw_Down_(film)",
+    "google_link": "https://www.google.com/search?q=Throw+Down+2004+film"
+  },
+
+  "Vengeance": {
+    "name": "Vengeance",
+    "format": "Live-Action",
+    "release_year": 1970,
+    "genre": ["Action", "Drama", "Romance", "Thriller"],
+    "language": "Japanese",
+    "logline": "A story of retribution where judo skills play a key role in the protagonist’s quest for justice.",
+    "youtube": {
+      "trailer": "https://youtu.be/c2CKLX7ILTk",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=vengeance+1970+judo+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0065450/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Vengeance_(1970_film)",
+    "google_link": "https://www.google.com/search?q=Vengeance+1970+film"
+  },
+
+  "TheArtOfFalling": {
+    "name": "The Art of Falling",
+    "format": "Live-Action",
+    "release_year": 2022,
+    "genre": ["Drama", "Sports"],
+    "language": ["Bulgarian", "English"],
+    "logline": "A 17-year-old girl who faces harassment learns discipline, resilience, and confidence when her grandfather enrolls her in a judo school.",
+    "youtube": {
+      "trailer": "https://youtu.be/VGvYlonOvJU",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=the+art+of+falling+judo+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt23462550/",
+    "wikipedia_link": "",
+    "google_link": "https://www.google.com/search?q=The+Art+of+Falling+2022+film"
+  }
+}

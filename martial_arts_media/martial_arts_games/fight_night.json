@@ -1,0 +1,111 @@
+{
+  "EAFightNight2004": {
+    "name": "Fight Night 2004",
+    "platforms": ["PlayStation 2", "Xbox"],
+    "release_year": 2004,
+    "playable_characters": [
+      {"name": "Mike Tyson", "combat_style": "Boxing"},
+      {"name": "Muhammad Ali", "combat_style": "Boxing"},
+      {"name": "Joe Frazier", "combat_style": "Boxing"},
+      {"name": "George Foreman", "combat_style": "Boxing"},
+      {"name": "Lennox Lewis", "combat_style": "Boxing"},
+      {"name": "Roy Jones Jr.", "combat_style": "Boxing"},
+      {"name": "Bernard Hopkins", "combat_style": "Boxing"},
+      {"name": "Evander Holyfield", "combat_style": "Boxing"},
+      {"name": "Felix Trinidad", "combat_style": "Boxing"},
+      {"name": "Oscar De La Hoya", "combat_style": "Boxing"}
+    ],
+    "martial_arts_used": ["Boxing"],
+    "youtube_trailer": "https://www.youtube.com/watch?v=KIHwIzvdl7U",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Fight+Night+2004+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Fight_Night_2004",
+      "igdb": "https://www.igdb.com/games/fight-night-2004",
+      "gamespot": "https://www.gamespot.com/games/fight-night-2004/",
+      "google": "https://www.google.com/search?q=Fight+Night+2004"
+    }
+  },
+
+  "EAFightNightRound2": {
+    "name": "Fight Night Round 2",
+    "platforms": ["PlayStation 2", "Xbox"],
+    "release_year": 2005,
+    "playable_characters": [
+      {"name": "Mike Tyson", "combat_style": "Boxing"},
+      {"name": "Muhammad Ali", "combat_style": "Boxing"},
+      {"name": "Joe Calzaghe", "combat_style": "Boxing"},
+      {"name": "Roy Jones Jr.", "combat_style": "Boxing"},
+      {"name": "Lennox Lewis", "combat_style": "Boxing"},
+      {"name": "Bernard Hopkins", "combat_style": "Boxing"},
+      {"name": "Oscar De La Hoya", "combat_style": "Boxing"},
+      {"name": "Evander Holyfield", "combat_style": "Boxing"},
+      {"name": "Floyd Mayweather Jr.", "combat_style": "Boxing"},
+      {"name": "Felix Trinidad", "combat_style": "Boxing"}
+    ],
+    "martial_arts_used": ["Boxing"],
+    "youtube_trailer": "https://www.youtube.com/watch?v=Cm1gCxKBteE",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Fight+Night+Round+2+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Fight_Night_Round_2",
+      "igdb": "https://www.igdb.com/games/fight-night-round-2",
+      "gamespot": "https://www.gamespot.com/games/fight-night-round-2/",
+      "google": "https://www.google.com/search?q=Fight+Night+Round+2"
+    }
+  },
+
+  "EAFightNightRound3": {
+    "name": "Fight Night Round 3",
+    "platforms": ["PlayStation 2", "Xbox", "Xbox 360"],
+    "release_year": 2006,
+    "playable_characters": [
+      {"name": "Muhammad Ali", "combat_style": "Boxing"},
+      {"name": "Mike Tyson", "combat_style": "Boxing"},
+      {"name": "Lennox Lewis", "combat_style": "Boxing"},
+      {"name": "Roy Jones Jr.", "combat_style": "Boxing"},
+      {"name": "Joe Calzaghe", "combat_style": "Boxing"},
+      {"name": "Bernard Hopkins", "combat_style": "Boxing"},
+      {"name": "Oscar De La Hoya", "combat_style": "Boxing"},
+      {"name": "Evander Holyfield", "combat_style": "Boxing"},
+      {"name": "Thomas Hearns", "combat_style": "Boxing"},
+      {"name": "Floyd Mayweather Jr.", "combat_style": "Boxing"}
+    ],
+    "martial_arts_used": ["Boxing"],
+    "youtube_trailer": "https://www.youtube.com/watch?v=0YdW6iNv7QM",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Fight+Night+Round+3+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Fight_Night_Round_3",
+      "igdb": "https://www.igdb.com/games/fight-night-round-3",
+      "gamespot": "https://www.gamespot.com/games/fight-night-round-3/",
+      "google": "https://www.google.com/search?q=Fight+Night+Round+3"
+    }
+  },
+
+  "EAFightNightRound4": {
+    "name": "Fight Night Round 4",
+    "platforms": ["PlayStation 3", "Xbox 360"],
+    "release_year": 2009,
+    "playable_characters": [
+      {"name": "Muhammad Ali", "combat_style": "Boxing"},
+      {"name": "Mike Tyson", "combat_style": "Boxing"},
+      {"name": "Floyd Mayweather Jr.", "combat_style": "Boxing"},
+      {"name": "Manny Pacquiao", "combat_style": "Boxing"},
+      {"name": "Joe Calzaghe", "combat_style": "Boxing"},
+      {"name": "Bernard Hopkins", "combat_style": "Boxing"},
+      {"name": "Lennox Lewis", "combat_style": "Boxing"},
+      {"name": "Roy Jones Jr.", "combat_style": "Boxing"},
+      {"name": "Oscar De La Hoya", "combat_style": "Boxing"},
+      {"name": "Evander Holyfield", "combat_style": "Boxing"},
+      {"name": "Thomas Hearns", "combat_style": "Boxing"},
+      {"name": "Julio Cesar Chavez", "combat_style": "Boxing"}
+    ],
+    "martial_arts_used": ["Boxing"],
+    "youtube_trailer": "https://www.youtube.com/watch?v=RBlNzMTv2Gw",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Fight+Night+Round+4+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Fight_Night_Round_4",
+      "igdb": "https://www.igdb.com/games/fight-night-round-4",
+      "gamespot": "https://www.gamespot.com/games/fight-night-round-4/",
+      "google": "https://www.google.com/search?q=Fight+Night+Round+4"
+    }
+  }
+}

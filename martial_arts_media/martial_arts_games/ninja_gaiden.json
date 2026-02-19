@@ -1,0 +1,306 @@
+{
+  "NinjaGaiden": {
+    "name": "Ninja Gaiden",
+    "platforms": ["Xbox"],
+    "release_year": 2004,
+    "playable_characters": [
+      {
+        "name": "Ryu Hayabusa",
+        "combat_style": "Elite ninja combat blending precise swordsmanship, acrobatics, and ninjutsu techniques — signature wall running and Inazuma Drop included"
+      }
+    ],
+    "martial_arts_used": [
+      "Kenjutsu",
+      "Ninjutsu",
+      "Taijutsu",
+      "Iaido",
+      "Acrobatics"
+    ],
+    "youtube_trailer": "https://www.youtube.com/watch?v=CEYcO-CzW9o",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Ninja+Gaiden+2004+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Ninja_Gaiden_(2004_video_game)",
+      "igdb": "https://www.igdb.com/games/ninja-gaiden",
+      "gamespot": "https://www.gamespot.com/games/ninja-gaiden/",
+      "google": "https://www.google.com/search?q=Ninja+Gaiden+2004"
+    }
+  },
+
+  "NinjaGaidenBlack": {
+    "name": "Ninja Gaiden Black",
+    "platforms": ["Xbox"],
+    "release_year": 2005,
+    "playable_characters": [
+      {
+        "name": "Ryu Hayabusa",
+        "combat_style": "Enhanced ninja combat with expanded weapons, improved combos and brutal agile attacks"
+      }
+    ],
+    "martial_arts_used": [
+      "Kenjutsu",
+      "Ninjutsu",
+      "Taijutsu",
+      "Iaido",
+      "Acrobatics"
+    ],
+    "youtube_trailer": "https://www.youtube.com/watch?v=wJ8erB6IeHU",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Ninja+Gaiden+Black+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Ninja_Gaiden_Black",
+      "igdb": "https://www.igdb.com/games/ninja-gaiden-black",
+      "gamespot": "https://www.gamespot.com/games/ninja-gaiden-black/",
+      "google": "https://www.google.com/search?q=Ninja+Gaiden+Black"
+    }
+  },
+
+  "NinjaGaidenSigma": {
+    "name": "Ninja Gaiden Sigma",
+    "platforms": ["PlayStation 3"],
+    "release_year": 2007,
+    "playable_characters": [
+      {
+        "name": "Ryu Hayabusa",
+        "combat_style": "Remastered ninja combat via advanced acrobatic attack chains with diversified weapon mastery"
+      },
+      {
+        "name": "Rachel",
+        "combat_style": "Stealthy ranged attacks mixed with agile taijutsu and enhanced aerial strikes"
+      }
+    ],
+    "martial_arts_used": [
+      "Kenjutsu",
+      "Ninjutsu",
+      "Taijutsu",
+      "Acrobatics",
+      "Aikido"
+    ],
+    "youtube_trailer": "https://www.youtube.com/watch?v=_U5gB3l1v1U",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Ninja+Gaiden+Sigma+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Ninja_Gaiden_Sigma",
+      "igdb": "https://www.igdb.com/games/ninja-gaiden-sigma",
+      "gamespot": "https://www.gamespot.com/games/ninja-gaiden-sigma/",
+      "google": "https://www.google.com/search?q=Ninja+Gaiden+Sigma"
+    }
+  },
+
+  "NinjaGaidenSigma2": {
+    "name": "Ninja Gaiden Sigma 2",
+    "platforms": ["PlayStation 3"],
+    "release_year": 2009,
+    "playable_characters": [
+      {
+        "name": "Ryu Hayabusa",
+        "combat_style": "Advanced ninja combat with expanded arsenal, combo chains and swift weapon transitions"
+      },
+      {
+        "name": "Momiji",
+        "combat_style": "Dragon Sword technique with nimble strikes and chakra-enhanced taijutsu"
+      },
+      {
+        "name": "Ayane",
+        "combat_style": "Swift kunoichi strikes with acrobatics, stealth and precise ninjutsu"
+      }
+    ],
+    "martial_arts_used": [
+      "Kenjutsu",
+      "Taijutsu",
+      "Ninjutsu",
+      "Acrobatics",
+      "Aikido"
+    ],
+    "youtube_trailer": "https://www.youtube.com/watch?v=kr78uN9omiM",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Ninja+Gaiden+Sigma+2+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Ninja_Gaiden_Sigma_2",
+      "igdb": "https://www.igdb.com/games/ninja-gaiden-sigma-2",
+      "gamespot": "https://www.gamespot.com/games/ninja-gaiden-sigma-2/",
+      "google": "https://www.google.com/search?q=Ninja+Gaiden+Sigma+2"
+    }
+  },
+
+  "NinjaGaiden2Black": {
+    "name": "Ninja Gaiden 2 Black",
+    "platforms": ["PlayStation 5", "Xbox Series X"],
+    "release_year": 2025,
+    "playable_characters": [
+      {
+        "name": "Ryu Hayabusa",
+        "combat_style": "Legacy ninja combat augmented with powerful combos, tactical dodges, and diverse weapon mastery"
+      },
+      {
+        "name": "Ayane",
+        "combat_style": "Stealth-oriented kunoichi combat with acrobatic bursts and precision ninjutsu"
+      },
+      {
+        "name": "Momiji",
+        "combat_style": "Balanced sword techniques with defensive taijutsu and swift counterattacks"
+      },
+      {
+        "name": "Rachel",
+        "combat_style": "Ranged and melee mix with fast movement, aerial kicks, and jutsu support"
+      }
+    ],
+    "martial_arts_used": [
+      "Kenjutsu",
+      "Taijutsu",
+      "Ninjutsu",
+      "Acrobatics",
+      "Iaido",
+      "Aikido",
+      "Capoeira"
+    ],
+    "youtube_trailer": "https://www.youtube.com/watch?v=MFjWCZIVZDw",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Ninja+Gaiden+2+Black+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Ninja_Gaiden_II",
+      "igdb": "https://www.igdb.com/games/ninja-gaiden-ii-black",
+      "gamespot": "https://www.gamespot.com/games/ninja-gaiden-ii/",
+      "google": "https://www.google.com/search?q=Ninja+Gaiden+2+Black"
+    }
+  },
+
+  "NinjaGaiden3": {
+    "name": "Ninja Gaiden 3",
+    "platforms": ["PlayStation 3", "Xbox 360"],
+    "release_year": 2012,
+    "playable_characters": [
+      {
+        "name": "Ryu Hayabusa",
+        "combat_style": "Fluid high‑tempo ninja combat with heavier strikes, counters and cinematic takedowns"
+      }
+    ],
+    "martial_arts_used": [
+      "Kenjutsu",
+      "Taijutsu",
+      "Ninjutsu",
+      "Acrobatics",
+      "Judo"
+    ],
+    "youtube_trailer": "https://www.youtube.com/watch?v=Ml7l8g7PIYw",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Ninja+Gaiden+3+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Ninja_Gaiden_3",
+      "igdb": "https://www.igdb.com/games/ninja-gaiden-3",
+      "gamespot": "https://www.gamespot.com/games/ninja-gaiden-3/",
+      "google": "https://www.google.com/search?q=Ninja+Gaiden+3"
+    }
+  },
+
+  "NinjaGaiden3RazorEdge": {
+    "name": "Ninja Gaiden 3: Razor's Edge",
+    "platforms": ["PlayStation 3", "Xbox 360", "Wii U"],
+    "release_year": 2013,
+    "playable_characters": [
+      {
+        "name": "Ryu Hayabusa",
+        "combat_style": "Refined ninja combat with diverse weapons, faster combos, and tactical counterattacks"
+      }
+    ],
+    "martial_arts_used": [
+      "Kenjutsu",
+      "Taijutsu",
+      "Ninjutsu",
+      "Acrobatics",
+      "Judo"
+    ],
+    "youtube_trailer": "https://www.youtube.com/watch?v=ZHCYAlWhMFQ",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Ninja+Gaiden+3+Razor%27s+Edge+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Ninja_Gaiden_3:_Razor%27s_Edge",
+      "igdb": "https://www.igdb.com/games/ninja-gaiden-3-razors-edge",
+      "gamespot": "https://www.gamespot.com/games/ninja-gaiden-3-razors-edge/",
+      "google": "https://www.google.com/search?q=Ninja+Gaiden+3+Razor%27s+Edge"
+    }
+  },
+
+  "NinjaGaidenDragonSword": {
+    "name": "Ninja Gaiden: Dragon Sword",
+    "platforms": ["Nintendo DS"],
+    "release_year": 2008,
+    "playable_characters": [
+      {
+        "name": "Ryu Hayabusa",
+        "combat_style": "Ninja sword mastery with stylus‑driven slashes, dodge rolls, and stylized ninjutsu strikes"
+      }
+    ],
+    "martial_arts_used": [
+      "Kenjutsu",
+      "Ninjutsu",
+      "Taijutsu",
+      "Iaido"
+    ],
+    "youtube_trailer": "https://www.youtube.com/watch?v=VbwuQDPwOWo",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Ninja+Gaiden+Dragon+Sword+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Ninja_Gaiden:_Dragon_Sword",
+      "igdb": "https://www.igdb.com/games/ninja-gaiden-dragon-sword",
+      "gamespot": "",
+      "google": "https://www.google.com/search?q=Ninja+Gaiden+Dragon+Sword"
+    }
+  },
+
+  "NinjaGaidenRagebound": {
+    "name": "Ninja Gaiden: Ragebound",
+    "platforms": ["PlayStation 5", "Xbox Series X", "Nintendo Switch"],
+    "release_year": 2025,
+    "playable_characters": [
+      {
+        "name": "Kenji Mozu",
+        "combat_style": "2D action ninja combat with fast strikes, wall run dodges, and demon‑slaying techniques"
+      },
+      {
+        "name": "Kumori",
+        "combat_style": "Black Spider Clan kunoichi agility with twin dagger acrobatics and hybrid ninja techniques"
+      }
+    ],
+    "martial_arts_used": [
+      "Taijutsu",
+      "Kenjutsu",
+      "Acrobatics",
+      "Ninjutsu",
+      "Capoeira",
+      "Jujutsu"
+    ],
+    "youtube_trailer": "https://www.youtube.com/watch?v=va0pPZjGdUI",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Ninja+Gaiden+Ragebound+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Ninja_Gaiden:_Ragebound",
+      "igdb": "https://www.igdb.com/games/ninja-gaiden-ragebound",
+      "gamespot": "https://www.gamespot.com/games/ninja-gaiden-ragebound/",
+      "google": "https://www.google.com/search?q=Ninja+Gaiden+Ragebound+2025"
+    }
+  },
+
+  "NinjaGaiden4": {
+    "name": "Ninja Gaiden 4",
+    "platforms": ["PlayStation 5", "Xbox Series X"],
+    "release_year": 2025,
+    "playable_characters": [
+      {
+        "name": "Yakumo",
+        "combat_style": "Raven clan ninja combat with mixed weapon mastery, long‑reach strikes and agile mobility"
+      },
+      {
+        "name": "Ryu Hayabusa",
+        "combat_style": "Legendary ninja combat with precision kenjutsu, rapid taijutsu combos and signature ninjutsu techniques"
+      }
+    ],
+    "martial_arts_used": [
+      "Kenjutsu",
+      "Ninjutsu",
+      "Taijutsu",
+      "Iaido",
+      "Acrobatics",
+      "Aikido"
+    ],
+    "youtube_trailer": "https://www.youtube.com/watch?v=xvbQr84SW88",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Ninja+Gaiden+4+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Ninja_Gaiden_4",
+      "igdb": "https://www.igdb.com/games/ninja-gaiden-4",
+      "gamespot": "https://www.gamespot.com/games/ninja-gaiden-4/",
+      "google": "https://www.google.com/search?q=Ninja+Gaiden+4+2025"
+    }
+  }
+}

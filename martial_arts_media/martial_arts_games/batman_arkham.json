@@ -1,0 +1,132 @@
+{
+  "BatmanArkhamAsylum": {
+    "name": "Batman: Arkham Asylum",
+    "platforms": [
+      "PC",
+      "PlayStation 3",
+      "Xbox 360"
+    ],
+    "release_year": 2009,
+    "playable_characters": [
+      {
+        "name": "Batman",
+        "combat_style": "Martial arts-focused combat with counters, stealth takedowns, and gadget integration"
+      }
+    ],
+    "martial_arts_used": [
+      "Striking",
+      "Grappling",
+      "Acrobatic combat"
+    ],
+    "youtube_trailer": "https://www.youtube.com/watch?v=69NWY4seb0o",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Batman+Arkham+Asylum+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Batman:_Arkham_Asylum",
+      "igdb": "https://www.igdb.com/games/batman-arkham-asylum",
+      "gamespot": "https://www.gamespot.com/games/batman-arkham-asylum/",
+      "google": "https://www.google.com/search?q=Batman+Arkham+Asylum"
+    }
+  },
+
+  "BatmanArkhamCity": {
+    "name": "Batman: Arkham City",
+    "platforms": [
+      "PC",
+      "PlayStation 3",
+      "Xbox 360"
+    ],
+    "release_year": 2011,
+    "playable_characters": [
+      {
+        "name": "Batman",
+        "combat_style": "Mixed martial arts-inspired combat with striking, grappling, and gadget integration"
+      },
+      {
+        "name": "Catwoman",
+        "combat_style": "Agile, acrobatic combat focusing on whip attacks, stealth, and counters"
+      },
+      {
+        "name": "Robin",
+        "combat_style": "Staff-based martial arts with acrobatics and rapid strikes"
+      },
+      {
+        "name": "Nightwing",
+        "combat_style": "Escrima-inspired dual-stick combat with high mobility and counters"
+      }
+    ],
+    "martial_arts_used": [
+      "Striking",
+      "Grappling",
+      "Weapon-based martial arts",
+      "Acrobatic combat"
+    ],
+    "youtube_trailer": "https://www.youtube.com/watch?v=muCtJsy-d9w",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Batman+Arkham+City+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Batman:_Arkham_City",
+      "igdb": "https://www.igdb.com/games/batman-arkham-city",
+      "gamespot": "https://www.gamespot.com/games/batman-arkham-city/",
+      "google": "https://www.google.com/search?q=Batman+Arkham+City"
+    }
+  },
+
+  "BatmanArkhamOrigins": {
+    "name": "Batman: Arkham Origins",
+    "platforms": [
+      "PC",
+      "PlayStation 3",
+      "Xbox 360"
+    ],
+    "release_year": 2013,
+    "playable_characters": [
+      {
+        "name": "Batman",
+        "combat_style": "Aggressive freeflow combat emphasizing counters, gadget chaining, and enemy control"
+      }
+    ],
+    "martial_arts_used": [
+      "Striking",
+      "Grappling",
+      "Acrobatic combat",
+      "Gadget-assisted combat"
+    ],
+    "youtube_trailer": "https://www.youtube.com/watch?v=9pnK8akbd2M",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Batman+Arkham+Origins+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Batman:_Arkham_Origins",
+      "igdb": "https://www.igdb.com/games/batman-arkham-origins",
+      "gamespot": "https://www.gamespot.com/games/batman-arkham-origins/",
+      "google": "https://www.google.com/search?q=Batman+Arkham+Origins"
+    }
+  },
+
+  "BatmanArkhamKnight": {
+    "name": "Batman: Arkham Knight",
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "Xbox One"
+    ],
+    "release_year": 2015,
+    "playable_characters": [
+      {
+        "name": "Batman",
+        "combat_style": "Enhanced freeflow combat with counters, aerial attacks, and gadget-based combos"
+      }
+    ],
+    "martial_arts_used": [
+      "Striking",
+      "Grappling",
+      "Acrobatic combat",
+      "Gadget-assisted combat"
+    ],
+    "youtube_trailer": "https://www.youtube.com/watch?v=wsf78BS9VE0",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Batman+Arkham+Knight+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Batman:_Arkham_Knight",
+      "igdb": "https://www.igdb.com/games/batman-arkham-knight",
+      "gamespot": "https://www.gamespot.com/games/batman-arkham-knight/",
+      "google": "https://www.google.com/search?q=Batman+Arkham+Knight"
+    }
+  }
+}

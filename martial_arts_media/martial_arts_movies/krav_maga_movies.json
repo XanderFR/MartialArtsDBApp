@@ -1,0 +1,273 @@
+{
+  "CasinoRoyale": {
+    "name": "Casino Royale",
+    "format": "Live-Action",
+    "release_year": 2006,
+    "genre": ["Action", "Spy", "Thriller"],
+    "language": "English",
+    "logline": "James Bond begins his career as 007 and employs Krav Maga–influenced combat in high-stakes missions.",
+    "youtube": {
+      "trailer": "https://youtu.be/36mnx8dBbGE",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=casino+royale+2006+krav+maga+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0381061/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Casino_Royale_(2006_film)",
+    "google_link": "https://www.google.com/search?q=Casino+Royale+2006+film"
+  },
+
+  "Collateral": {
+    "name": "Collateral",
+    "format": "Live-Action",
+    "release_year": 2004,
+    "genre": ["Action", "Crime", "Thriller"],
+    "language": "English",
+    "logline": "A cab driver becomes hostage to a contract killer and must survive his violent rampage, using Krav Maga–influenced combat techniques.",
+    "youtube": {
+      "trailer": "https://youtu.be/-JDf2zIFgO8",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=collateral+2004+krav+maga+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0369339/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Collateral_(film)",
+    "google_link": "https://www.google.com/search?q=Collateral+2004+film"
+  },
+
+  "Enough": {
+    "name": "Enough",
+    "format": "Live-Action",
+    "release_year": 2002,
+    "genre": ["Action", "Thriller", "Krav Maga"],
+    "language": "English",
+    "logline": "A woman trains in Krav Maga to defend herself and protect her daughter from an abusive husband.",
+    "youtube": {
+      "trailer": "https://youtu.be/0tahxDOAzT4",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=enough+2002+krav+maga+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0252503/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Enough_(film)",
+    "google_link": "https://www.google.com/search?q=Enough+2002+film"
+  },
+
+  "JohnWick": {
+    "name": "John Wick",
+    "format": "Live-Action",
+    "release_year": 2014,
+    "genre": ["Action", "Thriller"],
+    "language": "English",
+    "logline": "Retired hitman John Wick seeks vengeance using Krav Maga–influenced combat techniques.",
+    "youtube": {
+      "trailer": "https://youtu.be/C0BMx-qxsP4",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=john+wick+2014+krav+maga+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt2911666/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/John_Wick_(film)",
+    "google_link": "https://www.google.com/search?q=John+Wick+2014+film"
+  },
+
+  "JohnWickChapter2": {
+    "name": "John Wick: Chapter 2",
+    "format": "Live-Action",
+    "release_year": 2017,
+    "genre": ["Action", "Thriller"],
+    "language": "English",
+    "logline": "John Wick faces new adversaries, relying heavily on Krav Maga combat techniques.",
+    "youtube": {
+      "trailer": "https://youtu.be/ChpLV9AMqm4",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=john+wick+chapter+2+2017+krav+maga+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt4425200/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/John_Wick:_Chapter_2",
+    "google_link": "https://www.google.com/search?q=John+Wick+Chapter+2+2017+film"
+  },
+
+  "JohnWickChapter3Parabellum": {
+    "name": "John Wick: Chapter 3 – Parabellum",
+    "format": "Live-Action",
+    "release_year": 2019,
+    "genre": ["Action", "Thriller"],
+    "language": "English",
+    "logline": "John Wick fights his way through deadly assassins using Krav Maga–style combat.",
+    "youtube": {
+      "trailer": "https://youtu.be/M7XM597XO94",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=john+wick+chapter+3+2019+krav+maga+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt6146586/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/John_Wick:_Chapter_3_–_Parabellum",
+    "google_link": "https://www.google.com/search?q=John+Wick+Chapter+3+2019+film"
+  },
+
+  "JohnWickChapter4": {
+    "name": "John Wick: Chapter 4",
+    "format": "Live-Action",
+    "release_year": 2023,
+    "genre": ["Action", "Thriller"],
+    "language": "English",
+    "logline": "John Wick faces his most dangerous enemies yet, utilizing advanced Krav Maga techniques.",
+    "youtube": {
+      "trailer": "https://youtu.be/qEVUtrk8_B4",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=john+wick+chapter+4+2023+krav+maga+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt10366206/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/John_Wick:_Chapter_4",
+    "google_link": "https://www.google.com/search?q=John+Wick+Chapter+4+2023+film"
+  },
+
+  "NoTimetoDie": {
+    "name": "No Time to Die",
+    "format": "Live-Action",
+    "release_year": 2021,
+    "genre": ["Action", "Spy", "Thriller"],
+    "language": "English",
+    "logline": "James Bond comes out of retirement and employs Krav Maga–influenced fighting to defeat a new global threat.",
+    "youtube": {
+      "trailer": "https://youtu.be/BIhNsAtPbPI",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=no+time+to+die+2021+krav+maga+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt2382320/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/No_Time_to_Die",
+    "google_link": "https://www.google.com/search?q=No+Time+to+Die+2021+film"
+  },
+
+  "QuantumofSolace": {
+    "name": "Quantum of Solace",
+    "format": "Live-Action",
+    "release_year": 2008,
+    "genre": ["Action", "Spy", "Thriller"],
+    "language": "English",
+    "logline": "James Bond continues his mission, utilizing Krav Maga–style fighting to defeat enemies in pursuit of justice.",
+    "youtube": {
+      "trailer": "https://youtu.be/ZN0WMFbieHY",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=quantum+of+solace+2008+krav+maga+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0830515/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Quantum_of_Solace",
+    "google_link": "https://www.google.com/search?q=Quantum+of+Solace+2008+film"
+  },
+
+  "Salt": {
+    "name": "Salt",
+    "format": "Live-Action",
+    "release_year": 2010,
+    "genre": ["Action", "Spy", "Thriller"],
+    "language": "English",
+    "logline": "CIA agent Evelyn Salt uses Krav Maga–influenced combat techniques to survive deadly missions and clear her name.",
+    "youtube": {
+      "trailer": "https://youtu.be/QZ40WlshNwU",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=salt+2010+krav+maga+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0944835/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Salt_(2010_film)",
+    "google_link": "https://www.google.com/search?q=Salt+2010+film"
+  },
+
+  "Spectre": {
+    "name": "Spectre",
+    "format": "Live-Action",
+    "release_year": 2015,
+    "genre": ["Action", "Spy", "Thriller"],
+    "language": "English",
+    "logline": "James Bond confronts the shadowy organization Spectre using Krav Maga–style close-quarters combat and tactical skills.",
+    "youtube": {
+      "trailer": "https://youtu.be/ujmoYyEyDP8",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=spectre+2015+krav+maga+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt2379713/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Spectre_(2015_film)",
+    "google_link": "https://www.google.com/search?q=Spectre+2015+film"
+  },
+
+  "Taken": {
+    "name": "Taken",
+    "format": "Live-Action",
+    "release_year": 2008,
+    "genre": ["Action", "Thriller", "Krav Maga"],
+    "language": "English",
+    "logline": "Ex-CIA operative Bryan Mills uses Krav Maga–style combat skills to rescue his kidnapped daughter.",
+    "youtube": {
+      "trailer": "https://youtu.be/XK9zL0ze9O4",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=taken+2008+krav+maga+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0936501/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Taken_(film)",
+    "google_link": "https://www.google.com/search?q=Taken+2008+film"
+  },
+
+  "Taken2": {
+    "name": "Taken 2",
+    "format": "Live-Action",
+    "release_year": 2012,
+    "genre": ["Action", "Thriller"],
+    "language": "English",
+    "logline": "Bryan Mills uses Krav Maga to protect his family when past enemies seek revenge.",
+    "youtube": {
+      "trailer": "https://youtu.be/u48UrWtCn5E",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=taken+2+2012+krav+maga+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt1397280/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Taken_2",
+    "google_link": "https://www.google.com/search?q=Taken+2+2012+film"
+  },
+
+  "Taken3": {
+    "name": "Taken 3",
+    "format": "Live-Action",
+    "release_year": 2014,
+    "genre": ["Action", "Thriller"],
+    "language": "English",
+    "logline": "Bryan Mills relies on Krav Maga combat skills to evade authorities and protect his family from a deadly conspiracy.",
+    "youtube": {
+      "trailer": "https://youtu.be/JuU0M2xBasc",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=taken+3+2014+krav+maga+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt2446042/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Taken_3",
+    "google_link": "https://www.google.com/search?q=Taken+3+2014+film"
+  },
+
+  "TheDebt": {
+    "name": "The Debt",
+    "format": "Live-Action",
+    "release_year": 2010,
+    "genre": ["Action", "Thriller"],
+    "language": "English",
+    "logline": "Mossad agents must rely on Krav Maga–inspired combat skills to capture a notorious Nazi war criminal and survive decades later when their mission resurfaces.",
+    "youtube": {
+      "trailer": "https://youtu.be/DbYw8SPKj1E",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=the+debt+2010+krav+maga+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt1259521/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/The_Debt_(2010_film)",
+    "google_link": "https://www.google.com/search?q=The+Debt+2010+film"
+  },
+
+  "TheEqualizer": {
+    "name": "The Equalizer",
+    "format": "Live-Action",
+    "release_year": 2014,
+    "genre": ["Action", "Thriller", "Crime"],
+    "language": "English",
+    "logline": "Robert McCall uses Krav Maga–like combat techniques and tactical skills to protect the innocent and defeat criminals.",
+    "youtube": {
+      "trailer": "https://youtu.be/VjctHUEmutw",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=the+equalizer+2014+krav+maga+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0455944/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/The_Equalizer_(2014_film)",
+    "google_link": "https://www.google.com/search?q=The+Equalizer+2014+film"
+  },
+
+  "TheEqualizer2": {
+    "name": "The Equalizer 2",
+    "format": "Live-Action",
+    "release_year": 2018,
+    "genre": ["Action", "Thriller", "Crime"],
+    "language": "English",
+    "logline": "Robert McCall continues his mission using Krav Maga–style combat to protect the innocent and bring justice to criminals.",
+    "youtube": {
+      "trailer": "https://youtu.be/HyNJ3UrGk_I",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=the+equalizer+2+2018+krav+maga+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt4481414/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/The_Equalizer_2",
+    "google_link": "https://www.google.com/search?q=The+Equalizer+2+2018+film"
+  }
+}

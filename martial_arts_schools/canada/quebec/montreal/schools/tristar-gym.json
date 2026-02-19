@@ -1,0 +1,10 @@
+{
+  "id": "tristar-gym",
+  "name": "Tristar Gym",
+  "styles_taught": ["Brazilian Jiu-Jitsu","Mixed Martial Arts","Muay Thai","Wrestling","Boxing"],
+  "address": "5275 Ferrier St, Montreal, Quebec H4P 1L7",
+  "phone": "+15143430148",
+  "links": {
+    "website": "https://www.tristargym.com/"
+  }
+}

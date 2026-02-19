@@ -1,0 +1,52 @@
+{
+  "tekken": {
+    "name": "Tekken",
+    "image": {
+      "file_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Tekken.png",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Tekken.png",
+      "attribution": "Gioma234, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+      "alt_text": "Tekken series logo"
+    },
+    "link": "tekken"
+  },
+  "street_fighter": {
+    "name": "Street Fighter",
+    "image": {
+      "file_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Street_Fighter_old_logo.png",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Street_Fighter_old_logo.png",
+      "attribution": "Capcom, Public domain, via Wikimedia Commons",
+      "alt_text": "Street Fighter old logo"
+    },
+    "link": "street_fighter"
+  },
+  "mortal_kombat": {
+    "name": "Mortal Kombat",
+    "image": {
+      "file_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/MortalKombat1992Logo.png",
+      "page_url": "https://commons.wikimedia.org/wiki/File:MortalKombat1992Logo.png",
+      "attribution": "Midway Games, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons",
+      "alt_text": "Mortal Kombat logo"
+    },
+    "link": "mortal_kombat"
+  },
+  "assassins_creed": {
+    "name": "Assassin's Creed",
+    "image": {
+      "file_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Assassin%E2%80%99s_Creed.svg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Assassin%E2%80%99s_Creed.svg",
+      "attribution": "Ubisoft, Public domain, via Wikimedia Commons",
+      "alt_text": "Assassin's Creed Logo"
+    },
+    "link": "assassins_creed"
+  },
+  "ghost_of_tsushima": {
+    "name": "Ghost of Tsushima",
+    "image": {
+      "file_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Ghost_of_Tsushima_logo_black.svg/512px-Ghost_of_Tsushima_logo_black.svg.png",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Ghost_of_Tsushima_logo_black.svg",
+      "attribution": "various, Public domain, via Wikimedia Commons",
+      "alt_text": "Ghost of Tsushima logo black"
+    },
+    "link": "ghost_of_tsushima"
+  }
+}

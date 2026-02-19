@@ -1,0 +1,40 @@
+{
+  "Arrow": {
+    "name": "Arrow",
+    "format": "Live-action TV series",
+    "release_year": 2012,
+    "genre": [
+      "Action",
+      "Drama",
+      "Superhero"
+    ],
+    "language": "English",
+    "plot": "After being stranded on a hostile island for five years, billionaire playboy Oliver Queen returns home determined to right the wrongs of his family and fight crime in Star City. Using his skills in archery and close-quarters combat, Oliver leads Team Arrow against criminals and supervillains, with fight choreography heavily influenced by Filipino martial arts, including Eskrima/Kali stick work and knife techniques.",
+    "youtube": {
+      "trailer": "https://www.youtube.com/watch?v=Apn96-Jk-yE",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=arrow+tv+series+fights"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt2193021/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Arrow_(TV_series)",
+    "google_link": "https://www.google.com/search?q=Arrow+TV+series"
+  },
+  "Incognito": {
+    "name": "Incognito",
+    "format": "Live-action TV series",
+    "release_year": 2023,
+    "genre": [
+      "Action",
+      "Drama",
+      "Crime"
+    ],
+    "language": "Filipino",
+    "plot": "A Philippine action drama where a secret agent infiltrates criminal organizations to uncover conspiracies. Fight choreography prominently uses Filipino martial arts techniques, including Arnis and Eskrima, making FMA a central influence in the action scenes.",
+    "youtube": {
+      "trailer": "https://www.youtube.com/watch?v=V2RUkzEnXFA",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=incognito+philippine+tv+series+fights"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt27512346/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Incognito_(TV_series)",
+    "google_link": "https://www.google.com/search?q=Incognito+Philippine+TV+series"
+  }
+}

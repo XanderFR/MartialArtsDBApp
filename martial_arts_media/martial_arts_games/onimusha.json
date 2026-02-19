@@ -1,0 +1,186 @@
+{
+  "Onimusha": {
+    "name": "Onimusha: Warlords",
+    "platforms": [
+      "PlayStation 2",
+      "PlayStation 3",
+      "Xbox",
+      "PC",
+      "Nintendo Switch",
+      "PlayStation 4",
+      "Xbox One"
+    ],
+    "release_year": 2001,
+    "playable_characters": [
+      {
+        "name": "Samanosuke Akechi",
+        "combat_style": "Samurai sword combat with swift slashes, counters, and elemental demon powers"
+      },
+      {
+        "name": "Kaede",
+        "combat_style": "Agile kunai and short sword combat with acrobatics and stealth maneuvers"
+      }
+    ],
+    "martial_arts_used": [
+      "Kenjutsu",
+      "Iaido",
+      "Aikido",
+      "Jujutsu",
+      "Acrobatics"
+    ],
+    "youtube_trailer": "https://www.youtube.com/watch?v=aS6jbBwf6sY",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Onimusha+Warlords+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Onimusha:_Warlords",
+      "igdb": "https://www.igdb.com/games/onimusha-warlords",
+      "gamespot": "https://www.gamespot.com/games/onimusha-warlords/",
+      "google": "https://www.google.com/search?q=Onimusha+Warlords"
+    }
+  },
+  "Onimusha2": {
+    "name": "Onimusha 2: Samurai's Destiny",
+    "platforms": [
+      "PlayStation 2"
+    ],
+    "release_year": 2002,
+    "playable_characters": [
+      {
+        "name": "Jubei Yagyu",
+        "combat_style": "Ninjutsu and sword-based combat with agility, counters, and demon powers"
+      },
+      {
+        "name": "Ranmaru Mori",
+        "combat_style": "Dual-wield sword combat with acrobatics, quick strikes, and demon-enhanced attacks"
+      }
+    ],
+    "martial_arts_used": [
+      "Kenjutsu",
+      "Iaido",
+      "Ninjutsu",
+      "Jujutsu",
+      "Acrobatics"
+    ],
+    "youtube_trailer": "https://www.youtube.com/watch?v=vsNaMMHwXMY",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Onimusha+2+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Onimusha_2:_Samurai's_Destiny",
+      "igdb": "https://www.igdb.com/games/onimusha-2-samurais-destiny",
+      "gamespot": "https://www.gamespot.com/games/onimusha-2-samurais-destiny/",
+      "google": "https://www.google.com/search?q=Onimusha+2+Samurai's+Destiny"
+    }
+  },
+  "Onimusha3": {
+    "name": "Onimusha 3: Demon Siege",
+    "platforms": [
+      "PlayStation 2",
+      "Xbox"
+    ],
+    "release_year": 2004,
+    "playable_characters": [
+      {
+        "name": "Samanosuke Akechi",
+        "combat_style": "Time-traveling samurai sword combat with counters, combos, and elemental powers"
+      },
+      {
+        "name": "Jean Reno (fictionalized)",
+        "combat_style": "Close-quarters fighting with firearms and hand-to-hand techniques"
+      },
+      {
+        "name": "Kaede",
+        "combat_style": "Agile kunai and sword combat with acrobatics and stealth maneuvers"
+      }
+    ],
+    "martial_arts_used": [
+      "Kenjutsu",
+      "Iaido",
+      "Jujutsu",
+      "Aikido",
+      "Gun-fu",
+      "Acrobatics"
+    ],
+    "youtube_trailer": "https://www.youtube.com/watch?v=rZAjTl5_3UU",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Onimusha+3+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Onimusha_3:_Demon_Siege",
+      "igdb": "https://www.igdb.com/games/onimusha-3-demon-siege",
+      "gamespot": "https://www.gamespot.com/games/onimusha-3-demon-siege/",
+      "google": "https://www.google.com/search?q=Onimusha+3+Demon+Siege"
+    }
+  },
+  "Onimusha4": {
+    "name": "Onimusha: Dawn of Dreams",
+    "platforms": [
+      "PlayStation 2"
+    ],
+    "release_year": 2006,
+    "playable_characters": [
+      {
+        "name": "Soki",
+        "combat_style": "Enhanced samurai sword combat with demon transformations, combos, and acrobatics"
+      },
+      {
+        "name": "Kaede",
+        "combat_style": "Agile sword and ninjutsu-based combat with stealth and acrobatics"
+      },
+      {
+        "name": "Tenkai",
+        "combat_style": "Polearm combat with spinning attacks, counters, and demon-enhanced strikes"
+      },
+      {
+        "name": "Kotaro",
+        "combat_style": "Heavy weapon and brute-force combat with explosive strikes and demon powers"
+      }
+    ],
+    "martial_arts_used": [
+      "Kenjutsu",
+      "Iaido",
+      "Jujutsu",
+      "Aikido",
+      "Naginatajutsu",
+      "Acrobatic combat"
+    ],
+    "youtube_trailer": "https://www.youtube.com/watch?v=JCIeyjVL8Ik",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Onimusha+Dawn+of+Dreams+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Onimusha:_Dawn_of_Dreams",
+      "igdb": "https://www.igdb.com/games/onimusha-dawn-of-dreams",
+      "gamespot": "https://www.gamespot.com/games/onimusha-dawn-of-dreams/",
+      "google": "https://www.google.com/search?q=Onimusha+Dawn+of+Dreams"
+    }
+  },
+  "OnimushaRemaster": {
+    "name": "Onimusha: Warlords Remaster",
+    "platforms": [
+      "PlayStation 4",
+      "Xbox One",
+      "Nintendo Switch",
+      "PC"
+    ],
+    "release_year": 2019,
+    "playable_characters": [
+      {
+        "name": "Samanosuke Akechi",
+        "combat_style": "Samurai sword combat with refined slashes, counters, and demon-enhanced abilities"
+      },
+      {
+        "name": "Kaede",
+        "combat_style": "Agile kunai and sword combat with acrobatics and stealth maneuvers"
+      }
+    ],
+    "martial_arts_used": [
+      "Kenjutsu",
+      "Iaido",
+      "Aikido",
+      "Jujutsu",
+      "Acrobatics"
+    ],
+    "youtube_trailer": "https://www.youtube.com/watch?v=oKbD_NeRi5g",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Onimusha+Warlords+Remaster+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Onimusha:_Warlords_Remaster",
+      "igdb": "https://www.igdb.com/games/onimusha-warlords-remaster",
+      "gamespot": "https://www.gamespot.com/games/onimusha-warlords-remaster/",
+      "google": "https://www.google.com/search?q=Onimusha+Warlords+Remaster"
+    }
+  }
+}

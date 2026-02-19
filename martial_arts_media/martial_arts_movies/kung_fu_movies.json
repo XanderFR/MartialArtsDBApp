@@ -1,0 +1,197 @@
+{
+  "DrunkenMaster": {
+    "name": "Drunken Master",
+    "format": "Live-Action",
+    "release_year": 1978,
+    "genre": ["Action", "Comedy"],
+    "language": "Cantonese",
+    "logline": "A mischievous young man learns the art of drunken kung fu to overcome challenges, blending humor, creativity, and martial discipline.",
+    "youtube": {
+      "trailer": "https://youtu.be/WSu-9X8NF9k",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=drunken+master+1978+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0077928/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Drunken_Master",
+    "google_link": "https://www.google.com/search?q=Drunken+Master+1978+film"
+  },
+  "Fearless": {
+    "name": "Fearless",
+    "format": "Live-Action",
+    "release_year": 2006,
+    "genre": ["Action", "Biography"],
+    "language": "Mandarin",
+    "logline": "The legendary Huo Yuanjia becomes one of China's greatest kung fu masters, showing courage, discipline, and moral integrity in his journey.",
+    "youtube": {
+      "trailer": "https://youtu.be/W8pfFuBlwKg",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=fearless+2006+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0374340/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Fearless_(2006_film)",
+    "google_link": "https://www.google.com/search?q=Fearless+2006+film"
+  },
+  "FistOfLegend": {
+    "name": "Fist of Legend",
+    "format": "Live-Action",
+    "release_year": 1994,
+    "genre": ["Action"],
+    "language": "Mandarin",
+    "logline": "A young martial artist uses kung fu to defend his master’s honor, facing challenges with skill, courage, and strategy.",
+    "youtube": {
+      "trailer": "https://youtu.be/zfZXiw-lgMs",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=fist+of+legend+1994+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0109335/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Fist_of_Legend",
+    "google_link": "https://www.google.com/search?q=Fist+of+Legend+1994+film"
+  },
+  "FongSaiYuk": {
+    "name": "Fong Sai-Yuk",
+    "format": "Live-Action",
+    "release_year": 1993,
+    "genre": ["Action", "Comedy"],
+    "language": "Cantonese",
+    "logline": "A young kung fu prodigy navigates adventures and combats injustice, learning discipline and the art of combat along the way.",
+    "youtube": {
+      "trailer": "https://youtu.be/xPebdMy0b6s",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=fong+sai+yuk+1993+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0108214/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Fong_Sai-Yuk",
+    "google_link": "https://www.google.com/search?q=Fong+Sai-Yuk+1993+film"
+  },
+  "Hero": {
+    "name": "Hero",
+    "format": "Live-Action",
+    "release_year": 2002,
+    "genre": ["Action", "Historical"],
+    "language": "Mandarin",
+    "logline": "A nameless warrior uses incredible kung fu skills to confront assassins and protect the king of Qin.",
+    "youtube": {
+      "trailer": "https://youtu.be/_USDk5jaGek",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=hero+2002+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0299977/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Hero_(2002_film)",
+    "google_link": "https://www.google.com/search?q=Hero+2002+film"
+  },
+  "IpMan": {
+    "name": "Ip Man",
+    "format": "Live-Action",
+    "release_year": 2008,
+    "genre": ["Action", "Biography"],
+    "language": "Cantonese",
+    "logline": "The Wing Chun master Ip Man rises to prominence, using skill, discipline, and honor to inspire and defend others.",
+    "youtube": {
+      "trailer": "https://youtu.be/RBYbqO_FUA4",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=ip+man+2008+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt1220719/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Ip_Man_(film)",
+    "google_link": "https://www.google.com/search?q=Ip+Man+2008+film"
+  },
+  "MasterOfTheFlyingGuillotine": {
+    "name": "Master of the Flying Guillotine",
+    "format": "Live-Action",
+    "release_year": 1976,
+    "genre": ["Action"],
+    "language": "Mandarin",
+    "logline": "A blind kung fu master wields a deadly flying guillotine to eliminate his enemies in a gripping battle of skill and strategy.",
+    "youtube": {
+      "trailer": "https://youtu.be/RmdP1qTjGZY",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=master+of+the+flying+guillotine+1976+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0074756/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Master_of_the_Flying_Guillotine",
+    "google_link": "https://www.google.com/search?q=Master+of+the+Flying+Guillotine+1976+film"
+  },
+  "The36thChamberOfShaolin": {
+    "name": "The 36th Chamber of Shaolin",
+    "format": "Live-Action",
+    "release_year": 1978,
+    "genre": ["Action"],
+    "language": "Cantonese",
+    "logline": "A young man trains at Shaolin Temple, mastering kung fu to fight corruption and tyranny, learning discipline and perseverance along the way.",
+    "youtube": {
+      "trailer": "https://youtu.be/dx43uPkFwTY",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=36th+chamber+of+shaolin+1978+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0077766/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/The_36th_Chamber_of_Shaolin",
+    "google_link": "https://www.google.com/search?q=The+36th+Chamber+of+Shaolin+1978+film"
+  },
+  "TheKidWithTheGoldenArm": {
+    "name": "The Kid with the Golden Arm",
+    "format": "Live-Action",
+    "release_year": 1979,
+    "genre": ["Action"],
+    "language": "Cantonese",
+    "logline": "A young martial artist develops an unorthodox golden-arm kung fu technique to defend his village and avenge his master.",
+    "youtube": {
+      "trailer": "https://youtu.be/kqYVe2ZhhOI",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=kid+with+the+golden+arm+1979+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0078801/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/The_Kid_with_the_Golden_Arm",
+    "google_link": "https://www.google.com/search?q=The+Kid+with+the+Golden+Arm+1979+film"
+  },
+  "WayOfTheDragon": {
+    "name": "Way of the Dragon",
+    "format": "Live-Action",
+    "release_year": 1972,
+    "genre": ["Action"],
+    "language": "Cantonese",
+    "logline": "Bruce Lee returns to Rome to help defend a restaurant, showcasing his iconic kung fu skills and inspiring courage and determination.",
+    "youtube": {
+      "trailer": "https://youtu.be/h_tGleG0IT0",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=way+of+the+dragon+1972+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0069293/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Way_of_the_Dragon",
+    "google_link": "https://www.google.com/search?q=Way+of+the+Dragon+1972+film"
+  },
+  "WingChun": {
+    "name": "Wing Chun",
+    "format": "Live-Action",
+    "release_year": 1994,
+    "genre": ["Action", "Biography"],
+    "language": "Cantonese",
+    "logline": "The story of legendary martial artist Yim Wing Chun, who uses her kung fu skills to fight injustice.",
+    "youtube": {
+      "trailer": "https://youtu.be/iI0v72_wFqc",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=wing+chun+1994+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0110653/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Wing_Chun_(1994_film)",
+    "google_link": "https://www.google.com/search?q=Wing+Chun+1994+film"
+  },
+  "YoungMaster": {
+    "name": "Young Master",
+    "format": "Live-Action",
+    "release_year": 1980,
+    "genre": ["Action", "Comedy"],
+    "language": "Cantonese",
+    "logline": "A young martial artist uses wit and skill to defeat corruption and restore honor.",
+    "youtube": {
+      "trailer": "https://youtu.be/TvAkPZpCor0",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=young+master+1980+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0080650/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Young_Master",
+    "google_link": "https://www.google.com/search?q=Young+Master+1980+film"
+  },
+  "ZuWarriors": {
+    "name": "Zu: Warriors from the Magic Mountain",
+    "format": "Live-Action",
+    "release_year": 1983,
+    "genre": ["Action", "Fantasy"],
+    "language": "Cantonese",
+    "logline": "A group of warriors battle mystical creatures and evil forces using legendary combat skills.",
+    "youtube": {
+      "trailer": "https://youtu.be/ku3kF6xZdeQ",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=zu+warriors+1983+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0085592/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Zu:_Warriors_from_the_Magic_Mountain",
+    "google_link": "https://www.google.com/search?q=Zu+Warriors+from+the+Magic+Mountain+1983+film"
+  }
+}

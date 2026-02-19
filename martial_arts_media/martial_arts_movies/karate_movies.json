@@ -1,0 +1,107 @@
+{
+  "ChallengeOfTheTiger": {
+    "name": "Challenge of the Tiger",
+    "format": "Live-Action",
+    "release_year": 1980,
+    "genre": ["Action", "Thriller"],
+    "language": "English",
+    "logline": "A karate expert teams up with a detective to recover stolen gold and face dangerous criminals.",
+    "youtube": {
+      "trailer": "https://youtu.be/_Qd420ib7o8",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=challenge+of+the+tiger+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0077645/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Challenge_of_the_Tiger",
+    "google_link": "https://www.google.com/search?q=Challenge+of+the+Tiger+1980+film"
+  },
+  "FightingMad": {
+    "name": "Fighting Mad",
+    "format": "Live-Action",
+    "release_year": 1976,
+    "genre": ["Action", "Drama"],
+    "language": "English",
+    "logline": "A karate expert returns home to protect his family and confront local gangsters using his martial arts skills.",
+    "youtube": {
+      "trailer": "https://youtu.be/ICsmOfs09N0",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=fighting+mad+1976+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0074529/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Fighting_Mad_(1976_film)",
+    "google_link": "https://www.google.com/search?q=Fighting+Mad+1976+film"
+  },
+  "Gymkata": {
+    "name": "Gymkata",
+    "format": "Live-Action",
+    "release_year": 1985,
+    "genre": ["Action", "Thriller"],
+    "language": "English",
+    "logline": "An Olympic gymnast uses karate in a deadly competition to rescue a foreign princess.",
+    "youtube": {
+      "trailer": "https://youtu.be/8fFVgoGKy58",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=gymkata+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0089313/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Gymkata",
+    "google_link": "https://www.google.com/search?q=Gymkata+1985+film"
+  },
+  "KarateKid": {
+    "name": "The Karate Kid",
+    "format": "Live-Action",
+    "release_year": 1984,
+    "genre": ["Action", "Family", "Sport", "Drama"],
+    "language": "English",
+    "logline": "A teenager learns karate from a wise mentor to defend himself and compete in a martial arts tournament.",
+    "youtube": {
+      "trailer": "https://youtu.be/r_8Rw16uscg",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=the+karate+kid+1984+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0087538/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/The_Karate_Kid_(1984_film)",
+    "google_link": "https://www.google.com/search?q=The+Karate+Kid+1984+film"
+  },
+  "KarateKidPartII": {
+    "name": "The Karate Kid Part II",
+    "format": "Live-Action",
+    "release_year": 1986,
+    "genre": ["Action", "Family", "Drama", "Sport"],
+    "language": "English",
+    "logline": "Daniel and Mr. Miyagi travel to Okinawa, where he faces a former friend turned rival in karate and life lessons.",
+    "youtube": {
+      "trailer": "https://youtu.be/aN460dWxQYg",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=the+karate+kid+part+ii+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0091326/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/The_Karate_Kid_Part_II",
+    "google_link": "https://www.google.com/search?q=The+Karate+Kid+Part+II+1986+film"
+  },
+  "KarateKidPartIII": {
+    "name": "The Karate Kid Part III",
+    "format": "Live-Action",
+    "release_year": 1989,
+    "genre": ["Action", "Family", "Drama", "Sport"],
+    "language": "English",
+    "logline": "Daniel faces new challenges as an old enemy seeks revenge, testing his skills and philosophy in karate.",
+    "youtube": {
+      "trailer": "https://youtu.be/42xkTso8krA",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=the+karate+kid+part+iii+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0096670/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/The_Karate_Kid_Part_III",
+    "google_link": "https://www.google.com/search?q=The+Karate+Kid+Part+III+1989+film"
+  },
+  "TheNextKarateKid": {
+    "name": "The Next Karate Kid",
+    "format": "Live-Action",
+    "release_year": 1994,
+    "genre": ["Action", "Family", "Romance", "Sport", "Drama"],
+    "language": "English",
+    "logline": "Mr. Miyagi trains a new student in karate, teaching life lessons and helping her face bullies.",
+    "youtube": {
+      "trailer": "https://youtu.be/LztEpOxxld8",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=the+next+karate+kid+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0110657/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/The_Next_Karate_Kid",
+    "google_link": "https://www.google.com/search?q=The+Next+Karate+Kid+1994+film"
+  }
+}

@@ -1,0 +1,415 @@
+{
+  "Hapkido": {
+    "name": "Hapkido",
+    "image": {
+      "file_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Hapkido2.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Hapkido2.jpg",
+      "attribution": "Nathan Hall from USA, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "alt_text": "Two hapkido practitioners demonstrating a wrist lock and throw technique."
+    },
+    "country_of_origin": "South Korea",
+    "description": [
+      "Hapkido is a hybrid martial art focused on self-defense using joint locks, throws, and strikes.",
+      "It developed in Korea and was influenced by Japanese and Korean martial arts, combining circular motion with practical techniques.",
+      "Students learn joint locks, kicks, strikes, throws, and self-defense scenarios, while training balance, coordination, and awareness.",
+      "People practice Hapkido to build confidence, flexibility, and practical self-defense skills."
+    ],
+    "primary_techniques": [
+      "Joint locks",
+      "Throws",
+      "Kicks",
+      "Strikes",
+      "Self-defense"
+    ],
+    "common_uses": [
+      "Self-defense",
+      "Fitness",
+      "Discipline",
+      "Competition"
+    ],
+    "competition_format": "Point-based or demonstration competitions",
+    "benefits": [
+      "Develops versatile striking and grappling skills.",
+      "Improves flexibility, coordination, and balance.",
+      "Teaches practical self-defense and situational awareness.",
+      "Builds confidence and adaptability in combat."
+    ],
+    "famous_practitioners": [
+      "Ji Han-jae",
+      "Grandmaster Bong Soo Han",
+      "Myung Kwang-sik",
+      "Kyu-Ho Lee"
+    ],
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Hapkido",
+    "google_search_link": "https://www.google.com/search?q=what+is+hapkido%3F",
+    "youtube_search_link": "https://www.youtube.com/results?search_query=what+is+hapkido%3F"
+  },
+
+  "JeetKuneDo": {
+    "name": "Jeet Kune Do",
+    "image": {
+      "file_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/JeetKuneDo.svg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:JeetKuneDo.svg",
+      "attribution": "RisingSunWiki, Public domain, via Wikimedia Commons",
+      "alt_text": "Logo symbol representing Jeet Kune Do martial art."
+    },
+    "country_of_origin": "United States",
+    "description": [
+      "Jeet Kune Do is a martial art philosophy that focuses on efficiency, simplicity, and adaptability, emphasizing what works in real combat.",
+      "It was developed by Bruce Lee, drawing from multiple martial arts to create a practical self-defense system.",
+      "Training includes striking, footwork, timing, trapping, and adaptability to different situations.",
+      "People practice Jeet Kune Do to develop freedom of movement, speed, and personal expression in combat."
+    ],
+    "primary_techniques": [
+      "Striking",
+      "Footwork",
+      "Trapping",
+      "Grappling",
+      "Adaptability"
+    ],
+    "common_uses": [
+      "Self-defense",
+      "Fitness",
+      "Personal development",
+      "Practical combat"
+    ],
+    "competition_format": "Non-traditional, often practice-focused",
+    "benefits": [
+      "Encourages fluidity and adaptability in fighting.",
+      "Improves speed, timing, and reflexes.",
+      "Combines striking and grappling knowledge for versatility.",
+      "Promotes personal expression and creativity in combat."
+    ],
+    "famous_practitioners": [
+      "Bruce Lee",
+      "Dan Inosanto",
+      "Taky Kimura",
+      "Larry Hartsell"
+    ],
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Jeet_Kune_Do",
+    "google_search_link": "https://www.google.com/search?q=what+is+jeet+kune+do%3F",
+    "youtube_search_link": "https://www.youtube.com/results?search_query=what+is+jeet+kune+do%3F"
+  },
+
+  "Kajukenbo": {
+    "name": "Kajukenbo",
+    "image": {
+      "file_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Kajukenbo-crest2.png",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Kajukenbo-crest2.png",
+      "attribution": "Kl8on, Public domain, via Wikimedia Commons",
+      "alt_text": "Crest symbol representing the Kajukenbo martial art."
+    },
+    "country_of_origin": "United States",
+    "description": [
+      "Kajukenbo is a hybrid martial art designed for real-world self-defense, blending multiple martial arts techniques.",
+      "It was developed in Hawaii by combining Karate, Judo, Jiu-Jitsu, Kenpo, and Boxing.",
+      "Students learn strikes, takedowns, grappling, and defensive combinations in practical scenarios.",
+      "People practice Kajukenbo to gain versatile self-defense skills and overall physical conditioning."
+    ],
+    "primary_techniques": [
+      "Strikes",
+      "Takedowns",
+      "Grappling",
+      "Joint locks",
+      "Self-defense combinations"
+    ],
+    "common_uses": [
+      "Self-defense",
+      "Fitness",
+      "Competition",
+      "Discipline"
+    ],
+    "competition_format": "Demonstrations and point-based sparring",
+    "benefits": [
+      "Builds a broad skill set covering striking and grappling.",
+      "Improves speed, coordination, and reaction time.",
+      "Teaches practical self-defense for real situations.",
+      "Encourages mental focus and adaptability."
+    ],
+    "famous_practitioners": [
+      "Adriano Emperado",
+      "Peter Young Yil Choo",
+      "Joseph Holck",
+      "Frank Ordonez"
+    ],
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Kajukenbo",
+    "google_search_link": "https://www.google.com/search?q=what+is+kajukenbo%3F",
+    "youtube_search_link": "https://www.youtube.com/results?search_query=what+is+kajukenbo%3F"
+  },
+
+  "Kalaripayattu": {
+  "name": "Kalaripayattu",
+  "image": {
+  "file_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Kalaripayattu_mock_combat_in_rural_Kerala.jpg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Kalaripayattu_mock_combat_in_rural_Kerala.jpg",
+    "attribution": "Ginu Plathottam, CC0, via Wikimedia Commons",
+    "alt_text": "Kalaripayattu, martial art"
+  },
+  "country_of_origin": "India (primarily Kerala)",
+  "description": [
+    "Kalaripayattu is one of the oldest martial arts in the world, originating in southern India, combining strikes, grappling, and weapons training.",
+    "It emphasizes fluid movements, agility, flexibility, and precise strikes, along with throws, joint locks, and ground techniques.",
+    "Students also train with traditional weapons such as sticks, swords, daggers, and the flexible urumi.",
+    "People practice Kalaripayattu for self-defense, physical fitness, discipline, and preservation of cultural heritage."
+  ],
+  "primary_techniques": [
+    "Strikes (punches, kicks, elbows, knees)",
+    "Grappling (throws, sweeps, joint locks)",
+    "Weapons (sticks, swords, daggers, flexible weapons)",
+    "Footwork and evasive movement",
+    "Flexibility and agility drills"
+  ],
+  "common_uses": [
+    "Self-defense",
+    "Fitness and flexibility",
+    "Cultural practice and demonstrations",
+    "Performance and stage choreography"
+  ],
+  "competition_format": "Mostly demonstrations and performance-based events; some sparring in traditional schools",
+  "benefits": [
+    "Develops versatility in strikes, grappling, and weapons techniques.",
+    "Improves balance, agility, flexibility, and coordination.",
+    "Teaches practical self-defense and situational awareness.",
+    "Preserves cultural martial arts heritage and promotes discipline."
+  ],
+  "famous_practitioners": [
+    "Meenakshi Amma",
+    "Gurukkal P. S. Sreekumar",
+    "Guru Govindan Nair",
+    "Akkara Gurukkal"
+  ],
+  "wikipedia_link": "https://en.wikipedia.org/wiki/Kalaripayattu",
+  "google_search_link": "https://www.google.com/search?q=what+is+kalaripayattu%3F",
+  "youtube_search_link": "https://www.youtube.com/results?search_query=what+is+kalaripayattu%3F"
+  },
+
+  "Kenpo": {
+    "name": "Kenpo",
+    "image": {
+      "file_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/American_Kenpo_Double_Punch.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:American_Kenpo_Double_Punch.jpg",
+      "attribution": "Rodomontade at English Wikipedia, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
+      "alt_text": "A Kenpo martial artist demonstrating a double punch technique."
+    },
+    "country_of_origin": "United States",
+    "description": [
+      "Kenpo is a fast-paced hybrid martial art focusing on rapid strikes, self-defense, and flow between techniques.",
+      "It evolved from traditional Asian martial arts and was adapted in the United States for practical self-defense.",
+      "Training includes punches, kicks, blocks, and combinations integrating both striking and grappling principles.",
+      "People practice Kenpo to improve speed, coordination, and confidence."
+    ],
+    "primary_techniques": [
+      "Strikes",
+      "Kicks",
+      "Blocks",
+      "Joint locks",
+      "Combinations"
+    ],
+    "common_uses": [
+      "Self-defense",
+      "Fitness",
+      "Discipline",
+      "Competition"
+    ],
+    "competition_format": "Point-based sparring and demonstrations",
+    "benefits": [
+      "Develops rapid, coordinated striking skills.",
+      "Enhances reflexes and reaction time.",
+      "Teaches transitions between striking and grappling.",
+      "Builds confidence and mental focus."
+    ],
+    "famous_practitioners": [
+      "Ed Parker",
+      "Chuck Norris",
+      "Steven Seagal",
+      "Frank Trejo"
+    ],
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Kenpo",
+    "google_search_link": "https://www.google.com/search?q=what+is+kenpo%3F",
+    "youtube_search_link": "https://www.youtube.com/results?search_query=what+is+kenpo%3F"
+  },
+
+  "KravMaga": {
+    "name": "Krav Maga",
+    "image": {
+      "file_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Kravmaga.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Kravmaga.jpg",
+      "attribution": "TZAHAL, Public domain, via Wikimedia Commons",
+      "alt_text": "Two Krav Maga practitioners demonstrating a self-defense technique."
+    },
+    "country_of_origin": "Israel",
+    "description": [
+      "Krav Maga is a practical hybrid self-defense system designed for real-life combat situations.",
+      "It was developed for Israeli military and law enforcement, focusing on simplicity and effectiveness.",
+      "Students learn strikes, defenses, disarms, and situational awareness to neutralize threats quickly.",
+      "People practice Krav Maga to build confidence, personal safety, and practical combat skills."
+    ],
+    "primary_techniques": [
+      "Strikes",
+      "Defenses",
+      "Disarms",
+      "Grappling",
+      "Situational awareness"
+    ],
+    "common_uses": [
+      "Self-defense",
+      "Fitness",
+      "Personal safety",
+      "Military/law enforcement"
+    ],
+    "competition_format": "Non-traditional; scenario-based training",
+    "benefits": [
+      "Develops practical and effective self-defense skills.",
+      "Improves reaction time and awareness.",
+      "Builds confidence and resilience.",
+      "Enhances full-body fitness and conditioning."
+    ],
+    "famous_practitioners": [
+      "Imi Lichtenfeld",
+      "Eyal Yanilov",
+      "Kfir Ziv",
+      "John Whitman"
+    ],
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Krav_Maga",
+    "google_search_link": "https://www.google.com/search?q=what+is+krav+maga%3F",
+    "youtube_search_link": "https://www.youtube.com/results?search_query=what+is+krav+maga%3F"
+  },
+
+  "MixedMartialArts": {
+    "name": "Mixed Martial Arts",
+    "image": {
+      "file_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/EU_MMA_Championship_2021%2C_Kazan%2C_Russia_6.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:EU_MMA_Championship_2021,_Kazan,_Russia_6.jpg",
+      "attribution": "Aleks Fight, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+      "alt_text": "Two mixed martial arts fighters competing in the EU MMA Championship 2021 in Kazan, Russia."
+    },
+    "country_of_origin": "Global",
+    "description": [
+      "Mixed Martial Arts (MMA) is a hybrid sport combining striking, grappling, and submission techniques from multiple martial arts.",
+      "It developed as a competitive system allowing striking and grappling to coexist in one sport.",
+      "Training includes boxing, Muay Thai, wrestling, Brazilian Jiu-Jitsu, and other martial arts.",
+      "People practice MMA for competition, fitness, and comprehensive combat skills."
+    ],
+    "primary_techniques": [
+      "Striking",
+      "Grappling",
+      "Takedowns",
+      "Submissions",
+      "Clinch work"
+    ],
+    "common_uses": [
+      "Competition",
+      "Fitness",
+      "Self-defense",
+      "Combat sport"
+    ],
+    "competition_format": "Full-contact MMA matches",
+    "benefits": [
+      "Develops well-rounded striking and grappling skills.",
+      "Improves endurance, strength, and conditioning.",
+      "Teaches adaptability and problem-solving under pressure.",
+      "Encourages mental toughness and resilience."
+    ],
+    "famous_practitioners": [
+      "Conor McGregor",
+      "Ronda Rousey",
+      "Jon Jones",
+      "Anderson Silva"
+    ],
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Mixed_martial_arts",
+    "google_search_link": "https://www.google.com/search?q=what+is+mma%3F",
+    "youtube_search_link": "https://www.youtube.com/results?search_query=what+is+mma%3F"
+  },
+
+  "Ninjutsu": {
+    "name": "Ninjutsu",
+    "image": {
+      "file_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Moden_depiction_of_ninja_with_ninjato_%28ninja_sword%29.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Moden_depiction_of_ninja_with_ninjato_(ninja_sword).jpg",
+      "attribution": "https://www.flickr.com/photos/dannychoo/ Danny Choo, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "alt_text": "Modern depiction of a ninja holding a ninjato (ninja sword)."
+    },
+    "country_of_origin": "Japan",
+    "description": [
+      "Ninjutsu is a traditional hybrid martial art focusing on stealth, strategy, and self-defense.",
+      "It was developed in Japan and includes techniques for evasion, grappling, striking, and survival skills.",
+      "Students learn movement, stealth, grappling, weapon skills, and situational awareness.",
+      "People practice Ninjutsu to improve coordination, focus, adaptability, and historical martial knowledge."
+    ],
+    "primary_techniques": [
+      "Striking",
+      "Grappling",
+      "Evasion",
+      "Weapons",
+      "Stealth techniques"
+    ],
+    "common_uses": [
+      "Self-defense",
+      "Fitness",
+      "Discipline",
+      "Historical study"
+    ],
+    "competition_format": "Demonstration and kata-based events",
+    "benefits": [
+      "Develops diverse combat and survival skills.",
+      "Improves balance, coordination, and reflexes.",
+      "Enhances adaptability and awareness.",
+      "Preserves historical martial arts knowledge."
+    ],
+    "famous_practitioners": [
+      "Masaaki Hatsumi",
+      "Stephen K. Hayes",
+      "Takamatsu Toshitsugu",
+      "Fumio Demura"
+    ],
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Ninjutsu",
+    "google_search_link": "https://www.google.com/search?q=what+is+ninjutsu%3F",
+    "youtube_search_link": "https://www.youtube.com/results?search_query=what+is+ninjutsu%3F"
+  },
+
+  "Silat": {
+  "name": "Silat",
+    "image": {
+      "file_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Silek_Jarami.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Silek_Jarami.jpg",
+      "attribution": "Maizal Chaniago, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+      "alt_text": "Silek Jarami is a contemporary martial art typical of Minangkabau, West Sumatra. Named after the arena where the show is performed, which is in the form of rice straw that is collected after harvest."
+    },
+  "country_of_origin": "Southeast Asia (primarily Indonesia and Malaysia)",
+  "description": [
+    "Silat is a hybrid martial art originating from Southeast Asia, combining strikes, joint locks, throws, and weapon techniques.",
+    "It developed across Indonesia, Malaysia, and neighboring regions, with each style emphasizing fluid movements, strategy, and adaptability.",
+    "Students train in striking, grappling, sweeps, takedowns, and often weapons such as knives, sticks, or machetes.",
+    "People practice Silat to improve self-defense skills, coordination, agility, and cultural appreciation of traditional Southeast Asian martial arts."
+  ],
+  "primary_techniques": [
+    "Strikes (punches, kicks, elbows, knees)",
+    "Grappling",
+    "Throws and sweeps",
+    "Joint locks",
+    "Weapons (sticks, knives, machetes)"
+  ],
+  "common_uses": [
+    "Self-defense",
+    "Fitness",
+    "Cultural practice",
+    "Demonstrations and performance"
+  ],
+  "competition_format": "Point-based sparring or demonstration competitions, depending on style",
+  "benefits": [
+    "Develops versatility in striking and grappling techniques.",
+    "Improves balance, agility, coordination, and reflexes.",
+    "Teaches practical self-defense and situational awareness.",
+    "Preserves cultural martial arts heritage and promotes discipline."
+  ],
+  "famous_practitioners": [
+    "Pendekar Edy",
+    "Master Dali",
+    "H. Abdul Rauf",
+    "Pak Darto"
+  ],
+  "wikipedia_link": "https://en.wikipedia.org/wiki/Pencak_silat",
+  "google_search_link": "https://www.google.com/search?q=what+is+silat%3F",
+  "youtube_search_link": "https://www.youtube.com/results?search_query=what+is+silat%3F"
+  }
+}

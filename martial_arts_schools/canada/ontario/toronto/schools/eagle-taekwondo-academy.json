@@ -1,0 +1,10 @@
+{
+  "id": "eagle-taekwondo-academy",
+  "name": "Eagle TaeKwonDo Academy",
+  "styles_taught": ["Taekwondo"],
+  "address": "493 Parliament St, Toronto, ON M4X 1P3",
+  "phone": "+14168839563",
+  "links": {
+    "website": "http://eagletkd.ca/"
+  }
+}

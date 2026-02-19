@@ -1,0 +1,52 @@
+{
+  "virtua_fighter": {
+    "name": "Virtua Figther",
+    "image": {
+      "file_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Virtua_Figther_2024_Logo.png",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Virtua_Figther_2024_Logo.png",
+      "attribution": "J2RoL, Public domain, via Wikimedia Commons",
+      "alt_text": "Virtua Figther 2024 Logo"
+    },
+    "link": "virtua_fighter"
+  },
+  "batman_arkham": {
+    "name": "Batman Arkham",
+    "image": {
+      "file_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Batman-Arkham-logo.svg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Batman-Arkham-logo.svg",
+      "attribution": "Warner Bros. and Rocksteady Studios, Public domain, via Wikimedia Commons",
+      "alt_text": "Batman-Arkham-logo"
+    },
+    "link": "batman_arkham"
+  },
+  "yakuza": {
+    "name": "Yakuza",
+    "image": {
+      "file_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Yakuza_logo.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Yakuza_logo.jpg",
+      "attribution": "Asdasd123asdasd123, Public domain, via Wikimedia Commons",
+      "alt_text": "Yakuza logo"
+    },
+    "link": "yakuza"
+  },
+  "soulcalibur": {
+    "name": "Soulcalibur",
+    "image": {
+      "file_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Soulcalibur_Logo.png",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Soulcalibur_Logo.png",
+      "attribution": "Bandai Namco Entertainment, Public domain, via Wikimedia Commons",
+      "alt_text": "Soulcalibur Logo"
+    },
+    "link": "soulcalibur"
+  },
+  "ninja_gaiden": {
+    "name": "Ninja Gaiden",
+    "image": {
+      "file_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Ninja_Gaiden_Logo.svg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Ninja_Gaiden_Logo.svg",
+      "attribution": "Tecmo, Public domain, via Wikimedia Commons",
+      "alt_text": "Ninja Gaiden Logo"
+    },
+    "link": "ninja_gaiden"
+  }
+}

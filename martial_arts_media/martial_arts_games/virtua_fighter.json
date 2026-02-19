@@ -1,0 +1,224 @@
+{
+  "VirtuaFighter": {
+    "name": "Virtua Fighter",
+    "platforms": ["Sega Saturn", "PlayStation"],
+    "release_year": 1993,
+    "playable_characters": [
+      {
+        "name": "Akira Yuki",
+        "combat_style": "Chinese Kenpo with counters, throws, and precise strikes"
+      },
+      {
+        "name": "Sarah Bryant",
+        "combat_style": "Mixed martial arts with fast strikes and acrobatic kicks"
+      },
+      {
+        "name": "Jacky Bryant",
+        "combat_style": "Jeet Kune Do-inspired striking with kicks and punches"
+      },
+      {
+        "name": "Pai Chan",
+        "combat_style": "Chinese martial arts with acrobatics and agile attacks"
+      }
+    ],
+    "martial_arts_used": [
+      "Chinese Kenpo",
+      "Jeet Kune Do",
+      "Karate",
+      "Kickboxing"
+    ],
+    "youtube_trailer": "https://www.youtube.com/watch?v=Ox5S98ajWLI",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Virtua+Fighter+1993+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Virtua_Fighter_(video_game)",
+      "igdb": "https://www.igdb.com/games/virtua-fighter",
+      "gamespot": "https://www.gamespot.com/games/virtua-fighter/",
+      "google": "https://www.google.com/search?q=Virtua+Fighter+1993"
+    }
+  },
+  "VirtuaFighter2": {
+    "name": "Virtua Fighter 2",
+    "platforms": ["Sega Saturn", "PlayStation"],
+    "release_year": 1996,
+    "playable_characters": [
+      {
+        "name": "Akira Yuki",
+        "combat_style": "Chinese Kenpo with enhanced counters, throws, and acrobatics"
+      },
+      {
+        "name": "Sarah Bryant",
+        "combat_style": "Fast striking martial arts with aerial kicks and combos"
+      },
+      {
+        "name": "Lion Rafale",
+        "combat_style": "Savate-style kicking with agile movement and rapid attacks"
+      },
+      {
+        "name": "Jacky Bryant",
+        "combat_style": "Jeet Kune Do-inspired martial arts with strikes and counters"
+      }
+    ],
+    "martial_arts_used": [
+      "Chinese Kenpo",
+      "Savate",
+      "Jeet Kune Do",
+      "Karate"
+    ],
+    "youtube_trailer": "https://www.youtube.com/watch?v=ttd5iY-Rwzo",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Virtua+Fighter+2+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Virtua_Fighter_2",
+      "igdb": "https://www.igdb.com/games/virtua-fighter-2",
+      "gamespot": "https://www.gamespot.com/games/virtua-fighter-2/",
+      "google": "https://www.google.com/search?q=Virtua+Fighter+2"
+    }
+  },
+  "VirtuaFighter3": {
+    "name": "Virtua Fighter 3",
+    "platforms": ["Sega Dreamcast", "PlayStation 2"],
+    "release_year": 1996,
+    "playable_characters": [
+      {
+        "name": "Akira Yuki",
+        "combat_style": "Chinese Kenpo with advanced counters, throws, and agility"
+      },
+      {
+        "name": "Pai Chan",
+        "combat_style": "Chinese martial arts with acrobatics, precision strikes, and fast kicks"
+      },
+      {
+        "name": "Wolf Hawkfield",
+        "combat_style": "Professional wrestling with throws, grapples, and power attacks"
+      },
+      {
+        "name": "Lion Rafale",
+        "combat_style": "Savate-style kicks with speed and ranged striking"
+      }
+    ],
+    "martial_arts_used": [
+      "Chinese Kenpo",
+      "Wushu",
+      "Savate",
+      "Professional wrestling"
+    ],
+    "youtube_trailer": "https://www.youtube.com/watch?v=XMhjiVbKSG0",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Virtua+Fighter+3+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Virtua_Fighter_3",
+      "igdb": "https://www.igdb.com/games/virtua-fighter-3",
+      "gamespot": "https://www.gamespot.com/games/virtua-fighter-3/",
+      "google": "https://www.google.com/search?q=Virtua+Fighter+3"
+    }
+  },
+  "VirtuaFighter4": {
+    "name": "Virtua Fighter 4",
+    "platforms": ["PlayStation 2"],
+    "release_year": 2001,
+    "playable_characters": [
+      {
+        "name": "Akira Yuki",
+        "combat_style": "Chinese Kenpo with counters, throws, and improved 3D movement"
+      },
+      {
+        "name": "Vanessa Lewis",
+        "combat_style": "Kickboxing with strikes, counters, and evasive maneuvers"
+      },
+      {
+        "name": "Jeffry McWild",
+        "combat_style": "Boxing-based striking with punches, jabs, and hooks"
+      },
+      {
+        "name": "Lion Rafale",
+        "combat_style": "Savate-style kicks and fast evasive techniques"
+      }
+    ],
+    "martial_arts_used": [
+      "Chinese Kenpo",
+      "Kickboxing",
+      "Savate",
+      "Boxing"
+    ],
+    "youtube_trailer": "https://www.youtube.com/watch?v=J9ORCsWMbVw",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Virtua+Fighter+4+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Virtua_Fighter_4",
+      "igdb": "https://www.igdb.com/games/virtua-fighter-4",
+      "gamespot": "https://www.gamespot.com/games/virtua-fighter-4/",
+      "google": "https://www.google.com/search?q=Virtua+Fighter+4"
+    }
+  },
+  "VirtuaFighter5": {
+    "name": "Virtua Fighter 5",
+    "platforms": ["PlayStation 3", "Xbox 360"],
+    "release_year": 2006,
+    "playable_characters": [
+      {
+        "name": "Akira Yuki",
+        "combat_style": "Chinese Kenpo with advanced combos, counters, and throws"
+      },
+      {
+        "name": "Kage-Maru",
+        "combat_style": "Ninjutsu with stealth attacks, throws, and agile movement"
+      },
+      {
+        "name": "Pai Chan",
+        "combat_style": "Wushu with high-speed strikes and acrobatic combos"
+      },
+      {
+        "name": "Wolf Hawkfield",
+        "combat_style": "Professional wrestling with grapples and power moves"
+      }
+    ],
+    "martial_arts_used": [
+      "Chinese Kenpo",
+      "Ninjutsu",
+      "Wushu",
+      "Professional wrestling"
+    ],
+    "youtube_trailer": "https://www.youtube.com/watch?v=SwvLM2Hyin4",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Virtua+Fighter+5+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Virtua_Fighter_5",
+      "igdb": "https://www.igdb.com/games/virtua-fighter-5",
+      "gamespot": "https://www.gamespot.com/games/virtua-fighter-5/",
+      "google": "https://www.google.com/search?q=Virtua+Fighter+5"
+    }
+  },
+  "VirtuaFighter5UltimateShowdown": {
+    "name": "Virtua Fighter 5: Ultimate Showdown",
+    "platforms": ["PlayStation 4"],
+    "release_year": 2021,
+    "playable_characters": [
+      {
+        "name": "Akira Yuki",
+        "combat_style": "Chinese Kenpo with precision strikes, counters, and throws"
+      },
+      {
+        "name": "Kage-Maru",
+        "combat_style": "Ninjutsu with agile movement, stealth attacks, and combos"
+      },
+      {
+        "name": "Pai Chan",
+        "combat_style": "Wushu with acrobatic strikes and fast kick combinations"
+      },
+      {
+        "name": "Vanessa Lewis",
+        "combat_style": "Kickboxing with counters, jabs, and evasive techniques"
+      }
+    ],
+    "martial_arts_used": [
+      "Chinese Kenpo",
+      "Ninjutsu",
+      "Wushu",
+      "Kickboxing"
+    ],
+    "youtube_trailer": "https://www.youtube.com/watch?v=eDSXtYewvLg",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Virtua+Fighter+5+Ultimate+Showdown+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Virtua_Fighter_5:_Ultimate_Showdown",
+      "igdb": "https://www.igdb.com/games/virtua-fighter-5-ultimate-showdown",
+      "gamespot": "https://www.gamespot.com/games/virtua-fighter-5-ultimate-showdown/",
+      "google": "https://www.google.com/search?q=Virtua+Fighter+5+Ultimate+Showdown"
+    }
+  }
+}

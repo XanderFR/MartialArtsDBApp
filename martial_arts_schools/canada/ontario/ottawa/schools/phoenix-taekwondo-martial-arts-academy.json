@@ -1,0 +1,10 @@
+{
+  "id": "phoenix-taekwondo-martial-arts-academy",
+  "name": "Phoenix Taekwondo Martial Arts Academy",
+  "styles_taught": ["Taekwondo"],
+  "address": "800 Industrial Ave, Ottawa, ON K1G 4B8",
+  "phone": "+16137495425",
+  "links": {
+    "website": "https://ottawamartialarts.ca/"
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "BloodAndBone": {
+    "name": "Blood and Bone",
+    "format": "Live-Action",
+    "release_year": 2009,
+    "genre": ["Action", "Drama", "Sport"],
+    "language": "English",
+    "logline": "A mysterious drifter enters the underground fight circuit using a brutal MMA-based style.",
+    "youtube": {
+      "trailer": "https://youtu.be/KyOtQr5u-uY",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=Blood+and+Bone+2009+MMA+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt1068678/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Blood_and_Bone",
+    "google_link": "https://www.google.com/search?q=Blood+and+Bone+2009+film+MMA"
+  },
+
+  "BoykaUndisputed": {
+    "name": "Boyka: Undisputed",
+    "format": "Live-Action",
+    "release_year": 2016,
+    "genre": ["Action", "Sport"],
+    "language": "English",
+    "logline": "An elite fighter seeks redemption through international MMA-style competition.",
+    "youtube": {
+      "trailer": "https://youtu.be/mTCo06TJe20",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=Boyka+Undisputed+2016+MMA+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt3344680/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Boyka:_Undisputed",
+    "google_link": "https://www.google.com/search?q=Boyka+Undisputed+2016+film+MMA"
+  },
+
+  "CagefighterWorldsCollide": {
+    "name": "Cagefighter: Worlds Collide",
+    "format": "Live-Action",
+    "release_year": 2020,
+    "genre": ["Action", "Sport"],
+    "language": "English",
+    "logline": "A modern MMA champion faces a legendary rival in a cross-promotional super fight.",
+    "youtube": {
+      "trailer": "https://youtu.be/o5m9WhdWOQU",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=Cagefighter+Worlds+Collide+2020+MMA+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt11197384/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Cagefighter:_Worlds_Collide",
+    "google_link": "https://www.google.com/search?q=Cagefighter+Worlds+Collide+2020+film+MMA"
+  },
+
+  "ConfessionsOfAPitFighter": {
+    "name": "Confessions of a Pit Fighter",
+    "format": "Live-Action",
+    "release_year": 2005,
+    "genre": ["Drama", "Sport"],
+    "language": "English",
+    "logline": "A struggling fighter navigates the harsh realities of underground and professional MMA.",
+    "youtube": {
+      "trailer": "https://youtu.be/SL46k7bAtiA",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=Confessions+of+a+Pit+Fighter+2005+MMA+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0439978/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Confessions_of_a_Pit_Fighter",
+    "google_link": "https://www.google.com/search?q=Confessions+of+a+Pit+Fighter+2005+film+MMA"
+  },
+
+  "Embattled": {
+    "name": "Embattled",
+    "format": "Live-Action",
+    "release_year": 2020,
+    "genre": ["Drama", "Sport"],
+    "language": "English",
+    "logline": "The son of a legendary MMA champion trains to confront his father inside the cage.",
+    "youtube": {
+      "trailer": "https://youtu.be/zkHP4RXHzBg",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=Embattled+2020+MMA+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt8338284/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Embattled_(film)",
+    "google_link": "https://www.google.com/search?q=Embattled+2020+film+MMA"
+  },
+
+  "Fighting": {
+    "name": "Fighting",
+    "format": "Live-Action",
+    "release_year": 2009,
+    "genre": ["Drama", "Sport"],
+    "language": "English",
+    "logline": "A street fighter is recruited into New York’s underground MMA scene.",
+    "youtube": {
+      "trailer": "https://youtu.be/uZAVd_KjNOw",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=Fighting+2009+MMA+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt1082601/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Fighting_(2009_film)",
+    "google_link": "https://www.google.com/search?q=Fighting+2009+film+MMA"
+  },
+
+  "HereComesTheBoom": {
+    "name": "Here Comes the Boom",
+    "format": "Live-Action",
+    "release_year": 2012,
+    "genre": ["Comedy", "Sport"],
+    "language": "English",
+    "logline": "A teacher becomes an amateur MMA fighter to save his school’s programs.",
+    "youtube": {
+      "trailer": "https://youtu.be/M4L6ruTF5qE",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=Here+Comes+the+Boom+2012+MMA+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt1648179/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Here_Comes_the_Boom",
+    "google_link": "https://www.google.com/search?q=Here+Comes+the+Boom+2012+film+MMA"
+  },
+
+  "NeverBackDown": {
+    "name": "Never Back Down",
+    "format": "Live-Action",
+    "release_year": 2008,
+    "genre": ["Drama", "Sport"],
+    "language": "English",
+    "logline": "A troubled teenager finds discipline and purpose through MMA training.",
+    "youtube": {
+      "trailer": "https://youtu.be/2tc-RPjZRm8",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=Never+Back+Down+2008+MMA+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt1023111/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Never_Back_Down",
+    "google_link": "https://www.google.com/search?q=Never+Back+Down+2008+film+MMA"
+  },
+
+  "Warrior": {
+    "name": "Warrior",
+    "format": "Live-Action",
+    "release_year": 2011,
+    "genre": ["Drama", "Sport", "Mixed Martial Arts"],
+    "language": "English",
+    "logline": "Two estranged brothers enter a high-stakes MMA tournament while facing personal and family struggles.",
+    "youtube": {
+      "trailer": "https://youtu.be/I5kzcwcQA1Q",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=Warrior+2011+MMA+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt1291584/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Warrior_(2011_film)",
+    "google_link": "https://www.google.com/search?q=Warrior+2011+film+MMA"
+  }
+}

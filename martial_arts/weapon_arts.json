@@ -1,0 +1,304 @@
+{
+  "FilipinoMartialArts": {
+    "name": "Filipino Martial Arts",
+    "image": {
+      "file_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Republic_of_the_Philippines_Marine_Corps_Martial_Arts_Program_%284435472588%29.jpg/512px-Republic_of_the_Philippines_Marine_Corps_Martial_Arts_Program_%284435472588%29.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Republic_of_the_Philippines_Marine_Corps_Martial_Arts_Program_(4435472588).jpg",
+      "attribution": "Marines from Arlington, VA, United States, Public domain, via Wikimedia Commons",
+      "alt_text": "Members of the Philippine Marine Corps demonstrate martial arts training techniques."
+    },
+    "country_of_origin": "Philippines",
+    "description": [
+      "Filipino Martial Arts focus on weapon-based combat using sticks, blades, and improvised weapons. Training often starts with weapons before moving to empty-hand techniques.",
+      "These systems developed in the Philippines through centuries of warfare and cultural exchange, emphasizing adaptability and real-world application.",
+      "Students learn stick fighting, knife defense, footwork, and coordination, while training timing, distance control, and reflexes.",
+      "People practice Filipino Martial Arts for self-defense, coordination, and practical weapon awareness."
+    ],
+    "primary_weapons": [
+      "Sticks",
+      "Knives",
+      "Bladed weapons"
+    ],
+    "primary_techniques": [
+      "Striking with weapons",
+      "Disarming",
+      "Defensive blocks",
+      "Footwork",
+      "Empty-hand techniques"
+    ],
+    "common_uses": [
+      "Self-defense",
+      "Fitness",
+      "Coordination",
+      "Cultural preservation"
+    ],
+    "competition_format": "Sparring and point-based drills with weapons",
+    "benefits": [
+      "Improves reflexes, timing, and coordination.",
+      "Develops proficiency with multiple weapons.",
+      "Teaches practical self-defense against armed opponents.",
+      "Builds mental focus and adaptability."
+    ],
+    "famous_practitioners": [
+      "Dan Inosanto",
+      "Remy Presas",
+      "Cacoy Canete",
+      "Leo Gaje"
+    ],
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Filipino_martial_arts",
+    "google_search_link": "https://www.google.com/search?q=what+is+filipino+martial+arts%3F",
+    "youtube_search_link": "https://www.youtube.com/results?search_query=what+is+filipino+martial+arts%3F"
+  },
+
+  "HistoricalEuropeanMartialArts": {
+    "name": "Historical European Martial Arts",
+    "image": {
+      "file_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Tarr_Bence_L%C3%A1szl%C3%B3%2C_HEMA_-_Historical_European_Martial_Arts.jpg/512px-Tarr_Bence_L%C3%A1szl%C3%B3%2C_HEMA_-_Historical_European_Martial_Arts.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Tarr_Bence_L%C3%A1szl%C3%B3,_HEMA_-_Historical_European_Martial_Arts.jpg",
+      "attribution": "Cyberguru, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+      "alt_text": "Historical European Martial Arts competitors fencing with longswords."
+    },
+    "country_of_origin": "Europe",
+    "description": [
+      "Historical European Martial Arts, often called HEMA, study traditional European combat systems based on historical manuals and texts.",
+      "HEMA includes sword fighting, wrestling, and armored combat from medieval and renaissance Europe.",
+      "Students train with weapons like longswords, rapiers, and polearms, along with footwork, grappling, and tactical awareness.",
+      "People practice HEMA to learn historical combat, improve coordination, and engage in competitive sparring."
+    ],
+    "primary_weapons": [
+      "Longsword",
+      "Rapier",
+      "Polearms"
+    ],
+    "primary_techniques": [
+      "Sword strikes",
+      "Thrusts and cuts",
+      "Grappling",
+      "Footwork",
+      "Defensive maneuvers"
+    ],
+    "common_uses": [
+      "Historical study",
+      "Self-defense",
+      "Fitness",
+      "Sparring competitions"
+    ],
+    "competition_format": "Point-based dueling and sparring with protective gear",
+    "benefits": [
+      "Teaches historical European combat skills.",
+      "Improves timing, precision, and coordination.",
+      "Develops strategic thinking and situational awareness.",
+      "Provides a physically challenging and engaging practice."
+    ],
+    "famous_practitioners": [
+      "Guy Windsor",
+      "Matt Easton",
+      "Joachim Meyer",
+      "Fiore dei Liberi"
+    ],
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Historical_European_martial_arts",
+    "google_search_link": "https://www.google.com/search?q=what+is+hema%3F",
+    "youtube_search_link": "https://www.youtube.com/results?search_query=what+is+hema%3F"
+  },
+
+  "Iaido": {
+  "name": "Iaido",
+  "image": {
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Sayuri_Iaido.JPG/512px-Sayuri_Iaido.JPG?20150411190917",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Sayuri_Iaido.JPG",
+    "attribution": "Rodrigja, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+    "alt_text": "Sayuri Iaido"
+  },
+  "country_of_origin": "Japan",
+  "description": [
+    "Iaido is a Japanese martial art focused on the smooth, controlled drawing and cutting with a sword, typically a katana.",
+    "It emphasizes precise movements, timing, posture, and awareness, with the goal of reacting instantly and efficiently to a sudden threat.",
+    "Training is mostly solo through kata, which simulate drawing the sword, striking, and resheathing. Some schools include paired practice and kata with a wooden sword.",
+    "People practice Iaido to develop discipline, focus, precision, and mental clarity. It is less about combat sport and more about self-mastery and tradition."
+  ],
+  "primary_weapons": [
+    "Katana",
+    "Bokken (wooden sword)"
+  ],
+  "primary_techniques": [
+    "Smooth sword drawing",
+    "Cutting strikes",
+    "Resheathing",
+    "Posture and movement",
+    "Kata practice"
+  ],
+  "common_uses": [
+    "Self-discipline",
+    "Cultural preservation",
+    "Meditative practice",
+    "Precision training"
+  ],
+  "competition_format": "Demonstration of kata, evaluated for precision, posture, and technique",
+  "benefits": [
+    "Improves focus, mental discipline, and situational awareness.",
+    "Develops precise sword-handling and body mechanics.",
+    "Preserves traditional Japanese sword arts and etiquette.",
+    "Encourages mindfulness and controlled, deliberate movement."
+  ],
+  "famous_practitioners": [
+    "Hayashizaki Jinsuke Shigenobu (founder)",
+    "Taira Shinken",
+    "Nakayama Hakudo",
+    "Morita Shihan"
+  ],
+  "wikipedia_link": "https://en.wikipedia.org/wiki/Iaido",
+  "google_search_link": "https://www.google.com/search?q=what+is+iaido%3F",
+  "youtube_search_link": "https://www.youtube.com/results?search_query=what+is+iaido%3F"
+  },
+
+  "Kendo": {
+    "name": "Kendo",
+    "image": {
+      "file_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Kendo_EM_2005_-_taiatari_2.jpg/256px-Kendo_EM_2005_-_taiatari_2.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Kendo_EM_2005_-_taiatari_2.jpg",
+      "attribution": "Harald Hofer, CC BY-SA 2.0 AT <https://creativecommons.org/licenses/by-sa/2.0/at/deed.en>, via Wikimedia Commons",
+      "alt_text": "Two kendo practitioners performing taiatari (body clash) during a match."
+    },
+    "country_of_origin": "Japan",
+    "description": [
+      "Kendo is a Japanese martial art based on sword fighting using bamboo swords. It emphasizes discipline, respect, and strong spirit.",
+      "Kendo developed from traditional samurai sword training and was adapted for safe practice and competition.",
+      "Students learn strikes, footwork, posture, and timing while wearing protective armor.",
+      "People practice Kendo to build focus, confidence, and mental discipline through structured training."
+    ],
+    "primary_weapons": [
+      "Shinai (bamboo sword)"
+    ],
+    "primary_techniques": [
+      "Striking (men, kote, do, tsuki)",
+      "Footwork",
+      "Distance management",
+      "Timing",
+      "Spirit cultivation"
+    ],
+    "common_uses": [
+      "Sport",
+      "Self-discipline",
+      "Fitness",
+      "Competition"
+    ],
+    "competition_format": "Point-based matches using strikes to target areas",
+    "benefits": [
+      "Improves focus, discipline, and reflexes.",
+      "Develops proper posture and timing.",
+      "Enhances physical endurance and coordination.",
+      "Encourages respect and mental fortitude."
+    ],
+    "famous_practitioners": [
+      "Masahiro Miyazaki",
+      "Hideo Miyazaki",
+      "Shozo Kato",
+      "Fumio Iwai"
+    ],
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Kendo",
+    "google_search_link": "https://www.google.com/search?q=what+is+kendo%3F",
+    "youtube_search_link": "https://www.youtube.com/results?search_query=what+is+kendo%3F"
+  },
+
+  "Kenjutsu": {
+    "name": "Kenjutsu",
+    "image": {
+      "file_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Kenjutsu_001.jpg?20091230164436",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Kenjutsu_001.jpg",
+      "attribution": "Nguyen Thanh Thien, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
+      "alt_text": "Kenjutsu practitioners demonstrating traditional sword techniques."
+    },
+    "country_of_origin": "Japan",
+    "description": [
+      "Kenjutsu is a traditional Japanese martial art focused on sword combat, teaching techniques used by samurai in historical battle.",
+      "Kenjutsu predates modern arts like Kendo and is practiced through kata and controlled partner training.",
+      "Students learn cutting techniques, footwork, posture, awareness, and historical weapon handling.",
+      "People practice Kenjutsu to study traditional swordsmanship and Japanese martial culture."
+    ],
+    "primary_weapons": [
+      "Katana",
+      "Wooden sword (bokken)"
+    ],
+    "primary_techniques": [
+      "Striking and cutting",
+      "Footwork",
+      "Kata",
+      "Parrying",
+      "Tactical awareness"
+    ],
+    "common_uses": [
+      "Historical study",
+      "Self-discipline",
+      "Fitness",
+      "Cultural preservation"
+    ],
+    "competition_format": "Kata demonstrations and controlled sparring",
+    "benefits": [
+      "Develops precise swordsmanship skills.",
+      "Improves coordination, balance, and focus.",
+      "Teaches historical martial techniques.",
+      "Enhances strategic thinking and awareness."
+    ],
+    "famous_practitioners": [
+      "Miyamoto Musashi",
+      "Yagyu Munenori",
+      "Itō Ittōsai",
+      "Shinkendo instructors"
+    ],
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Kenjutsu",
+    "google_search_link": "https://www.google.com/search?q=what+is+kenjutsu%3F",
+    "youtube_search_link": "https://www.youtube.com/results?search_query=what+is+kenjutsu%3F"
+  },
+
+  "OkinawanKobudo": {
+    "name": "Okinawan Kobudo",
+    "image": {
+      "file_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Igor_Mirutenko_is_on_the_attack._Men%27s_category_Kobudo_Kumite.jpg/256px-Igor_Mirutenko_is_on_the_attack._Men%27s_category_Kobudo_Kumite.jpg?20250429191537",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Igor_Mirutenko_is_on_the_attack._Men%27s_category_Kobudo_Kumite.jpg",
+      "attribution": "Мирутенко, CC BY 4.0 <https://creativecommons.org/licenses/by/4.0>, via Wikimedia Commons",
+      "alt_text": "Igor Mirutenko attacking in the men's category kumite at the World Traditional Okinawan Kobudo Championship 2019."
+    },
+    "country_of_origin": "Japan (Okinawa)",
+    "description": [
+      "Okinawan Kobudo is a weapon-based martial art using traditional farming and household tools.",
+      "It developed in Okinawa alongside Karate and focuses on preserving traditional weapon techniques.",
+      "Students train with weapons like the bo staff, sai, nunchaku, and tonfa, developing precision and flow.",
+      "People practice Okinawan Kobudo to improve coordination, discipline, and understanding of traditional weapons."
+    ],
+    "primary_weapons": [
+      "Bo staff",
+      "Sai",
+      "Nunchaku",
+      "Tonfa"
+    ],
+    "primary_techniques": [
+      "Striking",
+      "Blocking",
+      "Spinning techniques",
+      "Kata",
+      "Weapon combinations"
+    ],
+    "common_uses": [
+      "Self-defense",
+      "Cultural preservation",
+      "Fitness",
+      "Coordination training"
+    ],
+    "competition_format": "Kata demonstrations and weapon sparring",
+    "benefits": [
+      "Enhances coordination, timing, and reflexes.",
+      "Teaches multiple traditional weapons.",
+      "Preserves Okinawan martial heritage.",
+      "Builds discipline, focus, and precision."
+    ],
+    "famous_practitioners": [
+      "Shinko Matayoshi",
+      "Seiko Higa",
+      "Kenwa Mabuni",
+      "Chogi Kishaba"
+    ],
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Okinawan_kobud%C5%8D",
+    "google_search_link": "https://www.google.com/search?q=what+is+okinawan+kobudo%3F",
+    "youtube_search_link": "https://www.youtube.com/results?search_query=what+is+okinawan+kobudo%3F"
+  }
+}

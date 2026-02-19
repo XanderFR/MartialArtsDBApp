@@ -1,0 +1,68 @@
+{
+  "GhostOfTsushima": {
+    "name": "Ghost of Tsushima",
+    "platforms": [
+      "PlayStation 4",
+      "PlayStation 5"
+    ],
+    "release_year": 2020,
+    "playable_characters": [
+      {
+        "name": "Jin Sakai",
+        "combat_style": "Samurai sword combat blending traditional kenjutsu with stealth tactics, archery, assassination techniques, and adaptive battlefield positioning"
+      }
+    ],
+    "martial_arts_used": [
+      "Kenjutsu",
+      "Iaijutsu",
+      "Kyujutsu (Archery)",
+      "Sojutsu (Spear combat)",
+      "Shurikenjutsu",
+      "Ninjutsu-inspired stealth tactics",
+      "Tanto combat",
+      "Mounted combat techniques",
+      "Unarmed grappling and strikes"
+    ],
+    "youtube_trailer": "https://www.youtube.com/watch?v=iqysmS4lxwQ",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Ghost+of+Tsushima+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Ghost_of_Tsushima",
+      "igdb": "https://www.igdb.com/games/ghost-of-tsushima",
+      "gamespot": "https://www.gamespot.com/games/ghost-of-tsushima/",
+      "google": "https://www.google.com/search?q=Ghost+of+Tsushima"
+    }
+  },
+
+  "GhostOfYotei": {
+    "name": "Ghost of Yōtei",
+    "platforms": [
+      "PlayStation 5"
+    ],
+    "release_year": 2025,
+    "playable_characters": [
+      {
+        "name": "Atsu",
+        "combat_style": "Hybrid samurai and mercenary combat emphasizing swordsmanship, polearms, stealth ambushes, adaptive weapon use, and fluid movement"
+      }
+    ],
+    "martial_arts_used": [
+      "Kenjutsu",
+      "Iaijutsu",
+      "Sojutsu (Polearm combat)",
+      "Naginatajutsu",
+      "Kyujutsu (Archery)",
+      "Ninjutsu-inspired stealth tactics",
+      "Tanto combat",
+      "Unarmed combat techniques",
+      "Battlefield movement and evasion"
+    ],
+    "youtube_trailer": "https://www.youtube.com/watch?v=7z7kqwuf0a8",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Ghost+of+Yotei+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Ghost_of_Y%C5%8Dtei",
+      "igdb": "https://www.igdb.com/games/ghost-of-yotei",
+      "gamespot": "https://www.gamespot.com/games/ghost-of-yotei/",
+      "google": "https://www.google.com/search?q=Ghost+of+Yotei"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "victory-training-center",
+  "name": "Victory Training Center",
+  "styles_taught": ["Boxing", "Brazilian Jiu-Jitsu", "Filipino Martial Arts", "Mixed Martial Arts", "Muay Thai"],
+  "address": "370 Rue Jean-Talon E suite #3, Montreal, QC H2R 1T3",
+  "phone": "+14383839898",
+  "links": {
+    "website": "http://www.victorytrainingcenter.ca/"
+  }
+}

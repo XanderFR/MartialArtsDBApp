@@ -1,0 +1,164 @@
+{
+  "EASportsUFC": {
+    "name": "EA Sports UFC",
+    "platforms": ["PlayStation 4", "Xbox One"],
+    "release_year": 2014,
+    "playable_characters": [
+      {"name": "Ronda Rousey", "combat_style": "Judo, grappling, striking"},
+      {"name": "Jon Jones", "combat_style": "Wrestling, striking, submissions"},
+      {"name": "Anderson Silva", "combat_style": "Muay Thai, BJJ, striking"},
+      {"name": "Cain Velasquez", "combat_style": "Wrestling, boxing, ground-and-pound"},
+      {"name": "Demetrious Johnson", "combat_style": "Wrestling, BJJ, striking"},
+      {"name": "Junior dos Santos", "combat_style": "Boxing, Muay Thai, clinch"},
+      {"name": "Lyoto Machida", "combat_style": "Karate, BJJ"},
+      {"name": "José Aldo", "combat_style": "Muay Thai, BJJ"},
+      {"name": "Mark Hunt", "combat_style": "Boxing, kickboxing"},
+      {"name": "Chael Sonnen", "combat_style": "Wrestling, BJJ"}
+    ],
+    "martial_arts_used": [
+      "Boxing", "Kickboxing", "Muay Thai", "Brazilian Jiu-Jitsu", "Wrestling",
+      "Judo", "Karate", "Sambo", "Catch wrestling", "Submission grappling", "Clinch fighting"
+    ],
+    "youtube_trailer": "https://www.youtube.com/watch?v=5YDOkez7x_Q",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=EA+Sports+UFC+2014+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/EA_Sports_UFC",
+      "igdb": "https://www.igdb.com/games/ea-sports-ufc",
+      "gamespot": "https://www.gamespot.com/games/ea-sports-ufc/",
+      "google": "https://www.google.com/search?q=EA+Sports+UFC+2014"
+    }
+  },
+
+  "EASportsUFC2": {
+    "name": "EA Sports UFC 2",
+    "platforms": ["PlayStation 4", "Xbox One"],
+    "release_year": 2016,
+    "playable_characters": [
+      {"name": "Conor McGregor", "combat_style": "Boxing, kickboxing, agile striking"},
+      {"name": "Amanda Nunes", "combat_style": "BJJ, striking, ground-and-pound"},
+      {"name": "Ronda Rousey", "combat_style": "Judo, grappling, striking"},
+      {"name": "Jon Jones", "combat_style": "Wrestling, striking, submissions"},
+      {"name": "Anderson Silva", "combat_style": "Muay Thai, BJJ, striking"},
+      {"name": "Fabricio Werdum", "combat_style": "BJJ, wrestling, striking"},
+      {"name": "Chris Weidman", "combat_style": "Wrestling, BJJ, striking"},
+      {"name": "Demetrious Johnson", "combat_style": "Wrestling, striking, submissions"},
+      {"name": "Daniel Cormier", "combat_style": "Wrestling, striking, BJJ"},
+      {"name": "Miesha Tate", "combat_style": "BJJ, striking"}
+    ],
+    "martial_arts_used": [
+      "Boxing", "Kickboxing", "Muay Thai", "Brazilian Jiu-Jitsu", "Wrestling",
+      "Judo", "Karate", "Sambo", "Catch wrestling", "Submission grappling", "Clinch fighting"
+    ],
+    "youtube_trailer": "https://www.youtube.com/watch?v=_0VZK-P4ofM",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=EA+Sports+UFC+2+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/EA_Sports_UFC_2",
+      "igdb": "https://www.igdb.com/games/ea-sports-ufc-2",
+      "gamespot": "https://www.gamespot.com/games/ea-sports-ufc-2/",
+      "google": "https://www.google.com/search?q=EA+Sports+UFC+2"
+    }
+  },
+
+  "EASportsUFC3": {
+    "name": "EA Sports UFC 3",
+    "platforms": ["PlayStation 4", "Xbox One"],
+    "release_year": 2018,
+    "playable_characters": [
+      {"name": "Israel Adesanya", "combat_style": "Kickboxing, wrestling, counter striking"},
+      {"name": "Valentina Shevchenko", "combat_style": "Muay Thai, BJJ, striking"},
+      {"name": "Conor McGregor", "combat_style": "Boxing, kickboxing, agile striking"},
+      {"name": "Jon Jones", "combat_style": "Wrestling, striking, submissions"},
+      {"name": "Ronda Rousey", "combat_style": "Judo, grappling, striking"},
+      {"name": "Anderson Silva", "combat_style": "Muay Thai, BJJ, striking"},
+      {"name": "Demetrious Johnson", "combat_style": "Wrestling, striking, submissions"},
+      {"name": "Khabib Nurmagomedov", "combat_style": "Wrestling, Sambo, grappling"},
+      {"name": "Max Holloway", "combat_style": "Boxing, Muay Thai"},
+      {"name": "Tony Ferguson", "combat_style": "Wrestling, BJJ, striking"}
+    ],
+    "martial_arts_used": [
+      "Boxing", "Kickboxing", "Muay Thai", "Brazilian Jiu-Jitsu", "Wrestling",
+      "Judo", "Karate", "Sambo", "Catch wrestling", "Submission grappling", "Clinch fighting"
+    ],
+    "youtube_trailer": "https://www.youtube.com/watch?v=Pgh7dGxVKWw",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=EA+Sports+UFC+3+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/EA_Sports_UFC_3",
+      "igdb": "https://www.igdb.com/games/ea-sports-ufc-3",
+      "gamespot": "https://www.gamespot.com/games/ea-sports-ufc-3/",
+      "google": "https://www.google.com/search?q=EA+Sports+UFC+3"
+    }
+  },
+
+  "EASportsUFC4": {
+    "name": "EA Sports UFC 4",
+    "platforms": ["PlayStation 4", "Xbox One"],
+    "release_year": 2020,
+    "playable_characters": [
+      {"name": "Khabib Nurmagomedov", "combat_style": "Wrestling, Sambo, submissions, grappling"},
+      {"name": "Jorge Masvidal", "combat_style": "Kickboxing, striking"},
+      {"name": "Israel Adesanya", "combat_style": "Kickboxing, wrestling, striking"},
+      {"name": "Valentina Shevchenko", "combat_style": "Muay Thai, BJJ, striking"},
+      {"name": "Conor McGregor", "combat_style": "Boxing, kickboxing, agile strikes"},
+      {"name": "Ronda Rousey", "combat_style": "Judo, grappling, striking"},
+      {"name": "Jon Jones", "combat_style": "Wrestling, striking, submissions"},
+      {"name": "Stipe Miocic", "combat_style": "Boxing, wrestling"},
+      {"name": "Amanda Nunes", "combat_style": "BJJ, striking"},
+      {"name": "Dustin Poirier", "combat_style": "Boxing, Muay Thai"},
+      {"name": "Tony Ferguson", "combat_style": "Wrestling, BJJ, striking"},
+      {"name": "Max Holloway", "combat_style": "Boxing, Muay Thai"},
+      {"name": "Daniel Cormier", "combat_style": "Wrestling, striking, BJJ"}
+    ],
+    "martial_arts_used": [
+      "Boxing", "Kickboxing", "Muay Thai", "Brazilian Jiu-Jitsu", "Wrestling",
+      "Judo", "Karate", "Sambo", "Catch wrestling", "Submission grappling", "Clinch fighting"
+    ],
+    "youtube_trailer": "https://www.youtube.com/watch?v=-Pq2ENj4Ekw",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=EA+Sports+UFC+4+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/EA_Sports_UFC_4",
+      "igdb": "https://www.igdb.com/games/ea-sports-ufc-4",
+      "gamespot": "https://www.gamespot.com/games/ea-sports-ufc-4/",
+      "google": "https://www.google.com/search?q=EA+Sports+UFC+4"
+    }
+  },
+
+  "EASportsUFC5": {
+    "name": "EA Sports UFC 5",
+    "platforms": ["PlayStation 5", "Xbox Series X", "Xbox Series S"],
+    "release_year": 2023,
+    "playable_characters": [
+      {"name": "Alexander Volkanovski", "combat_style": "Boxing, wrestling, pressure striking"},
+      {"name": "Israel Adesanya", "combat_style": "Kickboxing, counter striking, movement-based striking"},
+      {"name": "Valentina Shevchenko", "combat_style": "Muay Thai, taekwondo, grappling"},
+      {"name": "Leon Edwards", "combat_style": "Kickboxing, clinch striking, wrestling"},
+      {"name": "Kamaru Usman", "combat_style": "Wrestling, striking, clinch control"},
+      {"name": "Jon Jones", "combat_style": "Wrestling, creative striking, submissions"},
+      {"name": "Amanda Nunes", "combat_style": "Brazilian Jiu-Jitsu, striking, ground-and-pound"},
+      {"name": "Sean O'Malley", "combat_style": "Boxing, kickboxing, rangy striking"},
+      {"name": "Dustin Poirier", "combat_style": "Boxing, Muay Thai, BJJ"},
+      {"name": "Khabib Nurmagomedov", "combat_style": "Wrestling, Sambo, top control grappling"}
+    ],
+    "martial_arts_used": [
+      "Boxing",
+      "Kickboxing",
+      "Muay Thai",
+      "Brazilian Jiu-Jitsu",
+      "Wrestling",
+      "Judo",
+      "Karate",
+      "Sambo",
+      "Taekwondo",
+      "Submission grappling",
+      "Clinch fighting",
+      "Ground-and-pound"
+    ],
+    "youtube_trailer": "https://www.youtube.com/watch?v=1R4MdobS1nI",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=EA+Sports+UFC+5+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/EA_Sports_UFC_5",
+      "igdb": "https://www.igdb.com/games/ea-sports-ufc-5",
+      "gamespot": "https://www.gamespot.com/games/ea-sports-ufc-5/",
+      "google": "https://www.google.com/search?q=EA+Sports+UFC+5"
+    }
+  }
+}

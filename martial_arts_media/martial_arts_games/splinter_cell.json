@@ -1,0 +1,61 @@
+{
+  "SplinterCellConviction": {
+    "name": "Tom Clancy's Splinter Cell: Conviction",
+    "platforms": [
+      "Xbox 360",
+      "PC"
+    ],
+    "release_year": 2010,
+    "playable_characters": [
+      {
+        "name": "Sam Fisher",
+        "combat_style": "Stealth-focused hand-to-hand combat incorporating Krav Maga strikes, joint locks, takedowns, and weapon-assisted techniques"
+      }
+    ],
+    "martial_arts_used": [
+      "Krav Maga",
+      "Stealth combat",
+      "Weapon-assisted combat"
+    ],
+    "youtube_trailer": "https://www.youtube.com/watch?v=6Ww_IFU6kg4",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Splinter+Cell+Conviction+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Tom_Clancy%27s_Splinter_Cell:_Conviction",
+      "igdb": "https://www.igdb.com/games/splinter-cell-conviction",
+      "gamespot": "https://www.gamespot.com/games/splinter-cell-conviction/",
+      "google": "https://www.google.com/search?q=Splinter+Cell+Conviction"
+    }
+  },
+
+  "SplinterCellBlacklist": {
+    "name": "Tom Clancy's Splinter Cell: Blacklist",
+    "platforms": [
+      "PlayStation 3",
+      "Xbox 360",
+      "Wii U",
+      "PC"
+    ],
+    "release_year": 2013,
+    "playable_characters": [
+      {
+        "name": "Sam Fisher",
+        "combat_style": "Stealth and close-quarters combat combining Krav Maga, Russian Systema, and Filipino Kali techniques with chokeholds, takedowns, and gadget integration"
+      }
+    ],
+    "martial_arts_used": [
+      "Krav Maga",
+      "Russian Systema",
+      "Filipino Kali",
+      "Stealth combat",
+      "Gadget-assisted combat"
+    ],
+    "youtube_trailer": "https://www.youtube.com/watch?v=wYGoFH6bWXg",
+    "youtube_combat_search": "https://www.youtube.com/results?search_query=Splinter+Cell+Blacklist+combat+gameplay",
+    "info_links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Tom_Clancy%27s_Splinter_Cell:_Blacklist",
+      "igdb": "https://www.igdb.com/games/splinter-cell-blacklist",
+      "gamespot": "https://www.gamespot.com/games/splinter-cell-blacklist/",
+      "google": "https://www.google.com/search?q=Splinter+Cell+Blacklist"
+    }
+  }
+}

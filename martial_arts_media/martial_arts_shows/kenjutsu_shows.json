@@ -1,0 +1,78 @@
+{
+  "AfroSamurai": {
+    "name": "Afro Samurai",
+    "format": "Animated TV series",
+    "release_year": 2007,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "language": "English",
+    "plot": "In a feudal-futuristic Japan, Afro Samurai seeks revenge for his father's murder by battling other warriors to claim the ultimate headband, with katana duels and sword combat driving the story.",
+    "youtube": {
+      "trailer": "https://www.youtube.com/watch?v=cnZS1M23gRE",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=afro+samurai+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0917563/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Afro_Samurai",
+    "google_link": "https://www.google.com/search?q=Afro+Samurai+TV+series"
+  },
+  "LastSamuraiStanding": {
+    "name": "Last Samurai Standing",
+    "format": "Live-action TV series",
+    "release_year": 2025,
+    "genre": [
+      "Action",
+      "Drama",
+      "Historical"
+    ],
+    "language": "Japanese",
+    "plot": "Set in the Meiji era, former samurai compete in a deadly survival contest, using katana combat and strategy to be the last warrior standing.",
+    "youtube": {
+      "trailer": "https://www.youtube.com/watch?v=eLfE-WiHAWU",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=last+samurai+standing+katana+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt18345522/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Last_Samurai_Standing_(TV_series)",
+    "google_link": "https://www.google.com/search?q=Last+Samurai+Standing+Netflix+TV+series"
+  },
+  "RurouniKenshin": {
+    "name": "Rurouni Kenshin",
+    "format": "Animated TV series",
+    "release_year": 2023,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Historical"
+    ],
+    "language": "Japanese",
+    "plot": "A wandering master swordsman with a reverse-blade katana protects the innocent while confronting his deadly past, with swordplay central to his journey.",
+    "youtube": {
+      "trailer": "https://www.youtube.com/watch?v=V83Kxuvt9Jc",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=rurouni+kenshin+sword+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt23289096/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Rurouni_Kenshin_(2023_TV_series)",
+    "google_link": "https://www.google.com/search?q=Rurouni+Kenshin+2023+anime"
+  },
+  "Shogun": {
+    "name": "Shōgun",
+    "format": "Live-action TV series",
+    "release_year": 2024,
+    "genre": [
+      "Historical",
+      "Drama",
+      "Action"
+    ],
+    "language": "English",
+    "plot": "An English navigator is shipwrecked in 17th-century Japan, becoming embroiled in samurai politics and katana-driven conflicts while navigating culture, honor, and intrigue.",
+    "youtube": {
+      "trailer": "https://www.youtube.com/watch?v=yAN5uspO_hk",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=shogun+2024+sword+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt14422228/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Sh%C5%8Dgun_(2024_TV_series)",
+    "google_link": "https://www.google.com/search?q=Shogun+2024+TV+series"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "HouseOfNinjas": {
+    "name": "House of Ninjas",
+    "format": "Live-action TV series",
+    "release_year": 2024,
+    "genre": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "language": "Japanese",
+    "plot": "A modern Japanese family descended from elite ninjas is forced back into the world of covert operations, espionage, and traditional ninjutsu after years of living a normal life.",
+    "youtube": {
+      "trailer": "https://www.youtube.com/watch?v=F78Pgj5w47k",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=house+of+ninjas+ninja+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt30459041/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/House_of_Ninjas",
+    "google_link": "https://www.google.com/search?q=House+of+Ninjas+Netflix"
+  },
+  "Naruto": {
+    "name": "Naruto",
+    "format": "Animated TV series",
+    "release_year": 2002,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "language": "Japanese",
+    "plot": "In a world organized around hidden ninja villages, young ninja train, undertake missions, and engage in espionage and warfare while mastering increasingly powerful and stylized forms of ninjutsu rooted in clan traditions.",
+    "youtube": {
+      "trailer": "https://www.youtube.com/watch?v=-G9BqkgZXRA",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=naruto+ninja+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0409591/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Naruto",
+    "google_link": "https://www.google.com/search?q=Naruto+anime"
+  },
+  "ShadowWarriors": {
+    "name": "Shadow Warriors (Kage no Gundan)",
+    "format": "Live-action TV series",
+    "release_year": 1980,
+    "genre": [
+      "Action",
+      "Historical",
+      "Drama"
+    ],
+    "language": "Japanese",
+    "plot": "A secret team of Iga ninjas carries out espionage, assassinations, and sabotage missions in feudal Japan, serving powerful lords while operating entirely from the shadows.",
+    "youtube": {
+      "trailer": "https://www.youtube.com/watch?v=Y3qodeZxRk0",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=shadow+warriors+sonny+chiba+ninja+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0202174/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Kage_no_Gundan",
+    "google_link": "https://www.google.com/search?q=Shadow+Warriors+Kage+no+Gundan"
+  },
+  "TMNT": {
+    "name": "Teenage Mutant Ninja Turtles (2003)",
+    "format": "Animated TV series",
+    "release_year": 2003,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "language": "English",
+    "plot": "Four mutant turtles trained in a fictionalized form of ninjutsu by their sensei Splinter defend New York City from criminal and alien threats, blending ninja aesthetics with superhero and science fiction storytelling.",
+    "youtube": {
+      "trailer": "https://www.youtube.com/watch?v=Dl8lqbKobrk",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=tmnt+2003+fight+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0280249/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_(2003_TV_series)",
+    "google_link": "https://www.google.com/search?q=TMNT+2003+TV+series"
+  },
+  "TheMaster": {
+    "name": "The Master",
+    "format": "Live-action TV series",
+    "release_year": 1984,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "language": "English",
+    "plot": "An elderly ninja master and his student travel across America, confronting criminals and rival assassins while preserving and teaching authentic ninjutsu traditions.",
+    "youtube": {
+      "trailer": "https://www.youtube.com/watch?v=lwI_4fmfocw",
+      "fight_scenes_search": "https://www.youtube.com/results?search_query=the+master+sho+kosugi+ninja+scenes"
+    },
+    "imdb_link": "https://www.imdb.com/title/tt0086760/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/The_Master_(American_TV_series)",
+    "google_link": "https://www.google.com/search?q=The+Master+1984+Sho+Kosugi"
+  }
+}
